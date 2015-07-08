@@ -10,13 +10,13 @@
   <body>
     <div class="row" style="text-align:center">
       <div class="small-12 small-centered columns">
-        <img src="/media/site_logo.gif" />
+        <img src="{{site.baseurl}}/media/site_logo.gif" />
       </div>
     </div>
+    <!--
     <div class="row">
     <nav class="top-bar" data-topbar role="navigation">
       <section class="top-bar-section">
-        <!-- Right Nav Section -->
         <ul class="right">
           <li class="active"><a href="#">Home</a></li>
           <li class="has-dropdown">
@@ -29,32 +29,15 @@
         </ul>
       </section>
     </nav>
+    -->
     </div>
     <div class="row">
-      <div class="medium-4 columns">
+      <div class="small-12 columns">
         <div class="panel">
-        Test
-        </div>
-      </div>
-      <div class="medium-4 columns">
-        <div class="panel" style="height:500px">
-        Test
-        sdfsd
-        fs
-        d
-        fsd
-        f
-        sd<br/>
-        fsdf
-        </div>
-      </div>
-      <div class="medium-4 columns">
-        <div class="panel">
-        Test
+        {{content}}
         </div>
       </div>
     </div>
-    {{content}}
     <!--
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <script src="bower_components/foundation/js/foundation.min.js"></script>

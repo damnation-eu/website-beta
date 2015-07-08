@@ -4,7 +4,7 @@
 @import "foundation";
 
 body {
-  background: url("/media/background.jpg") no-repeat 50%;
+  background: url("{{site.baseurl}}/media/background.jpg") no-repeat 50%;
 }
 
 // Or selectively include components
