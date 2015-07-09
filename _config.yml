@@ -1,4 +1,5 @@
 baseurl: "/website-beta"
+exclude: ['.git','.gitignore','Gemfile','Gemfile.lock']
 sass:
     style: :compressed
 defaults:
