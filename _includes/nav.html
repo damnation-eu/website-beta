@@ -15,7 +15,7 @@
   {% assign th = level | minus: 1 %}
   {% capture parent %}{%for e in node_path limit:level %}/{{e}}{%endfor%}{% endcapture %}
 <li class="has-dropdown{% if page.url contains parent %} active{% endif%}">
-<a href="{{site.baseurl}}{{parent}}">{%for e in node_path limit:1 offset:th %}{%include humanlink.html link=e%}{%endfor%}
+<a href="{{site.baseurl}}{{parent}}">{%for e in node_path offset:th %}{%include humanlink.html link=e%}{%endfor%}
 </a>
 <ul class="dropdown">
 {% endfor %}
