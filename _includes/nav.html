@@ -1,18 +1,10 @@
-<head>
-   <script src="js/vendor/modernizr.js"></script>
-   <script src="js/vendor/jquery.js"></script>
-   <script src="js/foundation/foundation.js"></script>
-   <script src="js/foundation/foundation.dropdown.js"></script>
-   <script src="js/foundation/foundation.topbar.js"></script>
-</head>
-
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container-fluid">
     <div>
       <ul class="nav navbar-nav">
         <li class="active"><a href="/website-beta">Home</a></li>
         <li><a href="https://damnation.eu/phpbb/">Forums</a></li> 
-        <li><a href="/website-beta/pve" class="has-dropdown active" data-dropdown="pve" data-options="is_hover:true">PvE2</a>
+        <li><a href="/website-beta/pve" class="has-dropdown active" data-dropdown="pve" data-options="is_hover:true">PvE</a>
         <ul id="pve" class="dropdown" data-dropdown-content>
           <li><a href="#">Link 1</a></li>
           <li><a href="#">Link 2</a></li>
@@ -25,18 +17,5 @@
         <li><a href="/website-beta/apply">Join</a></li> 
       </ul>
     </div>
-    
-    <a data-dropdown="drop1" aria-controls="drop1" aria-expanded="false">Has Dropdown</a>
-<ul id="drop1" class="f-dropdown" data-dropdown-content aria-hidden="true" tabindex="-1">
-  <li><a href="#">This is a link</a></li>
-  <li><a href="#">This is another</a></li>
-  <li><a href="#">Yet another</a></li>
-</ul>
-<a data-dropdown="drop2" aria-controls="drop2" aria-expanded="false">Has Content Dropdown</a>
-<div id="drop2" data-dropdown-content class="f-dropdown content" aria-hidden="true" tabindex="-1">
-  <p>Some text that people will think is awesome! Some text that people will think is awesome! Some text that people will think is awesome!</p>
-</div>
-
   </div>
-     <script> $(document).foundation(); </script>
 </nav>
