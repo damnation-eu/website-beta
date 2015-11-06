@@ -4,15 +4,13 @@
       <ul class="nav navbar-nav">
         <li class="active"><a href="/website-beta">Home</a></li>
         <li><a href="https://damnation.eu/phpbb/">Forums</a></li> 
-        <li class="f-dropdown">
-          <button class="btn btn-primary f-dropdown" type="button" data-toggle="f-dropdown">Dropdown Example
-          <span class="caret"></span></button>
-          <ul class="dropdown-button">
-            <li><a href="#">HTML</a></li>
-            <li><a href="#">CSS</a></li>
-            <li><a href="#">JavaScript</a></li>
-          </ul>
-        </li>      
+        <li><a href="#" data-dropdown="hover1" data-options="is_hover:true; hover_timeout:5000">Has Hover Dropdown</a>
+        <ul id="hover1" class="f-dropdown" data-dropdown-content>
+          <li><a href="#">This is a link</a></li>
+          <li><a href="#">This is another</a></li>
+          <li><a href="#">Yet another</a></li>
+        </ul> 
+        </li>
         <li><a href="/website-beta/creative">Creative</a></li> 
         <li><a href="/website-beta/minigames">Minigames</a></li> 
         <li><a href="/website-beta/abaddon">Abaddon</a></li> 
