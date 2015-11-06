@@ -1,28 +1,35 @@
-<ul>
-{% assign pages = site.html_pages | sort: 'url' %}
-{% assign level = 1 %}
-{% for node in pages %}
-{% assign node_path = node.url | remove_first:'/' | split: '/' %}
-{% assign node_depth = node_path | size %}
-{% assign node_name = node_path | last | split: '.' | first %}
-{% if node_name == 'index' %} {% continue '%} {% endif '%} 
-{% assign th = level | minus: 1 %}
-{% for i in (node_depth..th) %}
-  </ul></li>
-{% endfor %}
-{% assign th = level | plus: 1 %}
-{% for i in (th..node_depth) %}
-  {% assign th = level | minus: 1 %}
-  {% capture parent %}{%for e in node_path limit:level %}/{{e}}{%endfor%}{% endcapture %}
-<li class="has-dropdown{% if page.url contains parent %} active{% endif%}">
-<a href="{{site.baseurl}}{{parent}}">{%for e in node_path limit:1 offset:th %}{%include humanlink.html link=e%}{%endfor%}
-</a>
-<ul class="dropdown">
-{% endfor %}
-<li {%if node.url == page.url%}class="active"{%endif%}><a href="{{site.baseurl}}{{node.url}}">{%include humanlink.html link=node_name%}</a></li>
-{% assign level = node_depth %}
-{% endfor %}
-{% for i in (1..node_depth) %}
-  </ul>
-{% endfor %}
-</ul>
+<body>
+  
+  <script src="js/vendor/jquery.js"></script>
+  <script src="js/foundation/foundation.js"></script>
+  <script src="js/foundation/foundation.topbar.js"></script>
+  <script src="js/foundation/foundation.dropdown.js"></script>
+  <!-- Other JS plugins can be included here -->
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="/website-beta">Home</a></li>
+        <li><a href="https://damnation.eu/phpbb/">Forums</a></li> 
+        <li><a href="/website-beta/pve" class="has-dropdown active" data-dropdown="pve" data-options="is_hover:true">PvE</a>
+        <ul id="pve" class="dropdown" data-dropdown-content>
+          <li><a href="#">Link 1</a></li>
+          <li><a href="#">Link 2</a></li>
+          <li><a href="#">Link 3</a></li>
+        </ul>
+        </li>
+        <li><a href="/website-beta/creative">Creative</a></li> 
+        <li><a href="/website-beta/minigames">Minigames</a></li> 
+        <li><a href="/website-beta/abaddon">Abaddon</a></li> 
+        <li><a href="/website-beta/apply">Join</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <script>
+    $(document).foundation();
+  </script>
+
+</body>

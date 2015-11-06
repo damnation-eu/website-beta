@@ -1,0 +1,28 @@
+<ul>
+{% assign pages = site.html_pages | sort: 'url' %}
+{% assign level = 1 %}
+{% for node in pages %}
+{% assign node_path = node.url | remove_first:'/' | split: '/' %}
+{% assign node_depth = node_path | size %}
+{% assign node_name = node_path | last | split: '.' | first %}
+{% if node_name == 'index' %} {% continue '%} {% endif '%} 
+{% assign th = level | minus: 1 %}
+{% for i in (node_depth..th) %}
+  </ul></li>
+{% endfor %}
+{% assign th = level | plus: 1 %}
+{% for i in (th..node_depth) %}
+  {% assign th = level | minus: 1 %}
+  {% capture parent %}{%for e in node_path limit:level %}/{{e}}{%endfor%}{% endcapture %}
+<li class="has-dropdown{% if page.url contains parent %} active{% endif%}">
+<a href="{{site.baseurl}}{{parent}}">{%for e in node_path limit:1 offset:th %}{%include humanlink.html link=e%}{%endfor%}
+</a>
+<ul class="dropdown">
+{% endfor %}
+<li {%if node.url == page.url%}class="active"{%endif%}><a href="{{site.baseurl}}{{node.url}}">{%include humanlink.html link=node_name%}</a></li>
+{% assign level = node_depth %}
+{% endfor %}
+{% for i in (1..node_depth) %}
+  </ul>
+{% endfor %}
+</ul>
