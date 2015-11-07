@@ -1,11 +1,13 @@
+---
+---
 ## Step 1: Read and Accept Server Rules 
-Read the [Rules and Policies](../pve/Rules_and_Policies Rules and Policies). The rules are very important to us. We are looking for players who want to be part of a grown-up minecraft community. Although age is no guarantee of maturity, players of 18+ years have already had (at least) some (if not lots of) life experience, and will understand that a community needs some sort of structure in order to maintain its existence. Our community has grown and developed, since 2011. Sections of our minecraft community have been playing minecraft together for almost three years, so we've been around. Our rules are important to us to help define, protect, shape and guide our community. Don't take them lightly.
+Read the [Rules and Policies](../pve/Rules_and_Policies "Rules and Policies"). The rules are very important to us. We are looking for players who want to be part of a grown-up minecraft community. Although age is no guarantee of maturity, players of 18+ years have already had (at least) some (if not lots of) life experience, and will understand that a community needs some sort of structure in order to maintain its existence. Our community has grown and developed, since 2011. Sections of our minecraft community have been playing minecraft together for almost three years, so we've been around. Our rules are important to us to help define, protect, shape and guide our community. Don't take them lightly.
 
 ## Step 2: Register on the forum
-[Register on the damNation forum](http://damnation.eu/phpbb/ucp.php?mode=register Register). Your forum username **must be exactly identical** to your Minecraft name! Do **NOT** use the same password though. Activate your account via the verification email. Be sure to check your spam folder.
+[Register on the damNation forum](http://damnation.eu/phpbb/ucp.php?mode=register "Register"). Your forum username **must be exactly identical** to your Minecraft name! Do **NOT** use the same password though. Activate your account via the verification email. Be sure to check your spam folder.
 
 ## Step 3: Complete the details of your application
-With the topic subject **only your username** and **nothing else**, make a "new topic" in [New Registrations forum](https://damnation.eu/phpbb/posting.php?mode=post&f=21 New Registrations).
+With the topic subject **only your username** and **nothing else**, make a "new topic" in [New Registrations forum](https://damnation.eu/phpbb/posting.php?mode=post&f=21 "New Registrations").
 
 Answer (copy and paste, please) the 9 questions below in your application on the forum. Our forum is where you will find out if you will be accepted, or in time perhaps promoted, or heaven forbid, warned, or (it does happen to some people) banned.
 
