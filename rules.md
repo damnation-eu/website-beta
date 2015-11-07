@@ -9,7 +9,7 @@ This server is intended for mature players with more than half-a-brain and we ex
 
 ## Server Rules
 
-- **Rule 1** - You must be at least <span style="color: red;">**18**</span> years of age. [Read more](/membership-age) about why we have a minimum age requirement.
+- **Rule 1** - You must be at least <span style="color: red;">**18**</span> years of age. [Read more](/website-beta/membership-age) about why we have a minimum age requirement.
 
 - **Rule 2** - Be courteous and respect others. Agree to disagree.
 
