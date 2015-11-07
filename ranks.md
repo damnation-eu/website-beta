@@ -15,6 +15,7 @@ Apprentice and Journeyman are ranks that are part of your membership to the serv
 
 
 ## Members
+
 ### Apprentice
 <span style="color: #00cd00;">**Green**</span> - The first probationary rank. Can do most things, but have a few limitations for protection and avoiding grief.
 
