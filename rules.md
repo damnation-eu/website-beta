@@ -111,3 +111,25 @@ Before we get to this list, this is a fair warning - **ANY** client-side mod tha
 * **Speed Mods**
 * **Kill Aura**
 * **Fast Attacking**
+
+---
+
+## Grief and Theft
+
+Our rules adequately cover every-day grief and theft issues, which will result in a ban. There are some instances where further explanation is required, however.
+
+### Players who Quit
+
+Regardless of how long ago a player was on the server, their builds are still considered theirs and theirs only. You may not raze any old build without prior approval from an admin. We will give approval where it makes sense, usually when a build is unfinished or insignificant. Never take that decision yourself.
+
+### Banned Players
+
+When it comes to banned players, you may absolutely **NOT** go and take their stuff or raze their builds. When a player is banned, **all their rights, their builds and all their stuff belongs to the State**. Any resource acquisition is decided by the admins. Even if you know the person IRL, or regardless of what they say when they are banned is of no consequence. Once a ban is in place, the state owns everything they did. I.e. a banned player may not donate or give anything to friends still on the server. If there is something you need or did together, you must ask for admin approval (which is of course given where it makes sense).
+
+---
+
+## Referral Bonus
+
+If new applicants list you as the referrer, you will receive 200c when they become an Apprentice. To earn this, you must verify that you referred them in their application thread before it is approved **OR** verify an admin afterwards.
+
+We also notice players are helpful with tourists in chat and helping them join, which we like. But telling them to put you up as the referrer in their application will be noted and in such cases we will not pay the referral fee. Note that if that player is banned/warned you will be fined at least 400 crowns. So make sure you refer those players that you know and not only to make a quick buck off a tourist you don't know.
