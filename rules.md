@@ -95,6 +95,7 @@ Before we get to this list, this is a fair warning - **ANY** client-side mod tha
 
 
 <span style="color: gray;">**Gray Zone**</span> - Borderline. You would be wise to ask about these
+
 * **Mod Macros**
       * functions that give an unfair advantage in PvP and allow for AFK mining and farming of any kind are prohibited.
 * **Schematica and World Downloader**
