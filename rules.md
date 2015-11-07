@@ -1,5 +1,6 @@
 ---
 ---
+
 # Rules and Policies
 
 Whether you've successfully reached Initiate or just looking to see if you want to join our server, our rules and policies sections has been created to go in to detail about why our rules are what they are. Hopefully if you read this section you will not have any questions about the most frequently asked "do I, or don't I?" subjects. Most of it is common sense, but some if it is particular to this server.
@@ -82,32 +83,32 @@ Before we get to this list, this is a fair warning - **ANY** client-side mod tha
 
 <span style="color: green;">**Green Zone**</span> - Always allowed
 
-- **Optifine**
-- **TabbyChat**
-- **Convenient Inventory**
-- **Inventory Tweaks**
-- **M_Debugmod**
-- **Voxel Map**
-- **NoVoidFog**
-- **Damage Indicators**
-- **Any Shaders Pack**
+* **Optifine**
+* **TabbyChat**
+* **Convenient Inventory**
+* **Inventory Tweaks**
+* **M_Debugmod**
+* **Voxel Map**
+* **NoVoidFog**
+* **Damage Indicators**
+* **Any Shaders Pack**
 
 
 <span style="color: gray;">**Gray Zone**</span> - Borderline. You would be wise to ask about these
-- **Mod Macros**
-      - functions that give an unfair advantage in PvP and allow for AFK mining and farming of any kind are prohibited.
-- **Schematica and World Downloader**
-      - fine for use with your own builds, but not for other purpose. Must be approved on a case by case basis.
+* **Mod Macros**
+      * functions that give an unfair advantage in PvP and allow for AFK mining and farming of any kind are prohibited.
+* **Schematica and World Downloader**
+      * fine for use with your own builds, but not for other purpose. Must be approved on a case by case basis.
 
 
 <span style="color: red;">**Red Zone**</span> - Illegal. Any use will lead to fines, demotions, or global bans. Including but not limited to:
 
-- **Any of the notorious hacking clients**
-- **Xray Mods**
-- **Fly Mod**
-- **Auto Fishing or other AFK mods**
-- **Brightness Mods**
-- **Parachute Mods**
-- **Speed Mods**
-- **Kill Aura**
-- **Fast Attacking**
+* **Any of the notorious hacking clients**
+* **Xray Mods**
+* **Fly Mod**
+* **Auto Fishing or other AFK mods**
+* **Brightness Mods**
+* **Parachute Mods**
+* **Speed Mods**
+* **Kill Aura**
+* **Fast Attacking**
