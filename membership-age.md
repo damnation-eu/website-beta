@@ -1,3 +1,6 @@
+---
+---
+
 # Membership Age
 
 We require that all applicants are at least 18 years of age. This may be considered contentious by some, particularly those who consider themselves "close" to be 18 years of age, or somehow as (or more) capable of participating in mature community than those who are older. This page is written for those "younger" players who may be feeling a bit pissed about being declined based on age. Firstly, don't take it personally.
