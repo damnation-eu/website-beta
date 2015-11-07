@@ -21,7 +21,7 @@ The suggested minimum donation amount is 10 euro, the minimum to give you donor 
 Note: Donor privileges is a boon, they are NOT a "right". It is not a service you are buying, it is a thanks you are granted. Remember this difference. Rules must still be followed, and we reserve the right to remove privileges and ban users.
 
 
-> Need Icons here for each
+> **Need Icons here for each**
 
 Donate in Euros
 
