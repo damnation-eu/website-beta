@@ -19,9 +19,11 @@ This server is intended for mature players with more than half-a-brain and we ex
 ```
 
 - **Rule 4** - No exploits, duping, cheating, stealing, griefing, hacking, modded clients etc. We do allow some Client mods. Find out more.
+
 ```
       We have particular build requirements which you should pay close attention to.
 ```
+
 - **Rule 5** - Gather resources, but leave the landscape looking natural and beautiful, please.
 
 - **Rule 6** - No giant 2d builds outside of creative worlds. The only place you can build giant pixelart, voxelart, flags etc is creative.
@@ -56,9 +58,9 @@ We have a number of policies that deal with issues and situations outside of the
 
 Most people who visit our fine server are nice and polite. Unfortunately some, mostly confused youngsters, just don't know how to behave in a social internet environment or think that ruining the game by cheating is something worthy spending time on. Most of the time we can resolve issues peacefully, or just by muting. However, a select few we feel need to be banned, and other server owners should know about them too (that is why we have global banning systems). A ban for breaking the rules of one of our servers is a ban from all of our servers.
 
-'''
+```
        We see & log EVERYTHING! Not following the rules = BAN
-'''
+```
 
 Members bans are placed in the [Banned Members](http://damnation.eu/phpbb/viewforum.php?f=41) forum and a tombstone is usually placed at /warp graveyard. We do not make individual threads for visitor users, so you can find these additional bans from our server on our [MCBans page](http://mcbans.com/server/damNation.eu).
 
@@ -79,6 +81,7 @@ However, we do allow a handful of client mods that improve or ease your Minecraf
 Before we get to this list, this is a fair warning - **ANY** client-side mod that is not on this list could get you intro trouble if it is deemed to give an unfair advantage. For your sake and for ours, ask about any client-side mod you use that is not on this list.
 
 <span style="color: green;">**Green Zone**</span> - Always allowed
+
 - **Optifine**
 - **TabbyChat**
 - **Convenient Inventory**
@@ -98,6 +101,7 @@ Before we get to this list, this is a fair warning - **ANY** client-side mod tha
 
 
 <span style="color: red;">**Red Zone**</span> - Illegal. Any use will lead to fines, demotions, or global bans. Including but not limited to:
+
 - **Any of the notorious hacking clients**
 - **Xray Mods**
 - **Fly Mod**
