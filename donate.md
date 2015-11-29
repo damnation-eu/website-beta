@@ -19,6 +19,7 @@ All donor money will go 100% to server maintenance/upgrade costs and buying ads/
 
 Click the paypal link to donate in Euro (USD and SEK currencies also accepted). Don't forget to write your username (in the "purpose" field) so I know who to credit. When your transaction is complete, please forward the email receipt to **bunnies1230@gmail.com** and let an admin know in-game.
 
+
 ## [Click Here For Donation Links](https://damnation.eu/phpbb/viewtopic.php?f=19&t=8173)
 
 
@@ -27,13 +28,13 @@ Click the paypal link to donate in Euro (USD and SEK currencies also accepted). 
 **10+ euro / 10+ USD / 90+ SEK donated:** Donor privileges
 
 **100+ euro / 100+ USD / 900+ SEK donated:** Your own world 
-[list]
+
 * World according to your specifications/choices/wishes, hosted on damNation!
 * Creative worlds will be hosted on the Creative server
 * World may be imported from elsewhere or made from scratch.
 * Choose whether it is open to other players or just by yourself. 
 * If you want the world to share inventories with the main survival worlds, your world must be open to all players and will receive a Nexus portal.
-* Imported worlds may not have inventories linked.[/list]
+* Imported worlds may not have inventories linked.
 
 
 ### Donor Privileges
