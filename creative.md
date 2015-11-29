@@ -8,7 +8,7 @@ damNation hosts a dedicated creative server with a multitude of worlds to serve 
 
 * The server is reachable at any time from its portal at **/server hub** or directly through **/server creative**
 * All of your /homes from those worlds have been migrated to the creative server, so you can access your builds there.
-* The worlds that have been moved over are [i]every[/i] world with the default gamemode being "Creative"
+* The worlds that have been moved over are *every* world with the default gamemode being "Creative"
 * Not all worlds are accessible, as some are private player worlds. Many are accessible through a button hub near spawn
 * It has its own **dynmap**, which is still being rendered. You can find it [here](http://damnation.eu/creativemap/)
 * Arda has made its return to the server, taking its rightful place as the creative server's spawn world
