@@ -6,10 +6,15 @@ We archive many of the changes we make to the server so that the community knows
 
 
 ## 2015
- |  |  |  |  |  | 
---- | --- | --- | --- | --- | --- | ---
-[January](/changelog/2015/1.md) | [February](/changelog/2015/2.md) | [March](/changelog/2015/3.md) | [April](/changelog/2015/4.md) | May | June
-July | [August](/changelog/2015/8.md) | [September](/changelog/2015/9.md) | [October](/changelog/2015/10.md) | [November](/changelog/2015/11.md) | [December](/changelog/2015/12.md)
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|[January](/changelog/2015/1.md) | [February](/changelog/2015/2.md) | [March](/changelog/2015/3.md) | [April](/changelog/2015/4.md) | May | June |
+|July | [August](/changelog/2015/8.md) | [September](/changelog/2015/9.md) | [October](/changelog/2015/10.md) | [November](/changelog/2015/11.md) | [December](/changelog/2015/12.md)|
+
+|   	|   	|   	|   	|   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
 
 ## 2014
 | |
