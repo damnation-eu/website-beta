@@ -26,6 +26,7 @@ ___
 
 ## Members
 
+
 ### <span style="color: #e5c100;">Grim
 <span style="color: #e5c100;">**Gold**</span> - True gold status member. Reserved for our trusted outstanding community members with several weeks of gametime and significant contributions to the server in a variety of ways. Those who obtain this rank are nominated by staff members factoring in a few concrete requirements, but largely weighing the intangible positives. These players are typically the first chosen to beta-test new features that staff are working on.
 
@@ -40,7 +41,7 @@ ___
 * 5 Homes/world
 * 100 lockable doors/trapdoors/etc of each type
 
-### <span style="color: #00ffff;">Troll
+### <span style="color: #008080;">Troll
 <span style="color: #008080;">**Teal**</span>
 
 * 30 Stables slots (horses)
@@ -71,7 +72,7 @@ ___
 * Can purchase a shop on Main
 
 ### <span style="color: #006400;">Siren
-<span style="color: #00e5e5;">**Dark Green**</span> - Full Member. After playing on the server for about a week, most players will become eligible for this rank. Most focus of the server is having the Siren rank fully balanced and getting the broadest/fullest experience.
+<span style="color: #006400;">**Dark Green**</span> - Full Member. After playing on the server for about a week, most players will become eligible for this rank. Most focus of the server is having the Siren rank fully balanced and getting the broadest/fullest experience.
 
 * 5 Stables slots (horses)
 * 5 Plotme Plots
@@ -92,6 +93,7 @@ ___
 * 5 lockable doors/trapdoors/etc of each type
 
 ___
+
 ## Non Members
 
 ### Jackalope
