@@ -3,68 +3,49 @@
 
 # Donations
 
-It costs both money and time to run this server. The server is high-end dedicated hardware in an EU central datacenter. Annual costs of running the damNation service, RCA, websites, hosting, upgrades, totals over 1000 euros. But no worries, we're not going away anytime soon regardless. The server owner (who is Swedish, in case you are wondering why you can donate specifically in SEK) and staff can afford it, but some help, dedication and a show of appreciation of this “free” service you take advantage of is always welcomed.
+*Note: With many server changes since the last donations info page was drawn up, here is your one-stop reference for how donations are run on damNation!*
 
-We NEVER cripple non-donating members.
+It costs a fair amount (both money and time) to run this server. It's high-end dedicated hardware in a EU central datacenter. OriginalMadman foots the bill each month, but he does an awesome job keeping the server ticking over, and greatly appreciates your financial support. If would like to make a donation (in keeping with the terms of the MC EULA) to keep our dedicated server up and running, please throw some money via the PayPal links on the page linked below! Please put your player name in the notes however, so we know who to thank.
 
-Journeyman is the regular Full Member non-donor class, and it will remain fully featured.
+**We will NEVER cripple non-donating members.**
 
-Donations are strictly voluntary, and is something you do because you love the server and want to contribute a bit. First and foremost you receive a warm and cuddly feeling because you are helping keep this epic service online. Secondly, you MAY receive perks. These will never be game-breaking or unbalancing towards non-donors. However, these are perks. They are not guaranteed to be available, nor remain consistent in features. They WILL change. You must accept that.
+Donations are strictly voluntary, and is something you do because you love the server and want to contribute a bit. I try to offer rewards back that are nice, but not game-breaking or unbalancing towards non-donors (more suggestions welcome).
 
+The suggested donation amount is 10 euro. Any amount is fine (certainly more), but 10 euro is the minimum to give you donor privileges. You may donate more of course and I will be thankful and reward accordingly.
 
-## Donating
+***Note:** Donor privileges is a boon, they are NOT a "right". It is not a service you are buying, it is a thanks you are granted. Remember this difference. Rules must still be followed, and we reserve the right to remove privileges and ban users regardless of donations.*
 
-All money raised goes 100% to server maintenance/upgrade costs and buying ads/premium stuff for the server. Current goals are to reclaim some monthly costs, get and paying to support server marketing efforts.
+All donor money will go 100% to server maintenance/upgrade costs and buying ads/premiums stuff for the server. Current goals are to reclaim some monthly costs, get 16 GB more RAM (already done! we're on 32G) and buying premium listing on some of the server lists (suggestions welcome). Update: newest goals are a stronger server with a newer higher end i7 and fresh SSD drives.
 
-The suggested minimum donation amount is 10 euro, the minimum to give you donor privileges. You may donate less, or more of course.
+Click the paypal link to donate in Euro (USD and SEK currencies also accepted). Don't forget to write your username (in the "purpose" field) so I know who to credit. When your transaction is complete, please forward the email receipt to **bunnies1230@gmail.com** and let an admin know in-game.
 
-Note: Donor privileges is a boon, they are NOT a "right". It is not a service you are buying, it is a thanks you are granted. Remember this difference. Rules must still be followed, and we reserve the right to remove privileges and ban users.
-
-
-> **Need Icons here for each**
-
-Donate in Euros
-
-Donate in US Dollars 
-
-Donate in Swedish Kronor (SEK)
+## [Click Here For Donation Links](https://damnation.eu/phpbb/viewtopic.php?f=19&t=8173)
 
 
-### Minimum Donations
+### Rewards
 
-| **Status** | **Euro** | **USD** | **SEK** |
-|------------|----------|---------|---------|
-| For any Donation, 100 crowns for every | 1 | 1.3 | 9 |
-| Donor Status<sup>1</sup> | 10 | 13| 90|
-| Artisan Status<sup>2</sup> | 25 | 32| 225 |
-| Your own world<sup>3</sup> | 100 | 130 | 900 |
+**10+ euro / 10+ USD / 90+ SEK donated:** Donor privileges
 
-
-
-<sup>1</sup> Normally this is the Craftsman rank. If you are Initiate when you donate, you will be promoted to Artisan (donor equivalent rank)
-
-<sup>2</sup> Donating this amount will promote you to Artisan directly.
-
-<sup>3</sup> All according to your specifications/choices/wishes setup by yours truly (it may be imported from elsewhere or made from scratch) - where you will have all the powers you need/want. Can be open to other players or just by yourself.
+**100+ euro / 100+ USD / 900+ SEK donated:** Your own world 
+[list]
+* World according to your specifications/choices/wishes, hosted on damNation!
+* Creative worlds will be hosted on the Creative server
+* World may be imported from elsewhere or made from scratch.
+* Choose whether it is open to other players or just by yourself. 
+* If you want the world to share inventories with the main survival worlds, your world must be open to all players and will receive a Nexus portal.
+* Imported worlds may not have inventories linked.[/list]
 
 
-## Donor Perks 
+### Donor Privileges
 
-* mcMMO experience gain is +50%
-* mcMMO abilities last for an extra 8 seconds (regular players have +4 seconds)
-* mcMMO ability cooldown timer is reduced by 25%
-* Five (5) homes per world
-* No fee for teleporting to /home
-* No warmup period for teleporting!
-* Access to the superjump /upp command (really helps building!)
-* Lots of minor benefits and tweaks in the plugins, see the Commands & Plugins Reference for details.
-* 100 of each doors/trapdoors/gates/etc can be locked
-* Access to the teleportation /back command (returning you to last location)
-* Ability to set Time in Creative Worlds
-* Eligible to apply for WorldEdit functions in Creative Worlds
-* WorldEdit functions immediately available in Creative Plotworlds (100x100 and 256x256 plots)
-* More plots buyable in Creative Plotworld
-* Eligible for trust to use TNT (Artisan level)
-* Your name in the nicer donor colours!
-* Your name in the Halls of Donors (currently City Hall in Spawn City) /warp saints
-* The server staffs’ good graces and eternal thanks!
+*Subject to change at any time*
+
+* Echopet - Your own pet to follow you around, ride, put on your head, or name! **(/pet)**
+* Colored Anvils - Color your items and gear with color codes in an anvil!
+* Have a slot for server messages - Reserve a slot on the rotating server messages! (COMING SOON)
+* Particle Trails - have shimmery particles follow you around wherever you go! **(/trails)**
+* **More to come! Always looking for suggestions!**
+
+The more donors we get, the more inclined I will be to add nice features/worlds/specials for the donors. So help us out here...
+
+***Note:** Donor privileges is a boon, they are NOT a "right". It is not a service you are buying, it is a thanks you are granted. Remember this difference. Rules must still be followed, and we reserve the right to remove privileges and ban users regardless of donations, but we'll certainly be a bit more inclined towards our donors...*
