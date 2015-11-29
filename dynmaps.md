@@ -9,7 +9,7 @@ Most of our servers have live Dynmaps available at any time. You can visit them 
 [mainlink]: http://damnation.eu/dynmap
 
 ![image][maindyn]
-![image](/media/site_logo.gif)
+![image](website-beta/media/site_logo.gif)
 
 [![image2][crdyn]][crlink]
 [crdyn]: /media/site_logo.gif
