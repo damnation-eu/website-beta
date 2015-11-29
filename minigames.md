@@ -22,3 +22,6 @@ There are only a handful of game-specific commands you will need to know. The ma
 
 ##Staff
 If you have any questions, about the server, you can ask any admin, but direct most comments, questions, and concerns to the leading developers of the server, **bunnies1230** and **Madame**.
+
+##History
+Our minigames server began as RagnaCraft Adventures, the brainchild of Kurusca, who put months upon months of work into the server. Since its inception, it has evolved through many different forms into the server you now play on.
