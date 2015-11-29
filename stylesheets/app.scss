@@ -4,11 +4,10 @@
 @import "foundation";
 
 body {
-  background-image: url("{{site.baseurl}}/media/background.jpg");
+  background-image: url("{{site.baseurl}}/media/background.jpg")
   background-size: 50%;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  margin: 200px;
 }
 
 // Or selectively include components
