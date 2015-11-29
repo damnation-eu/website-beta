@@ -14,39 +14,43 @@ damNation has recently renovated its ranks to expand the variety of ranks access
 Unlike some servers, becoming staff on damNation should never be an expectation, but rather a privilege that comes with many responsibilities and high levels of trust. Our entirely volunteer staff work long and hard to keep damnNation the best it can be so all can enjoy its community and features. However, you can do your part by error-reporting and giving other feedback that help us make sure we are running the kind of server we can all enjoy. If you'd like to know more about our staff members, talk to them in game or visit their Staff Biography Pages.
 
 ### <span style="color: #7f0000;">Wraith
-**Dark Red**</span> - Owner/Lead Administrator. These staff members handle a great deal of the backend of server maintenance in addition to the in-game duties of Djinni.
+<span style="color: #7f0000;">**Dark Red**</span> - Owner/Lead Administrator. These staff members handle a great deal of the backend of server maintenance in addition to the in-game duties of Djinni.
 
 ### <span style="color: red;">Djinni
-**Red**</span> - Administrator. These staff members are equipped to handle the bulk of admin work needed on the server, from setting up regions, to welcoming and helping players, to handling disputes and griefings.
+<span style="color: red;">**Red**</span> - Administrator. These staff members are equipped to handle the bulk of admin work needed on the server, from setting up regions, to welcoming and helping players, to handling disputes and griefings.
 
 ### <span style="color: #f2afcc;">Gremlin
-**Pink**</span> - Moderator. These staff members are in charge of chat and player moderation.
+<span style="color: #f2afcc;">**Pink**</span> - Moderator. These staff members are in charge of chat and player moderation.
 
 ___
 
 ## Members
 
-### Grim
+### <span style="color: #e5c100;">Grim
 <span style="color: #e5c100;">**Gold**</span> - True gold status member. Reserved for our trusted outstanding community members with several weeks of gametime and significant contributions to the server in a variety of ways. Those who obtain this rank are nominated by staff members factoring in a few concrete requirements, but largely weighing the intangible positives. These players are typically the first chosen to beta-test new features that staff are working on.
+
 * Access to all Donor Perks
 * Free build in Deos Mundi in Creative
 
-### Chimera
+### <span style="color: #551a8b;">Chimera
 <span style="color: #551a8b;">**Purple**</span> - The highest player rank attainable on the objective-based ladder. Indicative of players who have spent a great deal of time contributing to the server and developing their own projects.
+
 * 40 Stables slots (horses)
 * 25 Plotme Plots
 * 5 Homes/world
 * 100 lockable doors/trapdoors/etc of each type
 
-### Troll
-<span style="color: #00ffff;">**Cyan**</span>
+### <span style="color: #00ffff;">Troll
+<span style="color: #008080;">**Teal**</span>
+
 * 30 Stables slots (horses)
 * 15 Plotme Plots
 * 4 Homes/world
 * 75 lockable doors/trapdoors/etc of each type
 
-### Hydra
+### <span style="color: #4c4cff;">Hydra
 <span style="color: #4c4cff;">**Blue**</span>
+
 * 25 Stables slots (horses)
 * 10 Plotme Plots
 * 4 Homes/world
@@ -57,16 +61,18 @@ ___
 * Access to World Edit in Creative
 * Can use TNT on Main
 
-### Gargoyle
+### <span style="color: #00e5e5;">Gargoyle
 <span style="color: #00e5e5;">**Aqua**</span>
+
 * 10 Stables slots (horses)
 * 8 Plotme Plots
 * 3 Homes/world
 * 25 lockable doors/trapdoors/etc of each type
 * Can purchase a shop on Main
 
-### Siren
+### <span style="color: #006400;">Siren
 <span style="color: #00e5e5;">**Dark Green**</span> - Full Member. After playing on the server for about a week, most players will become eligible for this rank. Most focus of the server is having the Siren rank fully balanced and getting the broadest/fullest experience.
+
 * 5 Stables slots (horses)
 * 5 Plotme Plots
 * 3 Homes/world
@@ -77,8 +83,9 @@ ___
 * Can use basic CraftBook mechanics
 * Can use CraftBook Minecart mechanics
 
-### Goblin
+### <span style="color: #00cd00;">Goblin
 <span style="color: #00cd00;">**Green**</span> - New Member. Can do most things, but have a few limitations for protection and avoiding grief.
+
 * 1 Stables slots (horses)
 * 1 Plotme Plots
 * 1 Homes/world
