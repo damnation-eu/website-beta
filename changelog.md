@@ -15,7 +15,7 @@ We archive many of the changes we make to the server so that the community knows
 * June
 * July
 * [August](/website-beta/cl/2015/8)
-* [September](/website-beta/cl/2015/9)
+* September
 * [October](/website-beta/cl/2015/10)
 * [November](/website-beta/cl/2015/11)
 * [December](/website-beta/cl/2015/12)
