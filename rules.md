@@ -3,13 +3,15 @@
 
 # Rules and Policies
 
-Whether you've successfully reached Initiate or just looking to see if you want to join our server, our rules and policies sections has been created to go in to detail about why our rules are what they are. Hopefully if you read this section you will not have any questions about the most frequently asked "do I, or don't I?" subjects. Most of it is common sense, but some if it is particular to this server.
+Whether you've successfully reached a veteran rank or just looking to see if you want to join our server, our rules and policies sections has been created to go in to detail about why our rules are what they are. Hopefully if you read this section you will not have any questions about the most frequently asked "do I, or don't I?" subjects. Most of it is common sense, but some if it is particular to this server.
+
+This page details our server rules as well as policies about **Bans**, **Appeals**, **Griefing/Theft**, and **Referral Bonuses**. Scroll down to read more about those specific entries.
 
 This server is intended for mature players with more than half-a-brain and we expect EVERYONE here to behave accordingly.
 
 ## Server Rules
 
-- **Rule 1** - You must be at least <span style="color: red;">**18**</span> years of age. [Read more](/website-beta/membership-age) about why we have a minimum age requirement.
+- **Rule 1** - You must be able to act maturely. [Read more](/website-beta/membership-age) about our Membership Age Policy
 
 - **Rule 2** - Be courteous and respect others. Agree to disagree.
 
@@ -130,6 +132,6 @@ When it comes to banned players, you may absolutely **NOT** go and take their st
 
 ## Referral Bonus
 
-If new applicants list you as the referrer, you will receive 200c when they become an Apprentice. To earn this, you must verify that you referred them in their application thread before it is approved **OR** verify an admin afterwards.
+If new applicants list you as the referrer, you will receive 200c when they become an Goblin. To earn this, you must verify that you referred them in their application thread before it is approved **OR** verify an admin afterwards.
 
 We also notice players are helpful with tourists in chat and helping them join, which we like. But telling them to put you up as the referrer in their application will be noted and in such cases we will not pay the referral fee. Note that if that player is banned/warned you will be fined at least 400 crowns. So make sure you refer those players that you know and not only to make a quick buck off a tourist you don't know.
