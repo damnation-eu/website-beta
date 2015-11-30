@@ -22,54 +22,54 @@ ___
 <a href="{{site.baseurl}}/homeland">
   <img src="{{site.baseurl}}/media/Worlds_Homeland.png"></a>
 <a href="{{site.baseurl}}/the-nether">
-  <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Nether.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Nether.png"></a>
 <a href="{{site.baseurl}}/the-end">
-  <img style="float: right; width: 464px" src="{{site.baseurl}}/media/Worlds_End.png"></a>
+  <img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_End.png"></a>
 <a href="{{site.baseurl}}/earthsea">
-  <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Earthsea.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Earthsea.png"></a>
 <a href="{{site.baseurl}}/glorantha">
-  <img style="float: right; width: 464px" src="{{site.baseurl}}/media/Worlds_Glorantha.png"></a>
+  <img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Glorantha.png"></a>
 <a href="{{site.baseurl}}/iuvem">
-  <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Iuvem.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Iuvem.png"></a>
 <a href="{{site.baseurl}}/hammerfell">
-  <img style="float: right; width: 464px" src="{{site.baseurl}}/media/Worlds_Hammerfell.png"></a>
+  <img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Hammerfell.png"></a>
 <a href="{{site.baseurl}}/tremoria">
-  <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Tremoria.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Tremoria.png"></a>
 <a href="{{site.baseurl}}/land-of-reminiscence">
-  <img style="float: right; width: 464px" src="{{site.baseurl}}/media/Worlds_Remini.png"></a>
+  <img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Remini.png"></a>
 <a href="{{site.baseurl}}/panau">
-  <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Panau.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Panau.png"></a>
 <a href="{{site.baseurl}}/etheria">
-  <img style="float: right; width: 464px" src="{{site.baseurl}}/media/Worlds_Etheria.png"></a>
+  <img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Etheria.png"></a>
 <a href="{{site.baseurl}}/foundland">
-  <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Foundland.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Foundland.png"></a>
 <a href="{{site.baseurl}}/kaleida">
-  <img style="float: right; width: 464px" src="{{site.baseurl}}/media/Worlds_Kaleida.png"></a>
+  <img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Kaleida.png"></a>
 <a href="{{site.baseurl}}/hoth">
-  <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Hoth.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Hoth.png"></a>
 <a href="{{site.baseurl}}/koothann-world">
-  <img style="float: right; width: 464px" src="{{site.baseurl}}/media/Worlds_Koothann.png"></a>
+  <img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Koothann.png"></a>
 
 ___
 <div style="text-align: center;" markdown="1">
 ##Specialty Worlds
 </div>
 <a href="{{site.baseurl}}/islandworld">
-  <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_IslandWorld.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_IslandWorld.png"></a>
 <a href="{{site.baseurl}}/skygrid">
-  <img style="float: right; width: 464px" src="{{site.baseurl}}/media/Worlds_Skygrid.png"></a>
+  <img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Skygrid.png"></a>
 <a href="{{site.baseurl}}/atlantis">
-  <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Atlantis.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Atlantis.png"></a>
 
 ___
 <div style="text-align: center;" markdown="1">
 ##Museum Worlds
 </div>
 <a href="{{site.baseurl}}/omor">
-  <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Omor.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Omor.png"></a>
 <a href="{{site.baseurl}}/exodus">
-  <img style="float: right; width: 464px" src="{{site.baseurl}}/media/Worlds_Exodus.png"></a>
+  <img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Exodus.png"></a>
 <a href="{{site.baseurl}}/factions">
-  <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Factions.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Factions.png"></a>
   
 ___
