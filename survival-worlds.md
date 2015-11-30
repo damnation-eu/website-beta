@@ -2,8 +2,14 @@
 ---
 #Survival Worlds
 
-Between Linked Survival Worlds, Museum Worlds, and Player Worlds, our Main server is home to dozens of PvE Worlds, most with a shared survival inventory.
+Between Linked Survival Worlds, Specialty Worlds, Museum Worlds, and Player Worlds, our Main server is home to dozens of PvE Worlds.
 
+* **Linked Survival Worlds** all share inventories, so you are free to hop between them to mine, fight, store, or build with the same gear and materials.
+* **Specialty Worlds** do not share the same inventory with other worlds to use the added challenge of starting from scratch.
+* **Museum Worlds** are old worlds you are free to explore on foot
+* We host a handful of **Player Worlds** in survival. Those that have a linked inventory are always available publicly, while those who have a separate inventory can only be public at the discretion of the owner.
+
+___
 * As soon as you join, you're free to build in any of our worlds, so long as you remember to respect [Rules 5, 6, 7, and 8]({{site.baseurl}}/rules). Our selection of worlds has been carefully chosen over the years to provide unique challenges, terrain, and opportunities with each new world.
 * For mining, we suggest [Glorantha]({{site.baseurl}}/glorantha), [Panau]({{site.baseurl}}/panau), and [Hammerfell]({{site.baseurl}}/hammerfell). Visit these worlds' pages for more information about their unique features.
 * You may apply to own land in any linked survival world, granted you have the money for it. Read more: [Land Ownership]({{site.baseurl}}/land-ownership)
@@ -41,10 +47,13 @@ ___
   <img style="float: right; width: 464px" src="{{site.baseurl}}/media/Worlds_Kaleida.png"></a>
 <a href="{{site.baseurl}}/hoth">
   <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Hoth.png"></a>
+<a href="{{site.baseurl}}/koothann-world">
+  <img style="float: right; width: 464px" src="{{site.baseurl}}/media/Worlds_Koothann.png"></a>
 
 ___
 <div style="text-align: center;" markdown="1">
-##Specialty Worlds</div>
+##Specialty Worlds
+</div>
 <a href="{{site.baseurl}}/islandworld">
   <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_IslandWorld.png"></a>
 <a href="{{site.baseurl}}/skygrid">
@@ -54,7 +63,8 @@ ___
 
 ___
 <div style="text-align: center;" markdown="1">
-##Museum Worlds</div>
+##Museum Worlds
+</div>
 <a href="{{site.baseurl}}/omor">
   <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Omor.png"></a>
 <a href="{{site.baseurl}}/exodus">
