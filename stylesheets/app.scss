@@ -3,12 +3,6 @@
 //@import "settings";
 @import "foundation";
 
-body {
-  background: url("{{site.baseurl}}/media/background.jpg") no-repeat fixed;
-  background-position: 50% 0%; 
-  margin: 15px;
-}
-
 // Or selectively include components
 // @import
 //   "foundation/components/accordion",
