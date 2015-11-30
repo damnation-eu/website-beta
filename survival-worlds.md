@@ -39,6 +39,8 @@ ___
 ___
 
 ##Museum Worlds
+<a href="{{site.baseurl}}/omor"><img style="float: right;" src="{{site.baseurl}}/media/Worlds_Omor.png"></a>
+
 <div style="float:right;margin:0 10px 10px 0" markdown="1">
 [![image]({{site.baseurl}}/media/Worlds_Omor.png)]({{site.baseurl}}/omor)
 [![image]({{site.baseurl}}/media/Worlds_Exodus.png)]({{site.baseurl}}/exodus)
