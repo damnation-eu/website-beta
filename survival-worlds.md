@@ -12,8 +12,15 @@ Between Linked Survival Worlds, Museum Worlds, and Player Worlds, our Main serve
 ___
 
 ##Linked Survival Worlds
-<a href="{{site.baseurl}}/omor"><img style="float: right; width: 400px" src="{{site.baseurl}}/media/Worlds_Omor.png"></a>
-<a href="{{site.baseurl}}/omor"><img style="float: left; width: 400px" src="{{site.baseurl}}/media/Worlds_Omor.png"></a>
+<a href="{{site.baseurl}}/homeland">
+  <img style="float: left; width: 500px" src="{{site.baseurl}}/media/Worlds_Homeland.png"></a>
+<a href="{{site.baseurl}}/the-nether">
+  <img style="float: right; width: 500px" src="{{site.baseurl}}/media/Worlds_Nether.png"></a>
+<a href="{{site.baseurl}}/the-end">
+  <img style="float: left; width: 500px" src="{{site.baseurl}}/media/Worlds_End.png"></a>
+<a href="{{site.baseurl}}/earthsea">
+  <img style="float: right; width: 500px" src="{{site.baseurl}}/media/Worlds_Earthsea.png"></a>
+  
 [![image]({{site.baseurl}}/media/Worlds_Homeland.png)]({{site.baseurl}}/homeland)
 [![image]({{site.baseurl}}/media/Worlds_Nether.png)]({{site.baseurl}}/the-nether)
 [![image]({{site.baseurl}}/media/Worlds_End.png)]({{site.baseurl}}/the-End)
