@@ -13,23 +13,26 @@ ___
 
 ##Linked Survival Worlds
 <a href="{{site.baseurl}}/homeland">
-  <img style="float: left; width: 500px" src="{{site.baseurl}}/media/Worlds_Homeland.png"></a>
+  <img style="float: left; width: 416px" src="{{site.baseurl}}/media/Worlds_Homeland.png"></a>
 <a href="{{site.baseurl}}/the-nether">
-  <img style="float: right; width: 500px" src="{{site.baseurl}}/media/Worlds_Nether.png"></a>
+  <img style="float: right; width: 416px" src="{{site.baseurl}}/media/Worlds_Nether.png"></a>
 <a href="{{site.baseurl}}/the-end">
-  <img style="float: left; width: 500px" src="{{site.baseurl}}/media/Worlds_End.png"></a>
+  <img style="float: left; width: 416px" src="{{site.baseurl}}/media/Worlds_End.png"></a>
 <a href="{{site.baseurl}}/earthsea">
-  <img style="float: right; width: 500px" src="{{site.baseurl}}/media/Worlds_Earthsea.png"></a>
-  
-[![image]({{site.baseurl}}/media/Worlds_Homeland.png)]({{site.baseurl}}/homeland)
-[![image]({{site.baseurl}}/media/Worlds_Nether.png)]({{site.baseurl}}/the-nether)
-[![image]({{site.baseurl}}/media/Worlds_End.png)]({{site.baseurl}}/the-End)
-[![image]({{site.baseurl}}/media/Worlds_Earthsea.png)]({{site.baseurl}}/earthsea)
-[![image]({{site.baseurl}}/media/Worlds_Glorantha.png)]({{site.baseurl}}/glorantha)
-[![image]({{site.baseurl}}/media/Worlds_Iuvem.png)]({{site.baseurl}}/iuvem)
-[![image]({{site.baseurl}}/media/Worlds_Hammerfell.png)]({{site.baseurl}}/hammerfell)
-[![image]({{site.baseurl}}/media/Worlds_Tremoria.png)]({{site.baseurl}}/tremoria)
-[![image]({{site.baseurl}}/media/Worlds_Remini.png)]({{site.baseurl}}/land-of-reminiscence)
+  <img style="float: right; width: 416px" src="{{site.baseurl}}/media/Worlds_Earthsea.png"></a>
+<a href="{{site.baseurl}}/glorantha">
+  <img style="float: left; width: 416px" src="{{site.baseurl}}/media/Worlds_Glorantha.png"></a>
+<a href="{{site.baseurl}}/iuvem">
+  <img style="float: right; width: 416px" src="{{site.baseurl}}/media/Worlds_Iuvem.png"></a>
+<a href="{{site.baseurl}}/hammerfell">
+  <img style="float: left; width: 416px" src="{{site.baseurl}}/media/Worlds_Hammerfell.png"></a>
+<a href="{{site.baseurl}}/tremoria">
+  <img style="float: right; width: 416px" src="{{site.baseurl}}/media/Worlds_Tremoria.png"></a>
+<a href="{{site.baseurl}}/land-of-reminiscence">
+  <img style="float: left; width: 416px" src="{{site.baseurl}}/media/Worlds_Remini.png"></a>
+<a href="{{site.baseurl}}/earthsea">
+  <img style="float: right; width: 416px" src="{{site.baseurl}}/media/Worlds_Earthsea.png"></a>
+
 [![image]({{site.baseurl}}/media/Worlds_Panau.png)]({{site.baseurl}}/panau)
 [![image]({{site.baseurl}}/media/Worlds_Etheria.png)]({{site.baseurl}}/etheria)
 [![image]({{site.baseurl}}/media/Worlds_Foundland.png)]({{site.baseurl}}/foundland)
