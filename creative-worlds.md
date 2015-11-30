@@ -5,34 +5,53 @@
 damNation hosts a multitude of creative worlds from plotworlds to group build worlds to personal worlds.
 
 ___
-
-#Plotme Worlds
-
-[![image]({{site.baseurl}}/media/Worlds_Plotworld.png)]({{site.baseurl}}/plotworld)
-[![image]({{site.baseurl}}/media/Worlds_Largeplots.png)]({{site.baseurl}}/largeplots)
+<div style="text-align: center;" markdown="1">
+##Plotme Worlds
+</div>
+<a href="{{site.baseurl}}/plotworld">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Plotworld.png"></a>
+<a href="{{site.baseurl}}/largeplots">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Largeplots.png"></a>
 
 ___
 
+<div style="text-align: center;" markdown="1">
 ##Competition Worlds
-
-[![image]({{site.baseurl}}/media/Worlds_Comp.png)]({{site.baseurl}}/creative-comp)
-[![image]({{site.baseurl}}/media/Worlds_WeekComp.png)]({{site.baseurl}}/week-comp)
+</div>
+<a href="{{site.baseurl}}/creative-comp">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Comp.png"></a>
+<a href="{{site.baseurl}}/week-comp">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_WeekComp.png"></a>
 
 ___
 
+<div style="text-align: center;" markdown="1">
 ##Themed Worlds
-
-[![image]({{site.baseurl}}/media/Worlds_Eldaria.png)]({{site.baseurl}}/eldaria)
-[![image]({{site.baseurl}}/media/Worlds_DeosMundi.png)]({{site.baseurl}}/deos-mundi)
-[![image]({{site.baseurl}}/media/Worlds_Nilfheim.png)]({{site.baseurl}}/nilfheim)
+</div>
+<a href="{{site.baseurl}}/eldaria">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Eldaria.png"></a>
+<a href="{{site.baseurl}}/deos-mundi">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_DeosMundi.png"></a>
+<a href="{{site.baseurl}}/nilfheim">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Nilfheim.png"></a>
 ___
 
+<div style="text-align: center;" markdown="1">
 ##Museum Worlds
+</div>
+<a href="{{site.baseurl}}/gridworld">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Gridworld.png"></a>
+<a href="{{site.baseurl}}/autoplots">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Autoplots.png"></a>
+<a href="{{site.baseurl}}/esconia">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Esconia.png"></a>
+<a href="{{site.baseurl}}/membra">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Membra.png"></a>
+<a href="{{site.baseurl}}/adamantis">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Adamantis.png"></a>
+<a href="{{site.baseurl}}/titanic">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Titanic.png"></a>
+<a href="{{site.baseurl}}/mages-college">
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_MagesCollege.png"></a>
 
-[![image]({{site.baseurl}}/media/Worlds_Gridworld.png)]({{site.baseurl}}/gridworld)
-[![image]({{site.baseurl}}/media/Worlds_Autoplots.png)]({{site.baseurl}}/autoplots)
-[![image]({{site.baseurl}}/media/Worlds_Esconia.png)]({{site.baseurl}}/esconia)
-[![image]({{site.baseurl}}/media/Worlds_Membra.png)]({{site.baseurl}}/membra)
-[![image]({{site.baseurl}}/media/Worlds_Adamantis.png)]({{site.baseurl}}/adamantis)
-[![image]({{site.baseurl}}/media/Worlds_Titanic.png)]({{site.baseurl}}/titanic)
-[![image]({{site.baseurl}}/media/Worlds_MagesCollege.png)]({{site.baseurl}}/mages-college)
+___
