@@ -13,6 +13,7 @@ ___
 
 ##Linked Survival Worlds
 <a href="{{site.baseurl}}/omor"><img style="float: right; width: 200px" src="{{site.baseurl}}/media/Worlds_Omor.png"></a>
+<a href="{{site.baseurl}}/omor"><img style="float: left;" src="{{site.baseurl}}/media/Worlds_Omor.png"></a>
 [![image]({{site.baseurl}}/media/Worlds_Homeland.png)]({{site.baseurl}}/homeland)
 [![image]({{site.baseurl}}/media/Worlds_Nether.png)]({{site.baseurl}}/the-nether)
 [![image]({{site.baseurl}}/media/Worlds_End.png)]({{site.baseurl}}/the-End)
