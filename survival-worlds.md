@@ -32,25 +32,33 @@ ___
   <img style="float: left; width: 450px" src="{{site.baseurl}}/media/Worlds_Remini.png"></a>
 <a href="{{site.baseurl}}/panau">
   <img style="float: right; width: 450px" src="{{site.baseurl}}/media/Worlds_Panau.png"></a>
-
-[![image]({{site.baseurl}}/media/Worlds_Etheria.png)]({{site.baseurl}}/etheria)
-[![image]({{site.baseurl}}/media/Worlds_Foundland.png)]({{site.baseurl}}/foundland)
-[![image]({{site.baseurl}}/media/Worlds_Kaleida.png)]({{site.baseurl}}/kaleida)
-[![image]({{site.baseurl}}/media/Worlds_Hoth.png)]({{site.baseurl}}/hoth)
+<a href="{{site.baseurl}}/etheria">
+  <img style="float: left; width: 450px" src="{{site.baseurl}}/media/Worlds_Etheria.png"></a>
+<a href="{{site.baseurl}}/foundland">
+  <img style="float: right; width: 450px" src="{{site.baseurl}}/media/Worlds_Foundland.png"></a>
+<a href="{{site.baseurl}}/kaleida">
+  <img style="float: left; width: 450px" src="{{site.baseurl}}/media/Worlds_Kaleida.png"></a>
+<a href="{{site.baseurl}}/hoth">
+  <img style="float: center; width: 450px" src="{{site.baseurl}}/media/Worlds_Hoth.png"></a>
 
 ___
 
 ##Specialty Worlds
-
-[![image]({{site.baseurl}}/media/Worlds_Atlantis.png)]({{site.baseurl}}/atlantis)
-[![image]({{site.baseurl}}/media/Worlds_IslandWorld.png)]({{site.baseurl}}/islandworld)
-[![image]({{site.baseurl}}/media/Worlds_Skygrid.png)]({{site.baseurl}}/skygrid)
+<a href="{{site.baseurl}}/islandworld">
+  <img style="float: right; width: 450px" src="{{site.baseurl}}/media/Worlds_IslandWorld.png"></a>
+<a href="{{site.baseurl}}/skygrid">
+  <img style="float: left; width: 450px" src="{{site.baseurl}}/media/Worlds_Skygrid.png"></a>
+<a href="{{site.baseurl}}/atlantis">
+  <img style="float: center; width: 450px" src="{{site.baseurl}}/media/Worlds_Atlantis.png"></a>
 
 ___
 
 ##Museum Worlds
-<div style="float:right;margin:0 10px 10px 0" markdown="1">
-[![image]({{site.baseurl}}/media/Worlds_Omor.png)]({{site.baseurl}}/omor)
-[![image]({{site.baseurl}}/media/Worlds_Exodus.png)]({{site.baseurl}}/exodus)
-[![image]({{site.baseurl}}/media/Worlds_Factions.png)]({{site.baseurl}}/factions)
-</div>
+<a href="{{site.baseurl}}/omor">
+  <img style="float: right; width: 450px" src="{{site.baseurl}}/media/Worlds_Omor.png"></a>
+<a href="{{site.baseurl}}/exodus">
+  <img style="float: left; width: 450px" src="{{site.baseurl}}/media/Worlds_Exodus.png"></a>
+<a href="{{site.baseurl}}/factions">
+  <img style="float: center; width: 450px" src="{{site.baseurl}}/media/Worlds_Factions.png"></a>
+  
+___
