@@ -4607,7 +4607,11 @@ meta.foundation-mq-topbar {
       z-index: 98; }
 
 .top-bar {
-  background: #333333;
+ /* background: #333333;*/
+  background: -webkit-linear-gradient(#FFD700, #FFA500); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#FFD700, #FFA500); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#FFD700, #FFA500); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#FFD700, #FFA500); /* Standard syntax */
   height: 2.8125rem;
   line-height: 2.8125rem;
   margin-bottom: 0;
@@ -4649,7 +4653,7 @@ meta.foundation-mq-topbar {
       line-height: 2.8125rem;
       margin: 0; }
       .top-bar .name h1 a, .top-bar .name h2 a, .top-bar .name h3 a, .top-bar .name h4 a, .top-bar .name p a, .top-bar .name span a {
-        color: #FFFFFF;
+        color: #000000;
         display: block;
         font-weight: normal;
         padding: 0 0.9375rem;
@@ -4659,7 +4663,7 @@ meta.foundation-mq-topbar {
     right: 0;
     top: 0; }
     .top-bar .toggle-topbar a {
-      color: #FFFFFF;
+      color: #000000;
       display: block;
       font-size: 0.8125rem;
       font-weight: bold;
@@ -4672,7 +4676,7 @@ meta.foundation-mq-topbar {
       margin-top: -16px;
       top: 50%; }
       .top-bar .toggle-topbar.menu-icon a {
-        color: #FFFFFF;
+        color: #ffffff;
         height: 34px;
         line-height: 33px;
         padding: 0 2.5rem 0 0.9375rem;
