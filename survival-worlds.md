@@ -39,7 +39,7 @@ ___
 ___
 
 ##Museum Worlds
-<div style="text-align:right; max-width:50px" markdown="1">
+<div style="position: absolute; right: 0px; max-width:250px" markdown="1">
 [![image]({{site.baseurl}}/media/Worlds_Omor.png)]({{site.baseurl}}/omor)
 [![image]({{site.baseurl}}/media/Worlds_Exodus.png)]({{site.baseurl}}/exodus)
 [![image]({{site.baseurl}}/media/Worlds_Factions.png)]({{site.baseurl}}/factions)
