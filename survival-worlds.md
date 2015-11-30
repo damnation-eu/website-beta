@@ -7,7 +7,7 @@ Between Linked Survival Worlds, Museum Worlds, and Player Worlds, our Main serve
 * As soon as you join, you're free to build in any of our worlds, so long as you remember to respect [Rules 5, 6, 7, and 8](../website-beta/rules). Our selection of worlds has been carefully chosen over the years to provide unique challenges, terrain, and opportunities with each new world.
 * For mining, we suggest Glorantha, Panau, and Hammerfell. Visit these worlds' pages for more information about their unique features.
 * You may apply to own land in any linked survival world, granted you have the money for it. Read more: Land Ownership
-* You may encounter an added challenge in all linked survival worlds - Infernal Mobs(../website-beta/infernal-mobs).
+* You may encounter an added challenge in all linked survival worlds - [Infernal Mobs](../website-beta/infernal-mobs).
 
 ___
 
