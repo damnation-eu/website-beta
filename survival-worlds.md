@@ -5,8 +5,8 @@
 Between Linked Survival Worlds, Museum Worlds, and Player Worlds, our Main server is home to dozens of PvE Worlds, most with a shared survival inventory.
 
 * As soon as you join, you're free to build in any of our worlds, so long as you remember to respect [Rules 5, 6, 7, and 8]({{site.baseurl}}/rules). Our selection of worlds has been carefully chosen over the years to provide unique challenges, terrain, and opportunities with each new world.
-* For mining, we suggest Glorantha, Panau, and Hammerfell. Visit these worlds' pages for more information about their unique features.
-* You may apply to own land in any linked survival world, granted you have the money for it. Read more: Land Ownership
+* For mining, we suggest [Glorantha]({{site.baseurl}}/glorantha), [Panau]({{site.baseurl}}/panau), and [Hammerfell]({{site.baseurl}}/hammerfell). Visit these worlds' pages for more information about their unique features.
+* You may apply to own land in any linked survival world, granted you have the money for it. Read more: [Land Ownership]({{site.baseurl}}/land-ownership)
 * You may encounter an added challenge in all linked survival worlds - [Infernal Mobs]({{site.baseurl}}/infernal-mobs).
 
 ___
@@ -43,8 +43,8 @@ ___
   <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Hoth.png"></a>
 
 ___
-
-##Specialty Worlds
+<div style="text-align: center;" markdown="1">
+##Specialty Worlds</div>
 <a href="{{site.baseurl}}/islandworld">
   <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_IslandWorld.png"></a>
 <a href="{{site.baseurl}}/skygrid">
@@ -53,8 +53,8 @@ ___
   <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Atlantis.png"></a>
 
 ___
-
-##Museum Worlds
+<div style="text-align: center;" markdown="1">
+##Museum Worlds</div>
 <a href="{{site.baseurl}}/omor">
   <img style="float: left; width: 464px" src="{{site.baseurl}}/media/Worlds_Omor.png"></a>
 <a href="{{site.baseurl}}/exodus">
