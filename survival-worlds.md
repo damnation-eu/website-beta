@@ -13,7 +13,7 @@ ___
 
 ##Linked Survival Worlds
 
-[![image](/website-beta/media/Worlds_Homeland.png)](../website-beta/nomeland)
+[![image](/website-beta/media/Worlds_Homeland.png)](../website-beta/homeland)
 [![image](/website-beta/media/Worlds_Nether.png)](../website-beta/the-nether)
 [![image](/website-beta/media/Worlds_End.png)](../website-beta/the-End)
 [![image](/website-beta/media/Worlds_Earthsea.png)](../website-beta/earthsea)
@@ -42,6 +42,4 @@ ___
 
 [![image](/website-beta/media/Worlds_Omor.png)](../website-beta/omor)
 [![image](/website-beta/media/Worlds_Exodus.png)](../website-beta/exodus)
-[![image](/website-beta/media/Worlds_Esconia.png)](../website-beta/esconia)
 [![image](/website-beta/media/Worlds_Factions.png)](../website-beta/factions)
-[![image](/website-beta/media/Worlds_Membra.png)](../website-beta/membra)
