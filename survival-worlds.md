@@ -10,8 +10,9 @@ Between Linked Survival Worlds, Museum Worlds, and Player Worlds, our Main serve
 * You may encounter an added challenge in all linked survival worlds - [Infernal Mobs]({{site.baseurl}}/infernal-mobs).
 
 ___
-
+<div style="text-align: center;" markdown="1">
 ##Linked Survival Worlds
+</div>
 <a href="{{site.baseurl}}/homeland">
   <img src="{{site.baseurl}}/media/Worlds_Homeland.png"></a>
 <a href="{{site.baseurl}}/the-nether">
