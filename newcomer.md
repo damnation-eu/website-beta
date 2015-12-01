@@ -72,29 +72,39 @@ In fact, many similar chests containing treasure and/or money are hidden around 
 
 Some friendly hints: Scout the terrain around Spawn, look for Temple of The Gods starting with the maze opposite the Tree Farm. Why not visit the library or pay your respects at the graveyard...
 
-## Multiverse
+<div style="text-align: center;" markdown="1">
+## Survival Multiverse
+</div>
 
-Try out our other worlds like the Nether, The End, Kaleida (rainforest), Hoth (frozen), Remini (custom), Panau (custom), Tremoria (amplified), or Creative? Head to /warp nexus to check out the multitude of worlds we have to offer. **Read more:** [Our Multiverse](/main/getting-started/multiverse-worlds)
+Main hosts a number of [survival worlds]({{site.baseurl}}/survival-worlds) like [the Nether]({{site.baseurl}}/the-nether), [the End]({{site.baseurl}}/the-end), [Kaleida (rainforest)]({{site.baseurl}}/kaleida), [Hoth (frozen)]({{site.baseurl}}/hoth), [Tremoria (amplified)]({{site.baseurl}}/tremoria), or [Glorantha (vanilla-custom)]({{site.baseurl}}/glorantha)? Head to **/warp nexus** to check out the multitude of worlds we have to offer. 
 
+<div style="text-align: center;" markdown="1">
 ## Bungee Servers
+</div>
 
-### CivCraft
+**Main** (/server main) is the server you will likely spend the most time on. It hosts the bulk of what damNation has to offer, with so many features that even veterans haven't explored them all!
 
-We host a CivCraft PvP server, which combines elements of Civilization and Minecraft into a PvP mod! Check it out at /server civ. **Read more:**[CivCraft](/pvp/civcraft)
+**Creative** (/server creative) features a [variety of worlds]({{site.baseurl}}/creative-worlds) to fit any creative need, be it a small plot or a large collaborative world!
 
-### Minigames and Adventure
+**Minigames** (/server minigames) is an ever-expanding server that features mainstay attractions such as **Survival Games** and **The Dropper**, as well as heavier combat in **Capture The Flag**. The list of features is always changing, so [read more here about our current game roster]({{site.baseurl}}/mg-features)!
 
-If you want to play some minigames or complete adventure maps, head to /server rca to get your fill of Capture The Flag, MarioKart, Quake, Blockhunt, and much more! New plugins are added frequently and we’re always accepting suggestions. **Read more:**[RagnaCraft Adventures](/rca)
+**Abaddon** (/server creative) is a hardcore survival gamemode that involves sprinting and tunneling through a ruined world filled with deadly monsters and priceless treasure. This is a custom gamemode made for damNation inspired by a previous feature called Gehenna. [Read more about Abaddon here]({{site.baseurl}}/ab-gameplay).
 
-## Want to go to the wilderness?
+**Hub** (/server hub) is the server you first logged into! It's a simple starting area with portals to each of our active servers for easy access.
+
+<div style="text-align: center;" markdown="1">
+## Want to go out in the wilderness?
+</div>
 
 It is anywhere outside the city limit (seen on the dynmap blue area, or roughly where the monorail goes). But Homeland is very full already so there is also plenty of wilderness in the other Survival worlds, which you can access by portals at /warp nexus You may mine, dig and build anywhere in the wilderness in any world as long as the rules are followed and distance to other players are respected.
 
-## Want to design/build something in Creative?
+<div style="text-align: center;" markdown="1">
+## Want to build something in Creative?
+</div>
 
-We have several Creative worlds available. But we suggest you start with a plot in the (newest) Creative Plotworld. Go there with /warp nexus3 and choose the Creative Plotworld portal. **Read more:**[Creative](/creative)
+We have several Creative worlds available. As a tourist, you start out with access to [Plotworld]({{site.baseurl}}/plotworld). Visit there with **/server creative** and choose the button warp for Plotworld. 
 
-Once there, read the signs, spend your first 200c (which you got from voting properly) and get your first plot by typing /plotme auto and you will get a private and protected 100x100 creative plot! Teleport to your first plot with /plotme home. If you really wanna get building, get WorldEdit powers in your plot by making a small donation to the server (comes with many other benefits).
+Once there, read the signs, spend your first 200c (which you can get from one day of voting) and get your first plot by typing **/plotme auto** and you will get a private and protected 100x100 creative plot! Teleport to your first plot with **/plotme home**. Once you rank up to [Siren]({{site.baseurl}}/ranks), you can really get building by applying for WorldEdit powers in your plot.
 
 ## Want a dungeon challenge?
 
