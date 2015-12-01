@@ -34,6 +34,7 @@ ___
   <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_DeosMundi.jpg"></a>
 <a href="{{site.baseurl}}/nilfheim">
   <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Nilfheim.jpg"></a>
+
 ___
 
 <div style="text-align: center;" markdown="1">
