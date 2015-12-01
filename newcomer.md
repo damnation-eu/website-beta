@@ -4,14 +4,14 @@
 
 This guide is a short step-by-step introduction how to get started on damNation and how to access our features and benefits to get the most out of your stay and experience here.
 
-Once you made a successful application, an admin will promotion to Goblin. Goblin (light green color) is a "probational" rank when you are new. You can play normally, but with just a few small limitations - mainly meant to avoid issues with grief. Once you have played for 1-2 weeks without issue, been on a minimum of 10 hours and finished your first build (normally a Spawn City house), you may ask for a promotion to Journeyman, which is our normal "full member" status. Higher ranks are attainable, but only through doing serious megabuilds or donating to the server. Journeyman full member really is an uncrippled full membership status and you can do everything normally.
+Once you made a successful application, an admin will promotion to Goblin. Goblin (light green color) is a "probational" rank when you are new. You can play normally, but with just a few small limitations - mainly meant to avoid issues with grief. After playing on the server for more than a week, you will likely have mined, built a home, ran around aimlessly, killed some enemies, and leveled up some stats, and may be eligible for a promotion to Siren which is our normal "full member" status. Higher ranks are attainable through simply playing on the server! Each rank comes with some added perks, which you can [read more about here]({{site.baseurl}}/ranks)! 
 
-Enough of that, you'll learn it all later. As a new-born Apprentice you'll probably want to do the following right away:
+Enough of that, you'll learn it all later. As a new-born Goblin you'll probably want to do the following right away:
 
 ## How to Start out
 
-1.  Get the free starter-kit in the information house near spawn. Do /spawn to get there fast. It has some basics and some food so you won't starve.
-2.  Vote for the server! This will get you some nice and easy cash to get started. You can vote daily on each site, earning you 200c per day. Check your money with /money.
+1.  Get the free starter-kit in the information house near spawn in [Homeland]({{site.baseurl}}/homeland). Do /spawn to get there fast. It has some basics and some food so you won't starve.
+2.  Vote for the server! This will get you some nice and easy cash to get started. You can vote daily on each site, earning you 200c per day. Check your money with /money. Read more
 3.  Get an overview of the city and the different worlds on our server. Use [our excellent dynmap](https://damnation.eu/dynmap/) to see where you are and where you can go. Homeland is the main starting world, home to our Spawn City. Find out more about [The Multiverse of damNation.eu](http://www.netherendingstory.com/main/getting-started/multiverse-worlds). If you want to go to wilderness, homeland is currently very full - so choose another newer or custom world.
 4.  Understand [how to get around in the city](/main/getting-started/getting-around) (besides walking). List all warps with /warps list, then go to for instance /warp alleytown (which is the area most likely to have free plots).
 5.  Look around the city for a FREE plot. Available plots have signs on them that says "For Sale", new players may buy ONE plot in Spawn City. Later on, you may buy plots in the wilderness for a fee. While looking at the dynmap, plots with green borders are open and free for purchase.
