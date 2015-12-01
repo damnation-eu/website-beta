@@ -9,9 +9,9 @@ ___
 ##Plotme Worlds
 </div>
 <a href="{{site.baseurl}}/plotworld">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Plotworld.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Plotworld.jpg"></a>
 <a href="{{site.baseurl}}/largeplots">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Largeplots.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Largeplots.jpg"></a>
 
 ___
 
@@ -19,9 +19,9 @@ ___
 ##Competition Worlds
 </div>
 <a href="{{site.baseurl}}/creative-comp">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Comp.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Comp.jpg"></a>
 <a href="{{site.baseurl}}/week-comp">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_WeekComp.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_WeekComp.jpg"></a>
 
 ___
 
@@ -29,29 +29,29 @@ ___
 ##Themed Worlds
 </div>
 <a href="{{site.baseurl}}/eldaria">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Eldaria.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Eldaria.jpg"></a>
 <a href="{{site.baseurl}}/deos-mundi">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_DeosMundi.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_DeosMundi.jpg"></a>
 <a href="{{site.baseurl}}/nilfheim">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Nilfheim.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Nilfheim.jpg"></a>
 ___
 
 <div style="text-align: center;" markdown="1">
 ##Museum Worlds
 </div>
 <a href="{{site.baseurl}}/gridworld">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Gridworld.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Gridworld.jpg"></a>
 <a href="{{site.baseurl}}/autoplots">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Autoplots.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Autoplots.jpg"></a>
 <a href="{{site.baseurl}}/esconia">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Esconia.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Esconia.jpg"></a>
 <a href="{{site.baseurl}}/membra">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Membra.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Membra.jpg"></a>
 <a href="{{site.baseurl}}/adamantis">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Adamantis.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Adamantis.jpg"></a>
 <a href="{{site.baseurl}}/titanic">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Titanic.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Titanic.jpg"></a>
 <a href="{{site.baseurl}}/mages-college">
-  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_MagesCollege.png"></a>
+  <img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_MagesCollege.jpg"></a>
 
 ___
