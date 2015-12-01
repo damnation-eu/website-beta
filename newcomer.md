@@ -12,24 +12,31 @@ Enough of that, you'll learn it all later. As a new-born Goblin you'll probably 
 
 1.  Get the free starter-kit in the information house near spawn in [Homeland]({{site.baseurl}}/homeland). Do /spawn to get there fast. It has some basics and some food so you won't starve.
 2.  Vote for the server! This will get you some nice and easy cash to get started. You can vote daily on each site, earning you 200c per day. Check your money with /money. Read more
-3.  Get an overview of the city and the different worlds on our server. Use [our excellent dynmap](https://damnation.eu/dynmap/) to see where you are and where you can go. Homeland is the main starting world, home to our Spawn City. Find out more about [The Multiverse of damNation.eu](http://www.netherendingstory.com/main/getting-started/multiverse-worlds). If you want to go to wilderness, homeland is currently very full - so choose another newer or custom world.
-4.  Understand [how to get around in the city](/main/getting-started/getting-around) (besides walking). List all warps with /warps list, then go to for instance /warp alleytown (which is the area most likely to have free plots).
-5.  Look around the city for a FREE plot. Available plots have signs on them that says "For Sale", new players may buy ONE plot in Spawn City. Later on, you may buy plots in the wilderness for a fee. While looking at the dynmap, plots with green borders are open and free for purchase.
-  * Buy the plot by right clicking on the sign and follow instructions.
-  * Starting plots are usually 20x20 blocks and you may build 20 high and dig as deep as you want (bedrock). Wan't higher? Buy some extra height with crowns.
-  * Your plot is fully protected - no one else can build, destroy or take stuff from chests on it (they can open wood doors and use buttons though).
+3.  Get an overview of the city and the different worlds on our server. Use [our excellent dynmap](https://damnation.eu/dynmap/) to see where you are and where you can go. Homeland is the main starting world, home to our Spawn City. Find out more about [The Multiverse of damNation.eu]({{site.baseurl}}/survival-worlds). If you want to go to wilderness, homeland is currently very full - so choose another newer or custom world.
+4.  Understand [how to get around in the city]({{site.baseurl}}/getting-around) (besides walking, though we highly recommend taking a stroll). List all Homeland warps with **/warps**, then go to for instance /warp alleytown (which is an area more likely to have free plots).
+5.  Look around the city for a **FREE** plot. While looking at the dynmap, plots with green borders are open and free for purchase. Available plots have signs on them that says "For Sale". New players may only claim **ONE** plot in Spawn City.
+  * Buy the plot by right clicking on the sign and typing **/selfservice buy**
+  * Starting plots are usually 20x20 blocks and you may build 20 high and dig as deep as you want (bedrock). Want higher? Buy some extra height with crowns.
+  * Your plot is fully protected - no one else can build, destroy or take stuff from chests on it (they can open wood doors and use buttons though). However, you can easily [add players to your plot]({{site.baseurl}}/worldguard-guide) or even [share chests with them]({{site.baseurl}}/lwc-guide)!
+7.  Set your home by typing **/sethome**. Now you can get back here by doing **/home** at any point in time. Goblins only have 1 home per world, but that will increase as you rank up! Extra homes must be set with a name **/sethome home2** or whatever name you like. List your homes with **/homes**. It is most comfortable to set different names in different worlds - and you can go between.
+8.  Build your first home, set up your underground base, hit the wilderness, build in creative, play a minigame, or go on an adventure - it is up to you! Just remember you have up to **TWO WEEKS** to do something with your claimed city plot - **an incomplete build might return to the state due to inactivity**. We recommend most players build their first home in Spawn City, but you are free to build out in the wilderness immediately if you wish!
+9.  Read up on the [many excellent plugins]({{site.baseurl}}/main-plugins) we have on the server. All carefully selected to help the game become less of a chore and more of a challenging, varied, fun and balanced building and adventure game. Use /help or just TAB-complete in chat if you need to find a command, or check out our: [Commands & Plugins Reference Guide](https://damnation.eu/phpbb/viewtopic.php?f=8&t=591). Also have a look at our [Custom Recipes](https://damnation.eu/phpbb/viewtopic.php?f=8&t=5780).
 
-7.  Set your home by typing /sethome (costs 10c, make sure you voted). Now you can get back here by doing /home at any point in time (it costs 1c). You have a total of 3 homes per world. Extra homes must be set with a name /sethome home2 or whatever name you like. List your homes with /listhomes. It is most comfortable to set different names in different worlds - and you can go between.
-8.  Build your first home, set up your underground base, hit the wilderness, build in creative, play a minigame, or go on an adventure - it is up to you! Just remember you have up to 10 days to do something with the city plot (or it might return to the state due to inactivity). Once you have a build ready and have played a couple of weeks, you may ask an admin for approval and promotion to Journeyman.
-9.  Read up on the many excellent plugins we have on the server. All carefully selected to help the game become less of a chore and more of a challenging, varied, fun and balanced building and adventure game. Use /help or just TAB-complete in chat if you need to find a command, or check out our: [Commands & Plugins Reference Guide](https://damnation.eu/phpbb/viewtopic.php?f=8&t=591). Also have a look at our [Custom Recipes](https://damnation.eu/phpbb/viewtopic.php?f=8&t=5780). Use /recipe [item] to get a visual guide for all recipes.
+___
 
-## Need Help?
+<div style="text-align: center;" markdown="1">
+##Need Help?
+</div>
 
 We pride ourselves as being a friendly and welcoming community. If you need help with something, asking in global chat for help will likely lead to an admin or other community member answering your question or helping you out in another way. We love helping out new members take in the enormity that is our list of server features. Don't worry about asking a lot of questions in the beginning - we were all there, once!
 
 However, don't beg for or pester admins unless it is actually called for. If an admin is active, they will either answer you or tell you to be patient if they are currently occupied. No freebies or gifts are granted. If you still need help and no admin is around use /modreq <message>. That files a request to the admins. Be detailed and use at the location of where the problem is as the admin will teleport to the exact location where you type the /modreq.</message>
 
-## Need materials?
+___
+
+<div style="text-align: center;" markdown="1">
+##Need Materials?
+</div>
 
 *   Dig on your own plot to your hearts content.
 *   Use the public treefarms at /warp treefarm (all kinds of wood) or at /warp south (for pine). Remember to replant.
@@ -38,23 +45,30 @@ However, don't beg for or pester admins unless it is actually called for. If an 
 *   You can start some easy mining in the public mine at /warp publicmine. But you can certainly also set up your own mining operation in any of the many worlds' wildernesses.
 *   Trade with other players.
 
-## Need money?
+___
 
-*   Vote! It is by far the fastest and easiest way to earn cash. You can earn 200c by voting on each site every 24 hours.
+<div style="text-align: center;" markdown="1">
+##Need Money?
+</div>
+
+*   [Vote!]({{site.baseurl}}/vote) It is by far the fastest and easiest way to earn cash. You can earn 200c by voting on each site every 24 hours.
 *   Buy and sell stuff at the market
-*   Play and win more than you lose at MobArena
+*   Play and win more than you lose at Mob Arena
 *   Raid dungeons (hard, see below)
 *   Help someone with a job for cash (or stuff)
 *   Win or place well in a competition
 *   Come with a particularly helpful suggestion or report a cheater
-*   Visit maps that have "Tourist Awards" from easily visible chest such as Adamantis, Titanic and Mages College.
-*   Finish a challenge maps on RCA like The Dropper or Downward
+*   Complete challenge maps like Downward, t3c Parkour, or The Dropper on [Minigames]({{site.baseurl}}/mg-features)
 
+___
+
+<div style="text-align: center;" markdown="1">
 ## Want to explore the server and look for treasure?
+</div>
 
 Excellent, because damNation is a server of many hidden things and secrets! You will find the very first Treasure Chest in the spawn info house (starter kit), but there are more nearby!
 
-In fact, many similar chests containing treasure and/or money are hidden around the server and especially around central Spawn city (not in player houses), there are many hidden areas and treasure rewards for finding them. Most warp locations have a hidden chest as well. Do /tchest count to see your progress in finding secret chests (counted per world, but Homeland has the most and is the best start).
+In fact, many similar chests containing treasure and/or money are hidden around the server and especially around central Spawn city (not in player houses), there are many hidden areas and treasure rewards for finding them. Most warp locations have a hidden chest as well. Do **/tchest count** to see your progress in finding secret chests (counted per world, but Homeland has by far the most and is the best place to start).
 
 Some friendly hints: Scout the terrain around Spawn, look for Temple of The Gods starting with the maze opposite the Tree Farm. Why not visit the library or pay your respects at the graveyard...
 
