@@ -1,10 +1,10 @@
 ---
 ---
-# Welcome to damNation, Apprentice, minecrafter!
+# Welcome to damNation, novice Goblin!
 
 This guide is a short step-by-step introduction how to get started on damNation and how to access our features and benefits to get the most out of your stay and experience here.
 
-Once you made a successful application, an admin will promotion to Apprentice. Apprentice (green color) is a "probational" rank when you are new. You can play normally, but with just a few small limitations - mainly meant to avoid issues with grief. Once you have played for 1-2 weeks without issue, been on a minimum of 10 hours and finished your first build (normally a Spawn City house), you may ask for a promotion to Journeyman, which is our normal "full member" status. Higher ranks are attainable, but only through doing serious megabuilds or donating to the server. Journeyman full member really is an uncrippled full membership status and you can do everything normally.
+Once you made a successful application, an admin will promotion to Goblin. Goblin (light green color) is a "probational" rank when you are new. You can play normally, but with just a few small limitations - mainly meant to avoid issues with grief. Once you have played for 1-2 weeks without issue, been on a minimum of 10 hours and finished your first build (normally a Spawn City house), you may ask for a promotion to Journeyman, which is our normal "full member" status. Higher ranks are attainable, but only through doing serious megabuilds or donating to the server. Journeyman full member really is an uncrippled full membership status and you can do everything normally.
 
 Enough of that, you'll learn it all later. As a new-born Apprentice you'll probably want to do the following right away:
 
