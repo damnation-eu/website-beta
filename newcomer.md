@@ -72,11 +72,15 @@ In fact, many similar chests containing treasure and/or money are hidden around 
 
 Some friendly hints: Scout the terrain around Spawn, look for Temple of The Gods starting with the maze opposite the Tree Farm. Why not visit the library or pay your respects at the graveyard...
 
+___
+
 <div style="text-align: center;" markdown="1">
 ## Survival Multiverse
 </div>
 
 Main hosts a number of [survival worlds]({{site.baseurl}}/survival-worlds) like [the Nether]({{site.baseurl}}/the-nether), [the End]({{site.baseurl}}/the-end), [Kaleida (rainforest)]({{site.baseurl}}/kaleida), [Hoth (frozen)]({{site.baseurl}}/hoth), [Tremoria (amplified)]({{site.baseurl}}/tremoria), or [Glorantha (vanilla-custom)]({{site.baseurl}}/glorantha)? Head to **/warp nexus** to check out the multitude of worlds we have to offer. 
+
+___
 
 <div style="text-align: center;" markdown="1">
 ## Bungee Servers
@@ -92,11 +96,15 @@ Main hosts a number of [survival worlds]({{site.baseurl}}/survival-worlds) like 
 
 **Hub** (/server hub) is the server you first logged into! It's a simple starting area with portals to each of our active servers for easy access.
 
+___
+
 <div style="text-align: center;" markdown="1">
 ## Want to go out in the wilderness?
 </div>
 
 It is anywhere outside the city limit (seen on the dynmap blue area, or roughly where the monorail goes). But Homeland is very full already so there is also plenty of wilderness in the other Survival worlds, which you can access by portals at /warp nexus You may mine, dig and build anywhere in the wilderness in any world as long as the rules are followed and distance to other players are respected.
+
+___
 
 <div style="text-align: center;" markdown="1">
 ## Want to build something in Creative?
@@ -106,49 +114,80 @@ We have several Creative worlds available. As a tourist, you start out with acce
 
 Once there, read the signs, spend your first 200c (which you can get from one day of voting) and get your first plot by typing **/plotme auto** and you will get a private and protected 100x100 creative plot! Teleport to your first plot with **/plotme home**. Once you rank up to [Siren]({{site.baseurl}}/ranks), you can really get building by applying for WorldEdit powers in your plot.
 
-## Want a dungeon challenge?
+___
 
-There are a couple of gnarly multilevel dungeons available. You earn items and cash doing them. But beware, it is hard and requires good equipment. You are also forbidden to tp/warp while inside. Fight your way to the final double chest on the final level for a nice prize. Push the reset button there to return to surface and the dungeon is reset for the next challenger. You can find dungeons at:
+<div style="text-align: center;" markdown="1">
+## Want a dungeon challenge?
+</div>
+
+There are a couple of gnarly multilevel dungeons available on **Main**. You earn items and cash doing them. But beware, it get much harder as you go. We highly suggest enchanted iron gear, enchanted weapons, and splash potions. **You are also forbidden to tp/warp while inside.** Take note of the mossy cobblestone - trying to mine walls adjacent to it will open secret passages to allow you to continue your adventure! Fight your way to the final double chest on the final level for a nice prize. Make sure to press the reset button there to return to surface and the dungeon is reset for the next challenger. You can find dungeons at:
 
 *   Near /warp sandfarm
 *   Near /warp north
-*   In Foundland, quite close to spawn (and another "lost" dungeon somewhere)
-*   In Panau, head forward up and into the mountains, there are some signs helping you find the way.
-*   In Remini, there are several custom dungeons waiting that reset for each player every two weeks.
+*   In [Foundland]({{site.baseurl}}/foundland), quite close to spawn (and another "lost" dungeon somewhere)
+*   In [Panau]({{site.baseurl}}/panau), head forward up and into the mountains, there are some signs helping you find the way.
+*   In [Remini]({{site.baseurl}}/remini), there are several custom dungeons waiting that reset for each player every two weeks.
 
-## Private Land or More Plots
+___
 
-Once you have played for a while, gathered some cash - you probably will want to protect a larger area in the wilderness and/or buy more city plots. **Read more:**[Land Ownership](/main/land-ownership)
+<div style="text-align: center;" markdown="1">
+## Want private and protected land?
+</div>
 
-## Stats and Info
+Once you have played for a while, gathered some cash - you probably will want to protect a larger area in the wilderness and/or buy more city plots. **Read more:** [Land Ownership]({{site.baseurl}}/land-ownership)
 
-*   We have fun and very extensive stats under [http://damnation.eu/stats/](/ http://damnation.eu/stats/) and [http://damnation.eu/oldstats/](http://damnation.eu/oldstats/)
-*   For mcMMO stats and skills, try /mcstats and /help mcmmo
-*   For Survival Games stats: [http://damnation.eu/sg/](http://damnation.eu/sg/)
+___
 
+<div style="text-align: center;" markdown="1">
+## Are you an InfoAddict?
+</div>
+
+*   We have [very extensive stats on all players](http://damnation.eu/stats/) including high score lists! 
+*   We kept our [very old stats](http://damnation.eu/oldstats/) as well
+*   For mcMMO stats, skills, and high scores, try **/mcstats**, **/mcrank**, **/mctop**, and **/inspect <player>** while in-game
+
+___
+
+<div style="text-align: center;" markdown="1">
 ## Have an idea for the server?
+</div>
 
-Post them under our [Suggestions subforum](https://damnation.eu/phpbb/posting.php?mode=post&f=27)! We’re always happy to get community input!
+Whether it's a small feature, a custom world, or a server gamemode, we love getting ideas from the community - when you are passionate about server development, so is the staff! Post them under our [Suggestions subforum](https://damnation.eu/phpbb/posting.php?mode=post&f=27) to make sure that your idea gets seen!
 
-## Found an Error?
+___
 
-Ask an active admin in-game, make a /modreq, or post under the [Help, Support and Errors subforum.](https://damnation.eu/phpbb/posting.php?mode=post&f=28)
+<div style="text-align: center;" markdown="1">
+## Found an error?
+</div>
 
-## Want to follow what happens, updates, features etc?
+Ask an active admin in-game, make a **/modreq <message>**, or post under the [Help, Support and Errors subforum](https://damnation.eu/phpbb/posting.php?mode=post&f=28). Remember that since most staff don't play on the server like players, we may not always catch every bug, so if something seems amiss, it never hurts to ask or report!
 
-*   Read the News subforum.
-*   Follow our daily progress on [our Trello board](https://trello.com/b/pV9GZNp6/damnation).
-*   Check our [public change log](http://damnation.eu/phpbb/viewtopic.php?f=19&t=7495) on the forums.
-*   View New Posts and View Active Topics links on the frontpage.
-*   Pay attention to the purple server messages while in-game
-*   Subscribe to, post, and comment on [our subreddit, /r/netherendingstory](http://www.reddit.com/r/netherendingstory)
+___
 
+<div style="text-align: center;" markdown="1">
+## Want to follow server development?
+</div>
+
+*   Read the [News Subforum](https://damnation.eu/phpbb/viewforum.php?f=19) or [Events Subforum](https://damnation.eu/phpbb/viewforum.php?f=29).
+*   Check [/news]({{site.baseurl}}/damnnews-guide}} on Main, Minigames, or Abaddon - they're server specific!
+*   Check our [Public Change Log Archives]({{site.baseurl}}/changelog).
+*   View New Posts and View Active Topics links on the forums.
+*   Pay attention to the purple server messages in-game.
+
+___
+
+<div style="text-align: center;" markdown="1">
 ## Want to Support the Server?
+</div>
 
-Contribute to the significant costs and development of the server by considering making a small donation.
+Contribute to the significant costs and development of the server by considering making a small donation and receive some nice thank you perks!
 
-The server is run completely on idealistic terms, and I am paying for the brunt of it out of my own personal pocket (didn't even have donations for the first 6 months of operation). All donated money will go to server running costs (we do have dedicated monster hardware in a datacenter) and/or improvements/advertising.
+The server is run completely on idealistic terms, and OriginalMadman pays for the brunt of it out of his own personal pocket (didn't even have donations for the first 6 months of operation). All donated money will go to server running costs (we do have [dedicated monster hardware in a datacenter]({{site.baseurl}}/server-specs)) and/or improvements/advertising.
 
-See the [Donations](/about-us/donations) for details.
+See the [Donations page]({{site.baseurl}}/donate) for details about donation rates and perks.
 
-Enjoy your eternal stay in damNation!
+___
+
+<div style="text-align: center;" markdown="1">
+# Enjoy your eternal stay in damNation!
+</div>
