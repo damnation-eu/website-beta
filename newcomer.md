@@ -51,7 +51,7 @@ ___
 ##Need Money?
 </div>
 
-*   [Vote!]({{site.baseurl}}/vote) It is by far the fastest and easiest way to earn cash. You can earn 200c by voting on each site every 24 hours.
+*   [Vote!]({{site.baseurl}}/voting) It is by far the fastest and easiest way to earn cash. You can earn 200c by voting on each site every 24 hours.
 *   Buy and sell stuff at the market
 *   Play and win more than you lose at Mob Arena
 *   Raid dungeons (hard, see below)
