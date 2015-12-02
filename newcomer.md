@@ -144,7 +144,7 @@ ___
 
 *   We have [very extensive stats on all players](http://damnation.eu/stats/) including high score lists! 
 *   We kept our [very old stats](http://damnation.eu/oldstats/) as well
-*   For mcMMO stats, skills, and high scores, try **/mcstats**, **/mcrank**, **/mctop**, and **/inspect <player>** while in-game
+*   For mcMMO stats, skills, and high scores, try **/mcstats**, **/mcrank**, **/mctop**, and **/inspect (player)** while in-game
 
 ___
 
@@ -160,7 +160,7 @@ ___
 ## Found an error?
 </div>
 
-Ask an active admin in-game, make a **/modreq <message>**, or post under the [Help, Support and Errors subforum](https://damnation.eu/phpbb/posting.php?mode=post&f=28). Remember that since most staff don't play on the server like players, we may not always catch every bug, so if something seems amiss, it never hurts to ask or report!
+Ask an active admin in-game, make a **/modreq (message)**, or post under the [Help, Support, and Errors Subforum](https://damnation.eu/phpbb/posting.php?mode=post&f=28). Remember that since most staff don't play on the server like players, we may not always catch every bug, so if something seems amiss, it never hurts to ask or report!
 
 ___
 
@@ -169,7 +169,7 @@ ___
 </div>
 
 *   Read the [News Subforum](https://damnation.eu/phpbb/viewforum.php?f=19) or [Events Subforum](https://damnation.eu/phpbb/viewforum.php?f=29).
-*   Check [/news]({{site.baseurl}}/damnnews-guide}} on Main, Minigames, or Abaddon - they're server specific!
+*   Check **[/news]({{site.baseurl}}/damnnews-guide)** on Main, Minigames, or Abaddon - they're server specific!
 *   Check our [Public Change Log Archives]({{site.baseurl}}/changelog).
 *   View New Posts and View Active Topics links on the forums.
 *   Pay attention to the purple server messages in-game.
