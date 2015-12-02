@@ -6617,5 +6617,14 @@ th.hide-for-touch {
 @media not print {
   .show-for-print {
     display: none !important; } }
+    
+.sub_logo {
+    background-image: url("https://damnation.eu/phpbb/styles/grassland_lite/theme/images/apply_here.png");
+    width: 577px;
+    height: 36px;
+    background-position: center right;
+    background-repeat: no-repeat;
+    text-align: left;
+}
 
 /*# sourceMappingURL=foundation.css.map */
