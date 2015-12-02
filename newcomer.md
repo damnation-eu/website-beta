@@ -8,7 +8,9 @@ Once you made a successful application, an admin will promotion to Goblin. Gobli
 
 Enough of that, you'll learn it all later. As a new-born Goblin you'll probably want to do the following right away:
 
-## How to Start out
+<div style="text-align: center;" markdown="1">
+##How To Start Out
+</div>
 
 1.  Get the free starter-kit in the information house near spawn in [Homeland]({{site.baseurl}}/homeland). Do /spawn to get there fast. It has some basics and some food so you won't starve.
 2.  Vote for the server! This will get you some nice and easy cash to get started. You can vote daily on each site, earning you 200c per day. Check your money with /money. Read more
