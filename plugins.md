@@ -213,7 +213,7 @@ Main uses over a hundred plugins that operate on most worlds.  Refer to the list
   <tr>
     <td class="tg-yw4l">ReportRTS</td>
     <td class="tg-yw4l"><i>No More Information</i></td>
-    <td class="tg-yw4l">Place a report for an issue in-game for an admin to refer to later by typing '''/modreq <message>''' at the location of the issue.</td>
+    <td class="tg-yw4l">Place a report for an issue in-game for an admin to refer to later by typing <b>/modreq (message)</b> at the location of the issue.</td>
   </tr>
   <tr>
     <td class="tg-yw4l">SignEdit</td>
