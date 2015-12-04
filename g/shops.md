@@ -21,8 +21,8 @@ ___
 
 To browse someone's shop, right click their shop sign. From here, you can use the GUI's buttons to navigate the shop, search for items, and purchase or sell them.
 
-<a><img src="http://damnation.eu/wiki/images/3/36/Shop_Use.png"></a>
-<table class="tg" width="65%" style="background-color:#FFF; text-align:center; border: 2px solid #000; float:right;">
+<a style="float:left; max-width:464px; width: 40%;"><img src="http://damnation.eu/wiki/images/3/36/Shop_Use.png"></a>
+<table class="tg" width="60%" style="background-color:#FFF; text-align:center; border: 2px solid #000; float:right;">
   <tr>
     <th class="tg-yw4l" width="20%">Item</th>
     <th class="tg-yw4l" width="80%">Uses</th>
@@ -78,9 +78,9 @@ When adding items to your "Buying" inventory, **Asking Amount** refers to the am
 
 Once you add an item to your shop, you may add all other matching items of that type in your inventory by left-clicking them.
 
-<a><img src="http://damnation.eu/wiki/images/5/5b/Shop_Manage.png"></a>
+<a style="float:left; max-width:464px; width: 40%;"><img src="http://damnation.eu/wiki/images/5/5b/Shop_Manage.png"></a>
 
-<table class="tg" width="65%" style="background-color:#FFF; text-align:center; border: 2px solid #000; float:right;">
+<table class="tg" width="60%" style="background-color:#FFF; text-align:center; border: 2px solid #000; float:right;">
   <tr>
     <th class="tg-yw4l" width="20%">Item</th>
     <th class="tg-yw4l" width="80%">Uses</th>
