@@ -173,7 +173,7 @@ Main uses over a hundred plugins that operate on most worlds.  Refer to the list
   <tr>
     <td class="tg-yw4l">McStatus</td>
     <td class="tg-yw4l"><i>No More Information</i></td>
-    <td class="tg-yw4l">Check the status of Minecraft services in-game. Check in chat: '''/mcs status''', or in a gui, '''/mcs gui'''.</td>
+    <td class="tg-yw4l">Check the status of Minecraft services in-game. Check in chat: <b>/mcs status</b>, or in a gui, <b>/mcs gui</b>.</td>
   </tr>
   <tr>
     <td class="tg-yw4l">MineResetLite</td>
