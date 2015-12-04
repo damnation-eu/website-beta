@@ -16,24 +16,34 @@ Main uses over a hundred plugins that operate on most worlds.  Refer to the list
     <td class="tg-yw4l">Eliminates the lag from large world edit sessions.</td>
   </tr>
   <tr>
+    <td class="tg-9hbo">BeardStat</td>
+    <td class="tg-yw4l"><a href="{{site.baseurl}}/stat-guide">Guide</a></td>
+    <td class="tg-yw4l">Keeps track of a variety of statistics for fun and for rank requirements.</td>
+  </tr>
+  <tr>
     <td class="tg-9hbo">BetonQuest</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="{{site.baseurl}}/quest-guide">Guide</a></td>
     <td class="tg-yw4l">Adds limitless abilities for roleplaying quests and conversations of all sorts.</td>
   </tr>
   <tr>
     <td class="tg-9hbo">BetterShops</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="{{site.baseurl}}/shops-guide">Guide</a></td>
     <td class="tg-yw4l">BetterShops is the server's method of buying, selling, and trading items.</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Bookshelf</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="{{site.baseurl}}/bookshelf-guide">Guide</a></td>
     <td class="tg-yw4l">Bookshelves have the capability of storing books within them, accessible to the creator and any play they allow access.</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Catacombs</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="{{site.baseurl}}/catacombs-guide">Guide</a></td>
     <td class="tg-yw4l">Dangerous and rewarding repeatable dungeons.</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Chat Reaction</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Test your reaction time, typing speed, and unscrambling abilities in this intermittent chat game.</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Citizens</td>
@@ -101,19 +111,169 @@ Main uses over a hundred plugins that operate on most worlds.  Refer to the list
     <td class="tg-yw4l">Floating text signs used for information or advertising. A purchasable feature for shop owners.</td>
   </tr>
   <tr>
+    <td class="tg-yw4l">HomeSpawnPlus</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Set /home at your base or your favorite mineshaft to return there later with ease!</td>
   </tr>
   <tr>
+    <td class="tg-yw4l">Infernal Mobs</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Dangerous, unique, and powerful mobs will spawn rarely throughout most public survival worlds to provide opportunities for challenge, reward, and fear.</td>
   </tr>
   <tr>
+    <td class="tg-yw4l">InstantReset</td>
     <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Used to reset worlds to allow for repeatable activities, such as The End.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IntoChest</td>
     <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Use crafting tables and redstone to create sorting or short-range item transport without hoppers.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">IslandWorld</td>
     <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Traditional SkyBlock survival challenge with a variety of objectives and rewards for completion.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LampControl</td>
+    <td class="tg-yw4l"><i>No More Information</i></td>
+    <td class="tg-yw4l">Light redstone lamps without a direct power source by right clicking them with flint and steel.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Lift</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Create smooth elevators of various sizes to travel around the floors of your house or back up from your mineshafts.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Logblock</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Keeps track of all block changes to allow for rollbacks and griefing investigation.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">LWC</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Protects your chests, furnaces, doors, hoppers, gates, etc from being opened by other players. Can also add players to protections to allow access.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ManySmallTweaks</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">A variety of slight block and gameplay-related tweaks.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">McMMO</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Adds an RPG element to the server where you can ;evel up your skills as you mine, fish, and fall to unlock more powerful features.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">McStatus</td>
+    <td class="tg-yw4l"><i>No More Information</i></td>
+    <td class="tg-yw4l">Check the status of Minecraft services in-game. Check in chat: '''/mcs status''', or in a gui, '''/mcs gui'''.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MineResetLite</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Handles the resetting publicmine and sandfarm.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">MobArena</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Battle round after round of monsters by yourself or with friends to win crowns and eternal glory.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Multiverse</td>
+    <td class="tg-yw4l"><a href="{{site.baseurl}}/survival-worlds">Guide</a></td>
+    <td class="tg-yw4l">Allows for the dozens of worlds we host on the server.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Munchausen Fireworks</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Right click the ground with these rockets and send yourself flying!</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PaintingSwitch</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Select a painting and scroll with your mouse wheel through all available paintings to find the one you actually wanted to place.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">PvPManager</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Optional PvP toggle to fight your friends (or enemies).</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RepairRecipe</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Repair damaged tools, weapons, and armor in your crafting grid with raw materials.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">ReportRTS</td>
+    <td class="tg-yw4l"><i>No More Information</i></td>
+    <td class="tg-yw4l">Place a report for an issue in-game for an admin to refer to later by typing '''/modreq <message>''' at the location of the issue.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SignEdit</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Edit individual lines of a sign after you've placed it or add color tags.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">SimpleCalc</td>
+    <td class="tg-yw4l"><i>No More Information</i></td>
+    <td class="tg-yw4l">Too lazy to open your computer or phone calculator? Make simple calculations in-game with <b>/calc</b>!</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Treasure Chest</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Used to add a variety of mostly on-time treasures throughout our worlds.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">TreasureHunt</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Generates randomly-spawning timed treasures in certain worlds. Keep your rotten flesh handy!</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">UnhealthyDeath</td>
+    <td class="tg-yw4l"><i>No More Information</i></td>
+    <td class="tg-yw4l">Spawn with less health and hunger after death for extra challenge.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">UnlimitedRecipes</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Used to creative a variety of custom crafting recipes.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Vault</td>
+    <td class="tg-yw4l"><i>No More Information</i></td>
+    <td class="tg-yw4l">Necessary in conjunction with plugins that use money</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Votifier</td>
+    <td class="tg-yw4l"><i>No More Information</i></td>
+    <td class="tg-yw4l">Grants you crowns for <a href="{{site.baseurl}}/voting">voting for the server</a> on a handful of server list sites. </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">VoxelSniper</td>
+    <td class="tg-yw4l"><i>No More Information</i></td>
+    <td class="tg-yw4l">Powerful world-altering tool. Access currently limited to admins and those who have their own creative world.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WhatIsIt</td>
+    <td class="tg-yw4l"><i>No More Information</i></td>
+    <td class="tg-yw4l">Type <b>/wis</b> while holding an item for its name, id, enchantments, or other information.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WorldBorder</td>
+    <td class="tg-yw4l"><i>No More Information</i></td>
+    <td class="tg-yw4l">Creates invisible, impassible borders around worlds to restrict expansion.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WorldEdit</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Powerful world manipulation tool. Able to change blocks, copy, paste, move, flip, and rotate selections with ease. Only for use by staff for administration purposes in survival.</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">WorldGuard</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Protects regions from editing. Basic plugin that allows for plots, custom regions, and other effects.</td>
   </tr>
   <tr>
     <td class="tg-yw4l"></td>
