@@ -21,6 +21,7 @@ ___
 
 To browse someone's shop, right click their shop sign. From here, you can use the GUI's buttons to navigate the shop, search for items, and purchase or sell them.
 
+<a><img src="http://damnation.eu/wiki/images/3/36/Shop_Use.png"></a>
 <table class="tg" width="65%" style="background-color:#FFF; text-align:center; border: 2px solid #000; float:right;">
   <tr>
     <th class="tg-yw4l" width="20%">Item</th>
@@ -76,6 +77,8 @@ When adding items to your shop, the default price is **100c**. This relatively h
 When adding items to your "Buying" inventory, **Asking Amount** refers to the amount of items the person would buy in one transaction for the price given. By default, asking amount is 1. Say, if you wanted to buy cobble by the stack at 1 crown per cobble, you could make the asking amount '64' and the price '64'. Unless you have been sold items, **DO NOT** attempt to collect **Stock**. This will put your stock into the negatives and you will lose out on the items people have sold to you.
 
 Once you add an item to your shop, you may add all other matching items of that type in your inventory by left-clicking them.
+
+<a><img src="http://damnation.eu/wiki/images/5/5b/Shop_Manage.png"></a>
 
 <table class="tg" width="65%" style="background-color:#FFF; text-align:center; border: 2px solid #000; float:right;">
   <tr>
