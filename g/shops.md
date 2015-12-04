@@ -2,9 +2,11 @@
 ---
 #BetterShops
 
-**BetterShops** is the server's shop plugin that replaced the deprecated SignShop plugin. It allows players to create a shop selling nearly 100 different kinds of items in one shop, accessible through an intuitive and attractive GUI.
+**BetterShops** is the server's shop plugin that replaced the deprecated QuickShop plugin. It allows players to create a shop selling nearly 100 different kinds of items in one shop, accessible through an intuitive and attractive GUI.
 
-Please note that if some of the tooltips go off of your screen, adjust your GUI size to smaller in your video settings.
+The plugin's developer updates it frequently, so if this page's information is our of date, let us know right away! The official wiki for the plugin is <a href="https://github.com/moomaxie/BetterShops/wiki">located here</a>.
+
+<i><b>Please note that if some of the tooltips go off of your screen, adjust your GUI size to smaller in your video settings.</i></b>
 
 ___
 
