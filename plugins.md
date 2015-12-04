@@ -31,6 +31,21 @@ Main uses over a hundred plugins that operate on most worlds.  Refer to the list
     <td class="tg-yw4l">Bookshelves have the capability of storing books within them, accessible to the creator and any play they allow access.</td>
   </tr>
   <tr>
+    <td class="tg-9hbo">Catacombs</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Dangerous and rewarding repeatable dungeons.</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Citizens</td>
+    <td class="tg-jogk">No More Inforation</td>
+    <td class="tg-yw4l">Used to make custom NPCs for quests and aesthetics.</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">ColoredAnvils</td>
+    <td class="tg-jogk">No More Inforation</td>
+    <td class="tg-yw4l">Adds the ability to use Minecraft color codes when renaming items in an anvil.</td>
+  </tr>
+  <tr>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
