@@ -21,7 +21,7 @@ ___
 
 To browse someone's shop, right click their shop sign. From here, you can use the GUI's buttons to navigate the shop, search for items, and purchase or sell them.
 
-<table class="tg" width="50%" style="background-color:#FFF; text-align:center; border: 2px solid #000; float:right;">
+<table class="tg" width="65%" style="background-color:#FFF; text-align:center; border: 2px solid #000; float:right;">
   <tr>
     <th class="tg-yw4l" width="20%">Item</th>
     <th class="tg-yw4l" width="80%">Uses</th>
@@ -77,7 +77,7 @@ When adding items to your "Buying" inventory, **Asking Amount** refers to the am
 
 Once you add an item to your shop, you may add all other matching items of that type in your inventory by left-clicking them.
 
-<table class="tg" width="50%" style="background-color:#FFF; text-align:center; border: 2px solid #000; float:right;">
+<table class="tg" width="65%" style="background-color:#FFF; text-align:center; border: 2px solid #000; float:right;">
   <tr>
     <th class="tg-yw4l" width="20%">Item</th>
     <th class="tg-yw4l" width="80%">Uses</th>
@@ -122,3 +122,5 @@ Once you add an item to your shop, you may add all other matching items of that 
     <td class="tg-jogk"><b>Left-click</b> adds the item to your shop. If you have multiples, it will add <b>ALL</b>.</td>
   </tr>
 </table>
+
+___
