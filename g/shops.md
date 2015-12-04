@@ -21,30 +21,38 @@ ___
 
 To browse someone's shop, right click their shop sign. From here, you can use the GUI's buttons to navigate the shop, search for items, and purchase or sell them.
 
-[[Image:Shop_Use.png|left|250px|BetterShops GUI Screen‎]]
-{| class="wikitable" style="background-color:#FFF; text-align:center; border: 2px solid #000;"
-! style="text-align:center; width:10%;"| Item
-! style="text-align:center; width:90%;"| Uses
-|-
-|Arrow/Dye
-|Moves pages
-|-
-|rowspan="2"|Sign
-|**Right-click** opens menu to search the shop for an item by name or ID.
-|-
-|**Left-click** toggles between the shop's "buying" and "selling" windows. When the sign's name is "Buying," you are in the window where you can buy their stock, and vice-versa.
-|-
-|Chest
-|**Left-click** opens your Cart. You can add many items to your cart while browsing to buy them all at once, rather than exiting the menu after purchasing each item individually.
-|-
-|Enderchest
-|Shows you the Shop name, description, owners, and shopkeepers.
-|-
-|rowspan="2"|Shop Items
-|**Click** opens up a GUI to buy that item immediately
-|-
-|**Shift-Click** adds that item to your cart for later purchase.
-|}
+<table class="tg" width="50%" style="background-color:#FFF; text-align:center; border: 2px solid #000; float:right;">
+  <tr>
+    <th class="tg-yw4l" width="20%">Item</th>
+    <th class="tg-yw4l" width="80%">Uses</th>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Arrow/Dye</td>
+    <td class="tg-jogk">Moves pages</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo" rowspan="2">Sign</td>
+    <td class="tg-jogk"><b>Right-click</b> opens menu to search the shop for an item by name or ID</td>
+  </tr>
+  <tr>
+    <td class="tg-jogk"><b>Left-click</b> toggles between the shop's "buying" and "selling" windows. When the sign's name is "Buying," you are in the window where you can buy their stock, and vice-versa.</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Chest</td>
+    <td class="tg-jogk"><b>Left-click</b> opens your Cart. You can add many items to your cart while browsing to buy them all at once, rather than exiting the menu after purchasing each item individually.</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Enderchest</td>
+    <td class="tg-jogk"><b>Left-click</b> shows you the Shop name, description, owners, and shopkeepers.</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo" rowspan="2">Shop Items</td>
+    <td class="tg-jogk"><b>Click</b> opens up a GUI to buy that item immediately</td>
+  </tr>
+  <tr>
+    <td class="tg-jogk"><b>Shift-click</b> adds that item to your cart for later purchase.</td>
+  </tr>
+</table>
 
 ___
 
@@ -69,9 +77,7 @@ When adding items to your "Buying" inventory, **Asking Amount** refers to the am
 
 Once you add an item to your shop, you may add all other matching items of that type in your inventory by left-clicking them.
 
-[[Image:Shop_Manage.png|left|250px|BetterShops GUI Screen‎]]
-
-<table class="tg" width="20%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
+<table class="tg" width="50%" style="background-color:#FFF; text-align:center; border: 2px solid #000; float:right;">
   <tr>
     <th class="tg-yw4l" width="20%">Item</th>
     <th class="tg-yw4l" width="80%">Uses</th>
@@ -95,21 +101,24 @@ Once you add an item to your shop, you may add all other matching items of that 
   <tr>
     <td class="tg-9hbo"><b>Shift-click</b> switches to item arrangement mode.</td>
   </tr>
+  <tr>
+    <td class="tg-9hbo">Head</td>
+    <td class="tg-jogk"><b>Left-click</b> opens the menu to view and manage your Shopkeepers.</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Shop Items</td>
+    <td class="tg-jogk"><b>Left-click</b> opens a menu allowing you to change that item's price, the amount of items sold/bought per purchase, or remove that item from the shop.</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Emerald</td>
+    <td class="tg-jogk"><b>Click</b> to open shop transaction history. Here you can view who bought what, when, and how many. You may also clear your history at any time.</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Nametag</td>
+    <td class="tg-jogk"><i>(In Selling Menu)</i> <b>Left-click</b> to add an item by name to your Selling menu.</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Inventory Items</td>
+    <td class="tg-jogk"><b>Left-click</b> adds the item to your shop. If you have multiples, it will add <b>ALL</b>.</td>
+  </tr>
 </table>
-
-
-|Head
-|**Left-click** opens the menu to view and manage your Shopkeepers.
-|-
-|Shop Items
-|**Left-click** opens a menu allowing you to change that item's price, the amount of items sold/bought per purchase, or remove that item from the shop.
-|-
-|Emerald
-|**Click** to open shop transaction history. Here you can view who bought what, when, and how many. You may also clear your history at any time.
-|-
-|Nametag
-|''(In Selling Menu)'' **Left-click** to add an item by name to your Selling menu.
-|-
-|Inventory Items
-|**Left-click** adds the item to your shop. 
-|}
