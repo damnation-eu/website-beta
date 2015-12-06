@@ -86,6 +86,11 @@ Main uses over a hundred plugins that operate on most worlds.  Refer to the list
     <td class="tg-yw4l">Keep informed about each server's recent updates and events while in-game</td>
   </tr>
   <tr>
+    <td class="tg-yw4l">damnThanks</td>
+    <td class="tg-yw4l"><i>No More Information</i></td>
+    <td class="tg-yw4l">Used for rewarding players' participation in polls</td>
+  </tr>
+  <tr>
     <td class="tg-yw4l">damnTime</td>
     <td class="tg-yw4l"><a href="{{site.baseurl}}/g/damntime">Guide</a></td>
     <td class="tg-yw4l">Visually changes time of day for the individual user without affecting server time. Useful for screenshots.</td>
