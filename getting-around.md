@@ -54,4 +54,4 @@ You can request a teleport to another player using <b>/tpa [player]</b>. The pla
 
 ___
 
-<center>###Now that you know how to get around in the multiverse, and how to get back home, gear up, and get exploring!</center>
+<center>Now that you know how to get around in the multiverse, and how to get back home, gear up, and get exploring!</center>
