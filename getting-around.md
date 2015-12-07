@@ -3,14 +3,13 @@
 #Getting Around
 
 Starting out in a new server can be quite daunting. damNation has a LOT to see and do, way more than your average server. This page lists some indispensable travel tips for getting around in the multiverse. You'll still feel a bit lost, but hey, that's part of the fun of being on a new server, right!
+
 ___
 
 <div style="text-align: center;" markdown="1">
 ##Local Travel
 </div>
-
-Set Home
-When you start out, you can only have 1 <b>/home</b> per world. We recommend you set this home at your Spawn City plot in [Homeland]({{site.baseurl}}/homeland). Once you gain higher ranks, you can set more homes per world! Extra homes must be set with a name/sethome home2 or whatever name you like. The homes are <b>case-sensitive</b> - <i>there is a difference between /home Storage and /home storage</i>. List your homes with <b>/homes</b>.
+The most personalized method of travel is using homes. When you start out, you can only have <b>one /home per world</b> which you can set with <b>/sethome</b> or an optional name with <b>/sethome (homename)</b>. We recommend you set this home at your Spawn City plot in [Homeland]({{site.baseurl}}/homeland). Once you gain higher ranks, you can set more homes per world! Extra homes <b>must</b> be set with a name. Homes are <b>case-sensitive</b> - <i>there is a difference between /home Storage and /home storage</i>. List your homes with <b>/homes</b>.
 
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 50px 20px 50px;">
       PROTIP: If you use unique home titles in each world, you can travel quickly between homes in different worlds!
@@ -55,4 +54,4 @@ You can request a teleport to another player using <b>/tpa [player]</b>. The pla
 
 ___
 
-###Now that you know how to get around in the multiverse, and how to get back home, gear up, and get exploring!
+<center>###Now that you know how to get around in the multiverse, and how to get back home, gear up, and get exploring!</center>
