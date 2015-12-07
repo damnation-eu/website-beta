@@ -15,7 +15,11 @@
         <li class="has-dropdown"><a>Main</a>
           <ul class="dropdown">
             <li><a href="{{site.baseurl}}/main">Server Info</a></li>
-            <li><a href="{{site.baseurl}}/newcomer">Getting Started</a></li>
+            <li class="has-dropdown"><a>Getting Started</a>
+              <ul class="dropdown">
+                <li><a href="{{site.baseurl}}/newcomer">Newcomer Guide</a></li>
+              </ul>
+            </li>
             <li><a href="{{site.baseurl}}/survival-worlds">Worlds</a></li>
             <li><a href="{{site.baseurl}}/plugins">Plugins</a></li>
             <li><a href="{{site.baseurl}}/land">Land Ownership</a></li>
@@ -71,6 +75,9 @@
     </div>
   </div>
 </nav>
+
+<%= javascript_include_tag "foundation" %>
+    <script>$(document).foundation();</script>
 <!--  <script>
     $(document).foundation();
   </script>
