@@ -38,6 +38,12 @@ ___
     <td class="tg-9hbo">Daily</td>
   </tr>
   <tr>
+    <td class="tg-9hbo">ChatReaction</td>
+    <td class="tg-9hbo">20c</td>
+    <td class="tg-9hbo">Main</td>
+    <td class="tg-9hbo">Every 20 minutes</td>
+  </tr>
+  <tr>
     <td class="tg-9hbo">Dropper Levels</td>
     <td class="tg-9hbo">110c</td>
     <td class="tg-9hbo">Minigames</td>
@@ -60,30 +66,6 @@ ___
     <td class="tg-9hbo">343.75c</td>
     <td class="tg-9hbo">Minigames</td>
     <td class="tg-9hbo">Weekly</td>
-  </tr>
-  <tr>
-    <td class="tg-9hbo">Dropper - Final Reward</td>
-    <td class="tg-9hbo">500c</td>
-    <td class="tg-9hbo">Minigames</td>
-    <td class="tg-9hbo">No</td>
-  </tr>
-  <tr>
-    <td class="tg-9hbo">Dropper 2 - Final Reward</td>
-    <td class="tg-9hbo">500c</td>
-    <td class="tg-9hbo">Minigames</td>
-    <td class="tg-9hbo">No</td>
-  </tr>
-  <tr>
-    <td class="tg-9hbo">Downward - Final Reward</td>
-    <td class="tg-9hbo">500c</td>
-    <td class="tg-9hbo">Minigames</td>
-    <td class="tg-9hbo">No</td>
-  </tr>
-  <tr>
-    <td class="tg-9hbo">t3c Parkour - Final Reward</td>
-    <td class="tg-9hbo">500c</td>
-    <td class="tg-9hbo">Minigames</td>
-    <td class="tg-9hbo">No</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Checking the News</td>
@@ -122,6 +104,12 @@ ___
     <td class="tg-9hbo">Yes</td>
   </tr>
   <tr>
+    <td class="tg-9hbo">Manage a Shop</td>
+    <td class="tg-9hbo">Varies</td>
+    <td class="tg-9hbo">Main</td>
+    <td class="tg-9hbo">Yes</td>
+  </tr>
+  <tr>
     <td class="tg-9hbo">Quests <i>Coming Soon!</i></td>
     <td class="tg-9hbo">Varies</td>
     <td class="tg-9hbo">Main</td>
@@ -134,40 +122,52 @@ ___
     <td class="tg-9hbo">Once Per Survey</td>
   </tr>
   <tr>
-    <td class="tg-9hbo">ChatReaction</td>
-    <td class="tg-9hbo">20c</td>
-    <td class="tg-9hbo">Main</td>
-    <td class="tg-9hbo">Every 20 minutes</td>
-  </tr>
-  <tr>
     <td class="tg-9hbo">Creative Competitions (Quick or Week-long)</td>
     <td class="tg-9hbo">Varies</td>
     <td class="tg-9hbo">Creative</td>
-    <td class="tg-9hbo">No</td>
+    <td class="tg-9hbo">Special</td>
   </tr>
   <tr>
     <td class="tg-9hbo">PvP Competitions (UHC or Towny War)</td>
     <td class="tg-9hbo">Varies</td>
     <td class="tg-9hbo">PvP</td>
-    <td class="tg-9hbo">No</td>
+    <td class="tg-9hbo">Special</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Game Nights (Tournament)</td>
     <td class="tg-9hbo">Varies</td>
     <td class="tg-9hbo">Minigames</td>
-    <td class="tg-9hbo">No</td>
+    <td class="tg-9hbo">Special</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Special Server Events</td>
     <td class="tg-9hbo">Varies</td>
     <td class="tg-9hbo">Creative</td>
+    <td class="tg-9hbo">Special</td>
+  </tr>
+    <tr>
+    <td class="tg-9hbo">Dropper - Final Reward</td>
+    <td class="tg-9hbo">500c</td>
+    <td class="tg-9hbo">Minigames</td>
     <td class="tg-9hbo">No</td>
   </tr>
   <tr>
-    <td class="tg-9hbo">Manage a Shop</td>
-    <td class="tg-9hbo">Varies</td>
-    <td class="tg-9hbo">Main</td>
-    <td class="tg-9hbo">Yes</td>
+    <td class="tg-9hbo">Dropper 2 - Final Reward</td>
+    <td class="tg-9hbo">500c</td>
+    <td class="tg-9hbo">Minigames</td>
+    <td class="tg-9hbo">No</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Downward - Final Reward</td>
+    <td class="tg-9hbo">500c</td>
+    <td class="tg-9hbo">Minigames</td>
+    <td class="tg-9hbo">No</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">t3c Parkour - Final Reward</td>
+    <td class="tg-9hbo">500c</td>
+    <td class="tg-9hbo">Minigames</td>
+    <td class="tg-9hbo">No</td>
   </tr>
 </table>
 
@@ -191,6 +191,21 @@ ___
   <tr>
     <td class="tg-9hbo">Buy A Shop</td>
     <td class="tg-9hbo">3000c</td>
+    <td class="tg-9hbo">Main - Homeland</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Reset World (The End, Earthsea)</td>
+    <td class="tg-9hbo">1000c</td>
+    <td class="tg-9hbo">Main</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Shop at the Market</td>
+    <td class="tg-9hbo">Varies</td>
+    <td class="tg-9hbo">Main - Homeland</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Paid Labor - Hire players to mine for you!</td>
+    <td class="tg-9hbo">Varies</td>
     <td class="tg-9hbo">Main</td>
   </tr>
 </table>
