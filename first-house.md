@@ -4,39 +4,34 @@
 
 Every player is eligible for one <b>FREE</b> protected plot in the main server city. Follow the instructions below to claim yours!
 
-<ol>Look on our <a href="damnation.eu/dynmap">Dynmap</a> for open plots, outlined in green.</ol>
-<ol>Choose a plot you like and visit it</ol>
-<ol>If the plot is empty and has a sign on it, it's yours to claim! Otherwise, keep looking.</ol>
-<ol>Right click the sign on the plot</ol>
-<ol>Type <b>/selfservice buy</b></ol>
-<ol>Grab some materials (e.g. <b>/warp treefarm</b>)</ol>
-<ol>Build an awesome house to impress your neighbors!</ol>
+<ol>1. Look on our <a href="damnation.eu/dynmap">Dynmap</a> for open plots, outlined in green.</ol>
+<ol>2. Choose a plot you like and visit it</ol>
+<ol>3. If the plot is empty and has a sign on it, it's yours to claim! Otherwise, keep looking.</ol>
+<ol>4. Right click the sign on the plot</ol>
+<ol>5. Type <b>/selfservice buy</b></ol>
+<ol>6. Grab some materials (e.g. <b>/warp treefarm</b>)</ol>
+<ol>7. Build an awesome house to impress your neighbors!</ol>
 
 ___
 
 <div style="text-align: center;" markdown="1">
 #Building Code
-</div>
+
 You are free to build in whatever style you wish, but keep in mind damNation's building code:
 
-<div style="text-align: center;" markdown="1">
-<b>Plot Dimensions</b>
-</div>
+<h3>Plot Dimensions</h3>
+
 Starter plots are 20x20, extending up 20 blocks and down to bedrock. You may [expand your plot higher]({{site.baseurl}}/land) for a fee.
 
-<div style="text-align: center;" markdown="1">
-<b>Automatic Protection</b>
-</div>
+<h3>Automatic Protection</h3>
+
 Your plot is fully protected - no one else can build, destroy, or take anything from chests. However, players are free to open doors, press buttons, or trigger pressure plates and tripwires. You may lock things like doors by using <b>/lock</b> or add players to your chests with <b>/cmodify</b> (Read More - [LWC Guide]({{site.baseurl}}/g/lwc)). You may add other players to your plot with <b>/rg addmember (plotname) (player)</b> (Read More - [WorldGuard Guide]({{site.baseurl}}/g/worldguard)).
 
-<div style="text-align: center;" markdown="1">
-<b>Keep Up Appearances</b>
-</div>
+<h3>Keep Up Appearances</h3>
+
 One of the rules that you agreed to when joining the server dealt with the restriction of "cobble box" type builds. We ask that you consider the builds around you and make something as, if not more, attractive. If you don't think you can build well, <b>ask other players or admins for tips</b> or to tour their builds for inspiration!
 
-<div style="text-align: center;" markdown="1">
-<b>Reposession</b>
-</div>
+<h3>Reposession</h3>
 You have <b>10 days</b> to complete your build. This includes interior and exterior above ground. Your basement is not included. Once you have completed your house, it will be safe from repossession. Staff will put a sign outside your plot to give you at least a week's notice before the plot is reset. Any valuable items inside of the plot are saved, so you may claim them again at any time by visiting it yourself at <b>/warp homeland vault</b> and then asking an admin to <b>check the vault</b> and retrieve your items.
 
 ___
@@ -44,7 +39,7 @@ ___
 <div style="text-align: center;" markdown="1">
 #Home Is Where The /sethome Is
 </div>
-New residents join the server and build their home every day, and the City is getting bigger! To avoid getting lost in the unfamiliar streets, the first thing you should do is set your home by typing <b>/sethome (homename)</b>. Revisit your home by typing <b>/home (homename)</b>
+New residents join the server and build their home every day, and the City is getting bigger! To avoid getting lost in the unfamiliar streets, the first thing you should do is set your home by typing <b>/sethome (homename)</b>. Revisit your home by typing <b>/home (homename)</b>.
 
 ___
 
