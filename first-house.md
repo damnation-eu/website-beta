@@ -4,7 +4,7 @@
 
 Every player is eligible for one <b>FREE</b> protected plot in the main server city. Follow the instructions below to claim yours!
 
-<ol>Look on our [dynmap](http://damnation.eu/dynmap/) for open plots, outlined in green.</ol>
+<ol>Look on our <a href="damnation.eu/dynmap">Dynmap</a> for open plots, outlined in green.</ol>
 <ol>Choose a plot you like and visit it</ol>
 <ol>If the plot is empty and has a sign on it, it's yours to claim! Otherwise, keep looking.</ol>
 <ol>Right click the sign on the plot</ol>
