@@ -1,6 +1,6 @@
 ---
 ---
-<script src="sorttable.js" type="text/javascript"></script>
+<script src="/_sass/grr/js/vendor/sorttable.js" type="text/javascript"></script>
 #Economy
 
 **Fe** is our economy plugin.
@@ -8,13 +8,14 @@
 ___
 
 ##Commands
-**/money** can be used instead of **/fe** in these commands.
-
 <ul><b>/fe</b> - View your balance</ul>
 <ul><b>/fe (username)</b> - View another player's balance</ul>
 <ul><b>/fe send (name) (amount)</b> - Send money from one player to another. Let's say you wanted to send 100 crowns to bunnies1230 for being such a nice guy and setting up your plot. Use: <b>/fe send bunnies1230 100</b></ul>
 <ul><b>/fe top</b> - If you consider yourself a high class individual and would like to compare your riches to the most wealthy players on the server, simply use /fe top. It will show you the top 5 richest players on the server.</ul>
 <ul><b>/fe help</b> - A help function that tells you what commands you have access to.</ul>
+<p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 50px 20px 50px;">
+      TIP: **/money** can be used instead of **/fe** in these commands.
+</p>
 
 ___
 
