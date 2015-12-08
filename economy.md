@@ -20,7 +20,7 @@ ___
 ___
 
 <div style="text-align: center;" markdown="1">
-##Money Making Sources
+##How To Make Money
 </div>
 
 
@@ -98,9 +98,9 @@ ___
     <td class="tg-9hbo">Yes</td>
   </tr>
   <tr>
-    <td class="tg-9hbo">Recycling Center</td>
+    <td class="tg-9hbo">Selling Stone/Dirt/Gravel</td>
     <td class="tg-9hbo">Varies</td>
-    <td class="tg-9hbo">Main - Homeland Market</td>
+    <td class="tg-9hbo">Main - Homeland Market State Shop</td>
     <td class="tg-9hbo">Yes</td>
   </tr>
   <tr>
@@ -121,6 +121,40 @@ ___
     <td class="tg-9hbo">Main</td>
     <td class="tg-9hbo">Yes</td>
   </tr>
+  <tr>
+    <td class="tg-9hbo">Participate in Surveys</td>
+    <td class="tg-9hbo">Varies</td>
+    <td class="tg-9hbo">Main</td>
+    <td class="tg-9hbo">Once Per Survey</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">ChatReaction</td>
+    <td class="tg-9hbo">20c</td>
+    <td class="tg-9hbo">Main</td>
+    <td class="tg-9hbo">Every 20 minutes</td>
+  </tr>
 </table>
 
 ___
+
+<div style="text-align: center;" markdown="1">
+##How To Use Money
+</div>
+
+<table class="tg sortable" width="100%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
+  <tr>
+    <th class="tg-yw4l" width="45%">Feature</th>
+    <th class="tg-yw4l" width="25%">Amount</th>
+    <th class="tg-yw4l" width="30%">Location</th>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Buy Land</td>
+    <td class="tg-9hbo"><a href="{{site.baseurl}}/land">More Information</a></td>
+    <td class="tg-9hbo">Main</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Buy A Shop</td>
+    <td class="tg-9hbo">3000c</td>
+    <td class="tg-9hbo">Main</td>
+  </tr>
+</table>
