@@ -32,7 +32,7 @@ ___
 </div>
 Imps walk, but goblins know how to get around efficiently.
 
-List all warps in any given world with <b>/warps list</b>. Homeland has by far the most warps of any world, so it has its own warp menu accessible by typing <b>/warps</b>.
+List all warps in any given world with <b>/warps list</b>. Homeland has by far the most warps of any world, so it has its own warp menu accessible by typing <b>/warps homeland</b>.
 
 ___
 
