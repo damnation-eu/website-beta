@@ -22,7 +22,7 @@ You are free to build in whatever style you wish, but keep in mind damNation's b
 Starter plots are 20x20, extending up 20 blocks and down to bedrock. You may [expand your plot higher]({{site.baseurl}}/land) for a fee.
 
 <b>Automatic Protection</b>
-Your plot is fully protected - no one else can build, destroy, or take anything from chests. However, players are free to open doors, press buttons, or trigger pressure plates and tripwires. You may lock things like doors by using <b>/lock</b> or add players to your chests with <b>/cmodify</b> (Read More - [LWC Guide]({{site.baseurl/g/lwc)). You may add other players to your plot with <b>/rg addmember (plotname) (player)</b> (Read More - [WorldGuard Guide]({{site.baseurl/g/worldguard)).
+Your plot is fully protected - no one else can build, destroy, or take anything from chests. However, players are free to open doors, press buttons, or trigger pressure plates and tripwires. You may lock things like doors by using <b>/lock</b> or add players to your chests with <b>/cmodify</b> (Read More - [LWC Guide]({{site.baseurl}}/g/lwc)). You may add other players to your plot with <b>/rg addmember (plotname) (player)</b> (Read More - [WorldGuard Guide]({{site.baseurl}}/g/worldguard)).
 
 <b>Keep Up Appearances</b>
 One of the rules that you agreed to when joining the server dealt with the restriction of "cobble box" type builds. We ask that you consider the builds around you and make something as, if not more, attractive. If you don't think you can build well, <b>ask other players or admins for tips</b> or to tour their builds for inspiration!
