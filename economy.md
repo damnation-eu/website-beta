@@ -1,6 +1,6 @@
 ---
 ---
-<script src="/_sass/grr/js/vendor/sorttable.js" type="text/javascript"></script>
+<script src="/js/vendor/sorttable.js" type="text/javascript"></script>
 #Economy
 
 **Fe** is our economy plugin.
@@ -41,43 +41,49 @@ ___
     <td class="tg-9hbo">Dropper Levels</td>
     <td class="tg-9hbo">110c</td>
     <td class="tg-9hbo">Minigames</td>
+    <td class="tg-9hbo">Weekly</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Dropper 2 Levels</td>
+    <td class="tg-9hbo">210c</td>
+    <td class="tg-9hbo">Minigames</td>
+    <td class="tg-9hbo">Weekly</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Downward Levels</td>
+    <td class="tg-9hbo">140c</td>
+    <td class="tg-9hbo">Minigames</td>
+    <td class="tg-9hbo">Weekly</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">t3c Parkour Levels</td>
+    <td class="tg-9hbo">343.75c</td>
+    <td class="tg-9hbo">Minigames</td>
+    <td class="tg-9hbo">Weekly</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Dropper - Final Reward</td>
+    <td class="tg-9hbo">500c</td>
+    <td class="tg-9hbo">Minigames</td>
     <td class="tg-9hbo">No</td>
   </tr>
   <tr>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Dropper 2 - Final Reward</td>
+    <td class="tg-9hbo">500c</td>
+    <td class="tg-9hbo">Minigames</td>
+    <td class="tg-9hbo">No</td>
   </tr>
   <tr>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Downward - Final Reward</td>
+    <td class="tg-9hbo">500c</td>
+    <td class="tg-9hbo">Minigames</td>
+    <td class="tg-9hbo">No</td>
   </tr>
   <tr>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-  </tr>
-  <tr>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-  </tr>
-  <tr>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-  </tr>
-  <tr>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">t3c Parkour - Final Reward</td>
+    <td class="tg-9hbo">500c</td>
+    <td class="tg-9hbo">Minigames</td>
+    <td class="tg-9hbo">No</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Arrow</td>
