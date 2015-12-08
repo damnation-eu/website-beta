@@ -14,7 +14,7 @@ ___
 <ul><b>/fe top</b> - Display the 5 richest players on the server.</ul>
 <ul><b>/fe help</b> - Tells you what commands you have access to.</ul>
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 50px 20px 50px;">
-      TIP: **/money** can be used instead of **/fe** in these commands.
+      <b>TIP:</b> <b>/money</b> can be used instead of <b>/fe</b> in these commands.
 </p>
 
 ___
