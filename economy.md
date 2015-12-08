@@ -1,9 +1,9 @@
 ---
 ---
-<script src="{{site.baseurl}}/js/vendor/sorttable.js" type="text/javascript"></script>
+<script src="{{site.baseurl}}/_sass/grr/js/vendor/sorttable.js" type="text/javascript"></script>
 #Economy
 
-**Fe** is our economy plugin.
+We have worked hard on damNation to provide a vibrant economy and are continuing to expand the variety of ways players can gain and spend money on our server. If you have any suggestions for new money sources or money sinks you would like to see, let us know!
 
 ___
 
@@ -26,10 +26,10 @@ ___
 
 <table class="tg sortable" width="100%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
   <tr>
-    <th class="tg-yw4l" width="25%">Feature</th>
+    <th class="tg-yw4l" width="35%">Feature</th>
     <th class="tg-yw4l" width="25%">Amount</th>
-    <th class="tg-yw4l" width="25%">Location</th>
-    <th class="tg-yw4l" width="25%">Repeatable</th>
+    <th class="tg-yw4l" width="30%">Location</th>
+    <th class="tg-yw4l" width="10%">Repeatable</th>
   </tr>
   <tr>
     <td class="tg-9hbo">Voting</td>
