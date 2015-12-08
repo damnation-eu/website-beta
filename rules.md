@@ -11,7 +11,7 @@ This server is intended for mature players with more than half-a-brain and we ex
 
 ## Server Rules
 
-- **Rule 1** - You must be able to act maturely. [Read more]({{site.baseurl}}/membership-age) about our Membership Age Policy
+- **Rule 1** - You must be able to act maturely. We no longer require applicants to be <span style="color: red;">**18**</span>+. [Read more]({{site.baseurl}}/membership-age) about our Membership Age Policy
 
 - **Rule 2** - Be courteous and respect others. Agree to disagree.
 
