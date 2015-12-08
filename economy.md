@@ -27,9 +27,9 @@ ___
 <table class="tg sortable" width="100%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
   <tr>
     <th class="tg-yw4l" width="35%">Feature</th>
-    <th class="tg-yw4l" width="25%">Amount</th>
+    <th class="tg-yw4l" width="15%">Amount</th>
     <th class="tg-yw4l" width="30%">Location</th>
-    <th class="tg-yw4l" width="10%">Repeatable</th>
+    <th class="tg-yw4l" width="20%">Repeatable</th>
   </tr>
   <tr>
     <td class="tg-9hbo">Voting</td>
