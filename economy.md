@@ -11,7 +11,7 @@ ___
 
 <ul><b>/fe</b> - View your balance</ul>
 <ul><b>/fe (username)</b> - View another player's balance</ul>
-<ul><b>/fe send (name) (amount)</b> - Send money from one player to another. Let's say you wanted to send 100 crowns to bunnies1230 for being such a nice guy and setting up your plot. Use: <b>/fe send bunnies1230 100<b></ul>
+<ul><b>/fe send (name) (amount)</b> - Send money from one player to another. Let's say you wanted to send 100 crowns to bunnies1230 for being such a nice guy and setting up your plot. Use: <b>/fe send bunnies1230 100</b></ul>
 <ul><b>/fe top</b> - If you consider yourself a high class individual and would like to compare your riches to the most wealthy players on the server, simply use /fe top. It will show you the top 5 richest players on the server.</ul>
 <ul><b>/fe help</b> - A help function that tells you what commands you have access to.</ul>
 
@@ -28,6 +28,90 @@ ___
     <th class="tg-yw4l" width="25%">Amount</th>
     <th class="tg-yw4l" width="25%">Location</th>
     <th class="tg-yw4l" width="25%">Repeatable</th>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Voting</td>
+    <td class="tg-9hbo">200c</td>
+    <td class="tg-9hbo">Any Server</td>
+    <td class="tg-9hbo">Daily</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Dropper Levels</td>
+    <td class="tg-9hbo">110c</td>
+    <td class="tg-9hbo">Minigames</td>
+    <td class="tg-9hbo">No</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Arrow</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Arrow</td>
