@@ -13,7 +13,7 @@ This server is intended for mature players with more than half-a-brain and we ex
 
 - **Rule 1** - You must be able to act maturely. We no longer require applicants to be <span style="color: red;">**18+**</span>
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 50px 20px 50px;">
-      [Read more]({{site.baseurl}}/membership-age) about our Membership Age Policy
+      <a href="{{site.baseurl}}/membership-age">Read more</a> about our Membership Age Policy
 </p>
 - **Rule 2** - Be courteous and respect others. Agree to disagree.
 
