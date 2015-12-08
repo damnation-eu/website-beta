@@ -10,7 +10,7 @@ ___
 ##Commands
 <ul><b>/fe</b> - View your balance</ul>
 <ul><b>/fe (username)</b> - View another player's balance</ul>
-<ul><b>/fe send (name) (amount)</b> - Send money to another player
+<ul><b>/fe send (name) (amount)</b> - Send money to another player</ul>
 <ul><b>/fe top</b> - Display the 5 richest players on the server.</ul>
 <ul><b>/fe help</b> - Tells you what commands you have access to.</ul>
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 50px 20px 50px;">
