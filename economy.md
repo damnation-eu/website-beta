@@ -122,6 +122,12 @@ ___
     <td class="tg-9hbo">Yes</td>
   </tr>
   <tr>
+    <td class="tg-9hbo">Quests <i>Coming Soon!</i></td>
+    <td class="tg-9hbo">Varies</td>
+    <td class="tg-9hbo">Main</td>
+    <td class="tg-9hbo">Some are Daily</td>
+  </tr>
+  <tr>
     <td class="tg-9hbo">Participate in Surveys</td>
     <td class="tg-9hbo">Varies</td>
     <td class="tg-9hbo">Main</td>
@@ -132,6 +138,36 @@ ___
     <td class="tg-9hbo">20c</td>
     <td class="tg-9hbo">Main</td>
     <td class="tg-9hbo">Every 20 minutes</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Creative Competitions (Quick or Week-long)</td>
+    <td class="tg-9hbo">Varies</td>
+    <td class="tg-9hbo">Creative</td>
+    <td class="tg-9hbo">No</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">PvP Competitions (UHC or Towny War)</td>
+    <td class="tg-9hbo">Varies</td>
+    <td class="tg-9hbo">PvP</td>
+    <td class="tg-9hbo">No</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Game Nights (Tournament)</td>
+    <td class="tg-9hbo">Varies</td>
+    <td class="tg-9hbo">Minigames</td>
+    <td class="tg-9hbo">No</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Special Server Events</td>
+    <td class="tg-9hbo">Varies</td>
+    <td class="tg-9hbo">Creative</td>
+    <td class="tg-9hbo">No</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Manage a Shop</td>
+    <td class="tg-9hbo">Varies</td>
+    <td class="tg-9hbo">Main</td>
+    <td class="tg-9hbo">Yes</td>
   </tr>
 </table>
 
