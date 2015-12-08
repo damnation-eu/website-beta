@@ -1,6 +1,6 @@
 ---
 ---
-<script src="/js/vendor/sorttable.js" type="text/javascript"></script>
+<script src="{{site.baseurl}}/js/vendor/sorttable.js" type="text/javascript"></script>
 #Economy
 
 **Fe** is our economy plugin.
@@ -86,55 +86,41 @@ ___
     <td class="tg-9hbo">No</td>
   </tr>
   <tr>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Checking the News</td>
+    <td class="tg-9hbo">20c</td>
+    <td class="tg-9hbo">Main</td>
+    <td class="tg-9hbo">Yes</td>
   </tr>
   <tr>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Dungeons</td>
+    <td class="tg-9hbo">~1c per kill</td>
+    <td class="tg-9hbo">Main</td>
+    <td class="tg-9hbo">Yes</td>
   </tr>
   <tr>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Recycling Center</td>
+    <td class="tg-9hbo">Varies</td>
+    <td class="tg-9hbo">Main - Homeland Market</td>
+    <td class="tg-9hbo">Yes</td>
   </tr>
   <tr>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Mob Arena</td>
+    <td class="tg-9hbo">170c</td>
+    <td class="tg-9hbo">Main - Homeland</td>
+    <td class="tg-9hbo">Yes</td>
   </tr>
   <tr>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Mob Arena</td>
+    <td class="tg-9hbo">210c</td>
+    <td class="tg-9hbo">Minigames</td>
+    <td class="tg-9hbo">Yes</td>
   </tr>
   <tr>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-  </tr>
-  <tr>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
-    <td class="tg-9hbo">Arrow</td>
+    <td class="tg-9hbo">Treasure Hunts</td>
+    <td class="tg-9hbo">200-500c</td>
+    <td class="tg-9hbo">Main</td>
+    <td class="tg-9hbo">Yes</td>
   </tr>
 </table>
-VOTE! It is by far the fastest and easiest way to earn cash. Vote for us every 24 hours please.
-Raid dungeons (hard, but good money)
-Buy and sell stuff at the market (/warp market or /warp homeland market2)
-Play Mob Arena. Win more than you lose!
-Help someone with a job for cash (or stuff)
-Win prizes in a competition
-Speak with admins. A particularly helpful suggestion or reporting cheaters comes with rewards
-Make a donation - besides some nice benefits, the amount donated will translate to in-game credits
 
 ___
