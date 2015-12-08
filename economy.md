@@ -1,5 +1,6 @@
 ---
 ---
+<script src="sorttable.js" type="text/javascript"></script>
 #Economy
 
 **Fe** is our economy plugin.
@@ -22,7 +23,7 @@ ___
 </div>
 
 
-<table class="tg" width="60%" style="background-color:#FFF; text-align:center; border: 2px solid #000; float:right;">
+<table class="tg sortable" width="100%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
   <tr>
     <th class="tg-yw4l" width="25%">Feature</th>
     <th class="tg-yw4l" width="25%">Amount</th>
@@ -128,3 +129,5 @@ Help someone with a job for cash (or stuff)
 Win prizes in a competition
 Speak with admins. A particularly helpful suggestion or reporting cheaters comes with rewards
 Make a donation - besides some nice benefits, the amount donated will translate to in-game credits
+
+___
