@@ -38,7 +38,7 @@ ___
 
 * 40 Stables slots (horses)
 * 25 Plotme Plots
-* 5 Homes/world
+* 6 Homes/world
 * 100 lockable doors/trapdoors/etc of each type
 
 ### <span style="color: #008080;">Troll
@@ -46,7 +46,7 @@ ___
 
 * 30 Stables slots (horses)
 * 15 Plotme Plots
-* 4 Homes/world
+* 5 Homes/world
 * 75 lockable doors/trapdoors/etc of each type
 
 ### <span style="color: #4c4cff;">Hydra
@@ -54,7 +54,7 @@ ___
 
 * 25 Stables slots (horses)
 * 10 Plotme Plots
-* 4 Homes/world
+* 5 Homes/world
 * 50 lockable doors/trapdoors/etc of each type
 * Creative flight speed with **/speed fly #**
 * Access to Large Creative Plots
@@ -67,7 +67,7 @@ ___
 
 * 10 Stables slots (horses)
 * 8 Plotme Plots
-* 3 Homes/world
+* 4 Homes/world
 * 25 lockable doors/trapdoors/etc of each type
 * Can purchase a shop on Main
 
@@ -76,7 +76,7 @@ ___
 
 * 5 Stables slots (horses)
 * 5 Plotme Plots
-* 3 Homes/world
+* 4 Homes/world
 * 10 lockable doors/trapdoors/etc of each type
 * Place Lava on Main
 * Can use Logblock with **/lb tool**
@@ -89,7 +89,7 @@ ___
 
 * 1 Stables slots (horses)
 * 1 Plotme Plots
-* 1 Homes/world
+* 2 Homes/world
 * 5 lockable doors/trapdoors/etc of each type
 
 ___
