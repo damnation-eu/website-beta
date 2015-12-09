@@ -9,7 +9,7 @@ ___
 <div style="text-align: center;" markdown="1">
 ##Local Travel
 </div>
-The most personalized method of travel is using homes. When you start out, you can only have <b>one /home per world</b> which you can set with <b>/sethome</b> or an optional name with <b>/sethome (homename)</b>. We recommend you set this home at your Spawn City plot in [Homeland]({{site.baseurl}}/homeland). Once you gain higher ranks, you can set more homes per world! Extra homes <b>must</b> be set with a name. Homes are <b>case-sensitive</b> - <i>there is a difference between /home Storage and /home storage</i>. List your homes with <b>/homes</b>.
+The most personalized method of travel is using homes. When you start out, you can only have <b>two /home locations per world</b> which you can set with <b>/sethome</b> or an optional name with <b>/sethome (homename)</b>. It costs <b>1c to teleport to your home</b> and <b>10c to set a home</b>. We recommend you set one home at your Spawn City plot in [Homeland]({{site.baseurl}}/homeland) and one at a wilderness cave you're exploring. Once you gain higher ranks, you can set more homes per world! Extra homes <b>must</b> be set with a name. Homes are <b>case-sensitive</b> - <i>there is a difference between /home Storage and /home storage</i>. List your homes with <b>/homes</b>.
 
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 50px 20px 50px;">
       PROTIP: If you use unique home titles in each world, you can travel quickly between homes in different worlds!
@@ -23,7 +23,7 @@ ___
 
 Use our excellent Dynmap to see where you are and where you might want to go in any world. <b>Read more - [Dynmaps]({{site.baseurl}}/dynmaps)
 
-By default, main's dynmap will show you Homeland. You can scroll down the world bar on the right panel or click your character's name to switch location or world to where you currently are. Zoom in and out with the scroll wheel or the +/- buttons in the top left.
+By default, main's dynmap will show you Homeland. You can scroll down the world bar on the right panel or click your character's name to switch location or world to where you currently are. Zoom in and out with the scroll wheel or the +/- buttons in the top left. You can focus on a player by clicking their head icon on the sidebar to make a white border around their name. The dynmap will then follow that player as they move around or teleport between worlds!
 
 ___
 
