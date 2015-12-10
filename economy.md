@@ -184,6 +184,16 @@ ___
     <th class="tg-yw4l" width="30%">Location</th>
   </tr>
   <tr>
+    <td class="tg-9hbo">Teleporting To Home (/home)</td>
+    <td class="tg-9hbo">1c</td>
+    <td class="tg-9hbo">Main</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Setting a Home (/sethome)</td>
+    <td class="tg-9hbo">10c</td>
+    <td class="tg-9hbo">Main</td>
+  </tr>
+  <tr>
     <td class="tg-9hbo">Buy Land</td>
     <td class="tg-9hbo"><a href="{{site.baseurl}}/land">More Information</a></td>
     <td class="tg-9hbo">Main</td>
