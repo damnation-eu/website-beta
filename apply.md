@@ -6,25 +6,14 @@ Read the [Rules and Policies](../rules.md "Rules and Policies"). The rules are v
 ## Step 2: Register on the forum
 Your forum username **must be exactly identical** to your Minecraft name! Do **NOT** use the same password though. [Register on the damNation forum here](http://damnation.eu/phpbb/ucp.php?mode=register "Register"). Activate your account via the verification email. Be sure to check your spam folder.
 
-## Step 3: Complete the details of your application
-With the topic subject **only your username** and **nothing else**, make a "new topic" in [New Registrations forum](https://damnation.eu/phpbb/posting.php?mode=post&f=21 "New Registrations").
+## Step 3: Complete the Server Membership Application
 
-Answer (copy and paste, please) the 9 questions below in your application on the forum. Our forum is where you will find out if you will be accepted, or in time perhaps promoted, or heaven forbid, warned, or (it does happen to some people) banned.
+We have a nice neat application on our forums for you to complete. Fill out the boxes on the [Member Application](https://damnation.eu/phpbb/application.php) Page and submit the form. Your application will automatically be posted to the [New Members forum](https://damnation.eu/phpbb/viewforum.php?f=21) for staff members to review. Applications can typically take an hour to a day for a staff member to review it. <b>Be sure to check back every so often after the application to check its status!</b>
 
-a. Which year were you born?:
+A staff member may have more questions for you or may wish to speak to you in-game to get to know you before they accept you. If this is the case, they will reply that in your thread.
 
-b. Where are you from? At least country (state/city is optional):
+If you are accepted, a staff member will move your application to the [Accepted Members forum](https://damnation.eu/phpbb/viewforum.php?f=24) and promote you in-game. 
 
-c. How long/much have you played Minecraft?
+If you are denied, your application will be moved to the [Denied Membership forum](https://damnation.eu/phpbb/viewforum.php?f=25) with an explanation of why you were denied. If you feel you were wrongly denied, reply to your thread or PM an admin. If your appeal fails, you are free to apply again after a few months.
 
-d. How did you find your way to damNation.eu?
-
-e. **Conditional:** Do you have any previous bans from **any** server? If yes, why? And do explain why it won't become a problem for us here.
-
-f. *Optional:* If you were referred by one of our members, please write their name here (Note: This does not include players you just met on the server who helped you):
-
-g. *Optional:* Upload or link a couple of pictures of your builds:
-
-h. *Optional:* Anything else you would like to add?:
-
-i. **Answer "Yes, I accept" or "No":** I hereby understand that this is a cheatless server, and that this server uses many advanced methods of cheat detection and heavy monitoring. I understand that I am as good as guaranteed to receive a Global ban tarnishing my account, with no mitigating circumstances if I use any kind of cheat client or exploit on the server. I also understand that I must report all such activity to staff immediately or be at risk of being considered an accomplice. I have been warned and I take full responsibility for this accounts actions on the server:
+___
