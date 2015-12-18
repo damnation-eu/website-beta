@@ -9,7 +9,7 @@ Support the growth of our server by voting on the site(s) below once per 24h ple
 
 Put a positive comment, give diamond, favorite, like on Facebook/G+, tweet it, add pictures or videos, etc. it really helps!
 
-These servers have Votifier (you earn 40c per vote). Just fill out the cat:
+These servers have Votifier (you earn 50c per vote). Just fill out the cat:
 
 * [http://minecraft-mp.com/server-s1467](http://minecraft-mp.com/server-s1467)
 * [http://www.planetminecraft.com/server/damnationeu-pve-mature-15/vote/](http://www.planetminecraft.com/server/damnationeu-pve-mature-15/vote/)

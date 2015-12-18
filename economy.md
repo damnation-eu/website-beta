@@ -33,7 +33,7 @@ ___
   </tr>
   <tr>
     <td class="tg-9hbo"><a href="{{site.baseurl}}/voting">Voting</a></td>
-    <td class="tg-9hbo">40c per site</td>
+    <td class="tg-9hbo">50c per site</td>
     <td class="tg-9hbo">Any Server</td>
     <td class="tg-9hbo">Daily</td>
   </tr>
