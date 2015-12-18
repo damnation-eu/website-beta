@@ -54,7 +54,7 @@ ___
 
 We have several Creative worlds available. As a tourist, you start out with access to [Plotworld]({{site.baseurl}}/plotworld). Visit there with **/server creative** and choose the button warp for Plotworld. 
 
-Once there, read the signs, spend your first 200c (which you can get from one day of voting) and get your first plot by typing **/plotme auto** and you will get a private and protected 100x100 creative plot! Teleport to your first plot with **/plotme home**. Once you rank up to [Siren]({{site.baseurl}}/ranks), you can really get building by applying for WorldEdit powers in your plot.
+Once there, read the signs, spend 200c and get your first plot by typing **/plotme auto** and you will get a private and protected 100x100 creative plot! Teleport to your first plot with **/plotme home**. Once you rank up to [Siren]({{site.baseurl}}/ranks), you can really get building by applying for WorldEdit powers in your plot.
 
 ___
 
