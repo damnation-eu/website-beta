@@ -8,12 +8,14 @@ Your forum username **must be exactly identical** to your Minecraft name! Do **N
 
 ## Step 3: Complete the Server Membership Application
 
-We have a nice neat application on our forums for you to complete. Fill out the boxes on the [Member Application](https://damnation.eu/phpbb/application.php) Page and submit the form. Your application will automatically be posted to the [New Members forum](https://damnation.eu/phpbb/viewforum.php?f=21) for staff members to review. Applications can typically take an hour to a day for a staff member to review it. <b>Be sure to check back every so often after the application to check its status!</b>
+Fill out the boxes on the [Member Application](https://damnation.eu/phpbb/application.php) Page and submit the form.
+
+When you submit it, your application will automatically be posted to the [New Members forum](https://damnation.eu/phpbb/viewforum.php?f=21) for staff members to review. Applications can typically take an hour to a day for a staff member to review it. <b>Be sure to check back every so often after the application to check its status!</b>
 
 A staff member may have more questions for you or may wish to speak to you in-game to get to know you before they accept you. If this is the case, they will reply that in your thread.
 
-If you are accepted, a staff member will move your application to the [Accepted Members forum](https://damnation.eu/phpbb/viewforum.php?f=24) and promote you in-game. 
+<b>If you are accepted</b>, a staff member will move your application to the [Accepted Members forum](https://damnation.eu/phpbb/viewforum.php?f=24) and promote you in-game. 
 
-If you are denied, your application will be moved to the [Denied Membership forum](https://damnation.eu/phpbb/viewforum.php?f=25) with an explanation of why you were denied. If you feel you were wrongly denied, reply to your thread or PM an admin. If your appeal fails, you are free to apply again after a few months.
+<b>If you are denied</b>, your application will be moved to the [Denied Membership forum](https://damnation.eu/phpbb/viewforum.php?f=25) with an explanation of why you were denied. If you feel you were wrongly denied, reply to your thread or PM an admin. If your appeal fails, you are free to apply again after a few months.
 
 ___
