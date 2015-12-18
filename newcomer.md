@@ -13,7 +13,7 @@ Enough of that, you'll learn it all later. As a new-born Goblin you'll probably 
 </div>
 
 1.  Get the free starter-kit in the information house near spawn in [Homeland]({{site.baseurl}}/homeland). Do /spawn to get there fast. It has some basics and some food so you won't starve.
-2.  Vote for the server! This will get you some nice and easy cash to get started. You can vote daily on each site, earning you 200c per day. Check your money with /money. Read more
+2.  Vote for the server! This will get you some nice and easy cash to get started. You can vote daily on each site, earning you a nice sum per day. Check your money with <b>/money</b> or <b>/fe</b>.
 3.  Get an overview of the city and the different worlds on our server. Use [our excellent dynmap](https://damnation.eu/dynmap/) to see where you are and where you can go. Homeland is the main starting world, home to our Spawn City. Find out more about [The Multiverse of damNation.eu]({{site.baseurl}}/survival-worlds). If you want to go to wilderness, homeland is currently very full - so choose another newer or custom world.
 4.  Understand [how to get around in the city]({{site.baseurl}}/getting-around) (besides walking, though we highly recommend taking a stroll). List all Homeland warps with **/warps**, then go to for instance /warp alleytown (which is an area more likely to have free plots).
 5.  Look around the city for a **FREE** plot. While looking at the dynmap, plots with green borders are open and free for purchase. Available plots have signs on them that says "For Sale". New players may only claim **ONE** plot in Spawn City.

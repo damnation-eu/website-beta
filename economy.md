@@ -32,16 +32,16 @@ ___
     <th class="tg-yw4l" width="20%">Repeatable</th>
   </tr>
   <tr>
-    <td class="tg-9hbo">Voting</td>
-    <td class="tg-9hbo">200c</td>
+    <td class="tg-9hbo"><a hrefVoting</td>
+    <td class="tg-9hbo">40c per site</td>
     <td class="tg-9hbo">Any Server</td>
     <td class="tg-9hbo">Daily</td>
   </tr>
   <tr>
-    <td class="tg-9hbo">ChatReaction</td>
+    <td class="tg-9hbo">Chat Games</td>
     <td class="tg-9hbo">20c</td>
     <td class="tg-9hbo">Main</td>
-    <td class="tg-9hbo">Every 20 minutes</td>
+    <td class="tg-9hbo">Every 10 minutes</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Dropper Levels</td>

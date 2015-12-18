@@ -15,7 +15,6 @@ These servers have Votifier (you earn 40c per vote). Just fill out the cat:
 * [http://www.planetminecraft.com/server/damnationeu-pve-mature-15/vote/](http://www.planetminecraft.com/server/damnationeu-pve-mature-15/vote/)
 * [http://minestatus.net/20851-damnation-eu/vote](http://minestatus.net/20851-damnation-eu/vote)
 * [http://minecraft-server-list.com/server/29152/](http://minecraft-server-list.com/server/29152/)
-* [http://www.minecraftserverfinder.com/vote.php?id=216](http://www.minecraftserverfinder.com/vote.php?id=216)
 
 This serverlists' Votifier is not active yet (but please vote anyway and support our growth): 
 
