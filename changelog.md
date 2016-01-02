@@ -2,11 +2,7 @@
 ---
 # Changelog
 
-We archive many of the changes we make to the server so that the community knows what's new, what's changed, and what's gone as soon as we update! Click any of the images below to see the changes during that month! 2
-
-<a href="{{site.baseurl}}/the-nether"><img class="changelog" style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Nether.jpg" /></a>
-
-  <a href="{{site.baseurl}}/the-end"><img class="changelog" style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_End.jpg" /></a>
+We archive many of the changes we make to the server so that the community knows what's new, what's changed, and what's gone as soon as we update! Click any of the images below to see the changes during that month! Any grayed-out months do not have a change log.
 
 ___
 
@@ -22,18 +18,18 @@ ___
 ##2015
 </div>
 
-<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=1977566826"><img class="changelog" style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_January.jpg" /></a>
-* [February]({{site.baseurl}}/cl/2015/2)
-* [March]({{site.baseurl}}/cl/2015/3)
-* [April]({{site.baseurl}}/cl/2015/4)
-* May
-* June
-* July
-* [August]({{site.baseurl}}/cl/2015/8)
-* September
-* [October]({{site.baseurl}}/cl/2015/10)
-* [November]({{site.baseurl}}/cl/2015/11)
-* [December]({{site.baseurl}}/cl/2015/12)
+<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=1977566826"><img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_January.jpg" /></a>
+<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=1977566826"><img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_Feburary.jpg" /></a>
+<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=711641546"><img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_March.jpg" /></a>
+<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=1704446040"><img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_April.jpg" /></a>
+<a><img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_May.jpg" /></a>
+<a><img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_June.jpg" /></a>
+<a><img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_July.jpg" /></a>
+<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=1361148535"><img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_August.jpg" /></a>
+<a><img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_September.jpg" /></a>
+<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=208148295"><img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_October.jpg" /></a>
+<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=758734842"><img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_November.jpg" /></a>
+<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=482644106"><img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_December.jpg" /></a>
 
 ___
 
@@ -41,4 +37,4 @@ ___
 ##2014
 </div>
 
-* [December]({{site.baseurl}}/cl/2014/12)
+<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=1072556669"><img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2014_December.jpg" /></a>
