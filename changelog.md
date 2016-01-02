@@ -19,7 +19,7 @@ ___
 </div>
 
 <a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=1977566826"><img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_January.jpg" /></a>
-<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=1977566826"><img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_Feburary.jpg" /></a>
+<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=1977566826"><img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_February.jpg" /></a>
 <a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=711641546"><img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_March.jpg" /></a>
 <a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=1704446040"><img style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_April.jpg" /></a>
 <a><img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2015_May.jpg" /></a>
