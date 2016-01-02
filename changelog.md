@@ -14,7 +14,7 @@ ___
 ##2016
 </div>
 
-* [January](https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=0)
+<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=159036774"><img class="changelog" style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2016_January" /></a>
 
 ___
 
