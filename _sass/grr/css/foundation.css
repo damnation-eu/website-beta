@@ -6632,4 +6632,13 @@ th.hide-for-touch {
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-yw4l{vertical-align:top}
 
+img.changelog{  
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
+}
+img.changelog:hover{ 
+  filter: none;
+  -webkit-filter: grayscale(0%);
+}
+
 /*# sourceMappingURL=foundation.css.map */
