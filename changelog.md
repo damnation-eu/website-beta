@@ -2,11 +2,11 @@
 ---
 # Changelog
 
-We archive many of the changes we make to the server so that the community knows what's new, what's changed, and what's gone as soon as we update! Click any of the images below to see the changes during that month!
+We archive many of the changes we make to the server so that the community knows what's new, what's changed, and what's gone as soon as we update! Click any of the images below to see the changes during that month! 2
 
-<a href="{{site.baseurl}}/the-end"><img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Nether.jpg" /></a>
+<a href="{{site.baseurl}}/the-nether"><img class="changelog" style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Nether.jpg" /></a>
 
-  <a href="{{site.baseurl}}/the-end"><img class="cl" style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_End.jpg" /></a>
+  <a href="{{site.baseurl}}/the-end"><img class="changelog" style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_End.jpg" /></a>
 
 
 ## 2016
