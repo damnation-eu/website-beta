@@ -6632,14 +6632,14 @@ th.hide-for-touch {
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-yw4l{vertical-align:top}
 
-#cf {
+.cf {
   position:relative;
   height:281px;
   width:450px;
   margin:0 auto;
 }
 
-#cf img {
+.cf img {
   position:absolute;
   left:0;
   -webkit-transition: opacity 1s ease-in-out;
@@ -6648,7 +6648,7 @@ th.hide-for-touch {
   transition: opacity 1s ease-in-out;
 }
 
-#cf img.top:hover {
+.cf img.top:hover {
   opacity:0;
 }
 
