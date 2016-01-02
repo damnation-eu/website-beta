@@ -3,31 +3,6 @@
 # Changelog
 
 We archive many of the changes we make to the server so that the community knows what's new, what's changed, and what's gone as soon as we update! Click any of the links below to see the changes during that month!
-
-    <style>
-    #cf {
-      position:relative;
-      height:281px;
-      width:450px;
-      margin:0 auto;
-    }
-    #cf img {
-      position:absolute;
-      left:0;
-      -webkit-transition: opacity 1s ease-in-out;
-      -moz-transition: opacity 1s ease-in-out;
-      -o-transition: opacity 1s ease-in-out;
-      transition: opacity 1s ease-in-out;
-    }
-
-    #cf img.top:hover, #cf img.hover_effect {
-      opacity:0;
-      -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-      filter: alpha(opacity=0);
-    }
-
-    </style>
-  
 <div id="cf">
   <img class="bottom" style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_Nether.jpg" />
   <a href="{{site.baseurl}}/the-end"><img class="top" style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_End.jpg" /></a>
