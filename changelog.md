@@ -3,7 +3,8 @@
 # Changelog
 
 We archive many of the changes we make to the server so that the community knows what's new, what's changed, and what's gone as soon as we update! Click any of the links below to see the changes during that month!
-
+## 2016
+* [January](https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=0)
 
 ## 2015
 
