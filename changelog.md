@@ -8,11 +8,19 @@ We archive many of the changes we make to the server so that the community knows
 
   <a href="{{site.baseurl}}/the-end"><img class="changelog" style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/Worlds_End.jpg" /></a>
 
+___
 
-## 2016
+<div style="text-align: center;" markdown="1">
+##2016
+</div>
+
 * [January](https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=0)
 
-## 2015
+___
+
+<div style="text-align: center;" markdown="1">
+##2015
+</div>
 
 * [January]({{site.baseurl}}/cl/2015/1)
 * [February]({{site.baseurl}}/cl/2015/2)
@@ -27,6 +35,10 @@ We archive many of the changes we make to the server so that the community knows
 * [November]({{site.baseurl}}/cl/2015/11)
 * [December]({{site.baseurl}}/cl/2015/12)
 
-## 2014
+___
+
+<div style="text-align: center;" markdown="1">
+##2014
+</div>
 
 * [December]({{site.baseurl}}/cl/2014/12)
