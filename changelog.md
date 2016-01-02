@@ -38,3 +38,5 @@ ___
 </div>
 
 <a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=1072556669"><img style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2014_December.jpg" /></a>
+
+___
