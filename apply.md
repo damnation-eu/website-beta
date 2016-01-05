@@ -1,7 +1,7 @@
 ---
 ---
 ## Step 1: Read and Accept Server Rules 
-Read the [Rules and Policies]({{site.baseurl}}/rules). The rules are very important to us. We are looking for players who want to be part of a grown-up minecraft community. Although age is no guarantee of maturity, players of 18+ years have already had (at least) some (if not lots of) life experience, and will understand that a community needs some sort of structure in order to maintain its existence. Our community has grown and developed, since 2011. Sections of our minecraft community have been playing minecraft together for almost three years, so we've been around. Our rules are important to us to help define, protect, shape and guide our community. Don't take them lightly.
+Read the [Rules and Policies]({{site.baseurl}}/rules). The rules are very important to us. We are looking for players who want to be part of a grown-up minecraft community. Our community has grown and developed, since 2011. Sections of our minecraft community have been playing minecraft together for over three years, so we've been around. Our rules are important to us to help define, protect, shape and guide our community. Don't take them lightly.
 
 ___
 
