@@ -22,7 +22,7 @@
 </form>
 
 <form oninput="x.value=parseInt(a.value)+parseInt(b.value)">0
-<input type="range" id="a" value="200">100
+<input type="range" id="a" value="200">200
 +<input type="number" id="b" value="50">
 =<output name="x" for="a b"></output>
 </form>
