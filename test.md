@@ -13,10 +13,11 @@
 <input type="button" value="Communism" onClick="document.calculator.calc.value='0.7*1.25'">
 <input type="button" value="Republic" onClick="document.calculator.calc.value='0.75*1.5'">
 
-<input type="hidden" name="calc" value="">
+<input type="hidden" name="govt" value="">
 <input type="reset" value="Reset">
 
-<input type="button" value="=" onClick="document.calculator.ans.value=eval(document.calculator.calc.value)">
+<input type="button" value="=" onClick="document.calculator.ans.value=eval(document.calculator.govt.value*document.calculator.input.value)">
+<br>Solution is <input type="textfield" name="input" value="">
 <br>Solution is <input type="textfield" name="ans" value="">
 </form>
  
