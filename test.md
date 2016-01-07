@@ -6,7 +6,7 @@
 </head>
 <body>
 <form name="calculator" >
-<input type="button" value="1" onClick="document.calculator.ans.value+='1'">
+<input type="button" value="1" onClick="document.calculator.ans.value+='10*5'">
 <input type="button" value="2" onClick="document.calculator.ans.value+='2'">
 <input type="button" value="3" onClick="document.calculator.ans.value+='3'">
 <input type="button" value="+" onClick="document.calculator.ans.value+='+'">
