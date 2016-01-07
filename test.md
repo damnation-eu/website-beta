@@ -1,8 +1,10 @@
+---
+---
 <html>
 <head>
 <title>HTML Calculator</title>
 </head>
-<body bgcolor= "#000000" text= "gold">
+<body>
 <form name="calculator" >
 <input type="button" value="1" onClick="document.calculator.ans.value+='1'">
 <input type="button" value="2" onClick="document.calculator.ans.value+='2'">
