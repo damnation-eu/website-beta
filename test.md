@@ -20,6 +20,12 @@
 <br>Solution is <input type="textfield" name="input" value="">
 <br>Solution is <input type="textfield" name="ans" value="">
 </form>
+
+<form oninput="x.value=parseInt(a.value)+parseInt(b.value)">0
+<input type="range" id="a" value="50">100
++<input type="number" id="b" value="50">
+=<output name="x" for="a b"></output>
+</form>
  
 </body>
 </html>
