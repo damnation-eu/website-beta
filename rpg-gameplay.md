@@ -57,40 +57,40 @@
   </tr>
   <tr>
     <td class="tg-9hbo">Feudalism</td>
-    <td class="tg-9hbo"><b>By 1v1 Combat</b> - A citizen challenges the leader to fair combat. If there are more than two opponents, each face off against each other until one combatant has more wins than the others</td>
-    <td class="tg-9hbo">15.0 R</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By 1v1 Combat</b> - A citizen challenges the leader to fair combat. If there are more than two opponents, each face off against each other until one combatant has more wins than the others</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">15.0 R</td>
     <td class="tg-9hbo">15.0 R</td>
     <td class="tg-9hbo">0.0 R</td>
     <td class="tg-9hbo">20.0 R</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Monarchy</td>
-    <td class="tg-9hbo"><b>By Lineage</b> - A lineage of inheritance is determined when the kingdom is established. Once one leader steps down, the next in line takes their place</td>
-    <td class="tg-9hbo">41.25 R</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By Lineage</b> - A lineage of inheritance is determined when the kingdom is established. Once one leader steps down, the next in line takes their place</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">41.25 R</td>
     <td class="tg-9hbo">11.25 R</td>
     <td class="tg-9hbo">0.0 R</td>
     <td class="tg-9hbo">22.5 R</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Fascism</td>
-    <td class="tg-9hbo"><b>By Unbalanced Popular Election</b> - Each member of the kingdom is randomly given a number of votes they can give between 1 and the kingdom population. Only the Leader and Advisors are candidates</td>
-    <td class="tg-9hbo">90.0 R</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By Unbalanced Popular Election</b> - Each member of the kingdom is randomly given a number of votes they can give between 1 and the kingdom population. Only the Leader and Advisors are candidates</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">90.0 R</td>
     <td class="tg-9hbo">0.0 R</td>
     <td class="tg-9hbo">0.0 R</td>
     <td class="tg-9hbo">10.0 R</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Communism</td>
-    <td class="tg-9hbo"><b>By The Greatest Common Good</b> - By whomever deposits the most money into the Treasury since the last election</td>
-    <td class="tg-9hbo">87.25 R</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By The Greatest Common Good</b> - By whomever deposits the most money into the Treasury since the last election</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">87.25 R</td>
     <td class="tg-9hbo">0.0 R</td>
     <td class="tg-9hbo">37.5 R</td>
     <td class="tg-9hbo">0.0 R</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Republic</td>
-    <td class="tg-9hbo"><b>By Democratic Popular Election</b> - Every citizen has one vote and every citizen can run, regardless of position</td>
-    <td class="tg-9hbo">112.5 R</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By Democratic Popular Election</b> - Every citizen has one vote and every citizen can run, regardless of position</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">112.5 R</td>
     <td class="tg-9hbo">7.5 R</td>
     <td class="tg-9hbo">7.5 R</td>
     <td class="tg-9hbo">22.5 R</td>
@@ -121,47 +121,47 @@
   </tr>
   <tr>
     <td class="tg-9hbo">Vampire</td>
-    <td class="tg-9hbo">Killing Players<br/>Killing Monsters</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">Killing Players<br/>Killing Monsters</td>
     <td class="tg-9hbo">Killing Bosses</td>
-    <td class="tg-9hbo">Killing Animals</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000" colspan="3">Killing Animals</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Werewolf</td>
-    <td class="tg-9hbo">Killing Animals<br/>Killing Monsters</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">Killing Animals<br/>Killing Monsters</td>
     <td class="tg-9hbo">Killing Bosses</td>
-    <td class="tg-9hbo">Killing Players</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000" colspan="3">Killing Players</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Orc</td>
-    <td class="tg-9hbo" colspan="2">Crafting (Armor, Swords)</td>
-    <td class="tg-9hbo">Crafting (Tools)<br/>Chopping Wood</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000" colspan="2">Crafting (Armor, Swords)</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">Crafting (Tools)<br/>Chopping Wood</td>
     <td class="tg-9hbo">Killing Animals<br/>Killing Monsters</td>
     <td class="tg-9hbo">Killing Bosses</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Dwarf</td>
-    <td class="tg-9hbo" colspan="2">Mining<br/>Crafting (Tools)</td>
-    <td class="tg-9hbo">Crafting (Armor, Swords)<br/>Killing Animals</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000" colspan="2">Mining<br/>Crafting (Tools)</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">Crafting (Armor, Swords)<br/>Killing Animals</td>
     <td class="tg-9hbo">Killing Monsters<br/>Killing Bosses</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Elf</td>
-    <td class="tg-9hbo" colspan="2">Farming</td>
-    <td class="tg-9hbo">Enchanting<br/>Crafting (Bows, Arrows)</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000" colspan="2">Farming</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">Enchanting<br/>Crafting (Bows, Arrows)</td>
     <td class="tg-9hbo">Killing Animals<br/>Killing Monsters</td>
     <td class="tg-9hbo">Killing Bosses</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Wizard</td>
-    <td class="tg-9hbo" colspan="2">Enchanting</td>
-    <td class="tg-9hbo">Brewing<br/>Killing Animals</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000" colspan="2">Enchanting</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">Brewing<br/>Killing Animals</td>
     <td class="tg-9hbo">Killing Monsters<br/>Killing Bosses</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Hobbit</td>
-    <td class="tg-9hbo" colspan="2">Crafting (Food)<br/>Smelting (Food)</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000" colspan="2">Crafting (Food)<br/>Smelting (Food)</td>
     <td class="tg-9hbo">Farming<br/>Fishing</td>
-    <td class="tg-9hbo">Killing Animals<br/>Killing Monsters</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">Killing Animals<br/>Killing Monsters</td>
     <td class="tg-9hbo">Killing Bosses</td>
   </tr>
 </table>
