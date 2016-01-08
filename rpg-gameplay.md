@@ -116,48 +116,50 @@
 <table class="tg sortable" width="100%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
   <tr>
     <th class="tg-yw4l" style="font-weight: bold;" width="13%">Class</th>
-    <th class="tg-yw4l" width="40%">Major Skills</th>
-    <th class="tg-yw4l" width="47%" colspan="3">Minor Skills</th>
+    <th class="tg-yw4l" width="35%" colspan="2">Major Skills</th>
+    <th class="tg-yw4l" width="52%" colspan="3">Minor Skills</th>
   </tr>
   <tr>
     <td class="tg-9hbo">Vampire</td>
-    <td class="tg-9hbo">Killing Players<br/>Killing Monsters<br/>Killing Bosses</td>
+    <td class="tg-9hbo">Killing Players<br/>Killing Monsters</td>
+    <td class="tg-9hbo">Killing Bosses</td>
     <td class="tg-9hbo">Killing Animals</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Werewolf</td>
-    <td class="tg-9hbo">Killing Animals<br/>Killing Monsters<br/>Killing Bosses</td>
-    <td class="tg-9hbo">Killing Monsters</td>
+    <td class="tg-9hbo">Killing Animals<br/>Killing Monsters</td>
+    <td class="tg-9hbo">Killing Bosses</td>
+    <td class="tg-9hbo">Killing Players</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Orc</td>
-    <td class="tg-9hbo">Crafting (Armor, Swords)</td>
+    <td class="tg-9hbo" colspan="2">Crafting (Armor, Swords)</td>
     <td class="tg-9hbo">Crafting (Tools)<br/>Chopping Wood</td>
     <td class="tg-9hbo">Killing Animals<br/>Killing Monsters</td>
     <td class="tg-9hbo">Killing Bosses</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Dwarf</td>
-    <td class="tg-9hbo">Mining<br/>Crafting (Tools)</td>
+    <td class="tg-9hbo" colspan="2">Mining<br/>Crafting (Tools)</td>
     <td class="tg-9hbo">Crafting (Armor, Swords)<br/>Killing Animals</td>
     <td class="tg-9hbo">Killing Monsters<br/>Killing Bosses</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Elf</td>
-    <td class="tg-9hbo">Farming</td>
+    <td class="tg-9hbo" colspan="2">Farming</td>
     <td class="tg-9hbo">Enchanting<br/>Crafting (Bows, Arrows)</td>
     <td class="tg-9hbo">Killing Animals<br/>Killing Monsters</td>
     <td class="tg-9hbo">Killing Bosses</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Wizard</td>
-    <td class="tg-9hbo">Enchanting</td>
+    <td class="tg-9hbo" colspan="2">Enchanting</td>
     <td class="tg-9hbo">Brewing<br/>Killing Animals</td>
     <td class="tg-9hbo">Killing Monsters<br/>Killing Bosses</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Hobbit</td>
-    <td class="tg-9hbo">Crafting (Food)<br/>Smelting (Food)</td>
+    <td class="tg-9hbo" colspan="2">Crafting (Food)<br/>Smelting (Food)</td>
     <td class="tg-9hbo">Farming<br/>Fishing</td>
     <td class="tg-9hbo">Killing Animals<br/>Killing Monsters</td>
     <td class="tg-9hbo">Killing Bosses</td>
