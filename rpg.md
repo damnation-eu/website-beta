@@ -57,7 +57,7 @@
 
 <p>You can play casually and take advantage of the adventure <b>OR</b> you can take advantage of the roleplaying elements of leaders, citizens, governments, and competing kingdoms - that's the beauty of roleplaying! The purpose of this server is to create an interactive environment of friendly competition, where players can collaborate with or conspire against one another.</p>
 <br/>
-<p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 30px 20px 30px;">
+<p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 70px 20px 70px;">
 <b>Interaction is the Key!</b>
 </p>
 <br/>
@@ -73,13 +73,13 @@
 
 <p>You only need to use a handful of commands to take full advantage of the server's features. Below are the base commands you will need along with the general purposes of each command. Most have sub-commands that you can find more about in-game by typing <b>/[cmd] ?</b>.</p>
 
-<p><b>/kingdom</b> - Kingdom Management - the most robust and integral command that handles kingdom information, titles, deposits, positions, and revolts.</p>
+<p><b>/kingdom</b> - Kingdom Management - handles kingdom information, titles, deposits, positions, and revolts.</p>
 <p><b>/government</b> - Government Management - displays specific information about different government types</p>
 <p><b>/player</b> - Player Information - displays information about yourself or others</p>
 <p><b>/home</b> - Teleport to your kingdom's home</p>
 <p><b>/land</b> - Land Management - claim and unclaim protected chunks for your kindom</p>
 <p><b>/fe</b> - Currency - Transfer money around or check your own balance</p>
-<p><b>/jobs</b> - Classes and Economy - Become a part of one of the specialized classes to earn money and rank up in experience</p>
+<p><b>/jobs</b> - Classes and Economy - Join specialized classes to earn money and rank up in experience</p>
 <p><b>/news</b> - Announcements about changes on the server</p>
 <p><b>/mail</b> - Communication - send and receive mail from any other player on the server, even if they're offline</p>
 
