@@ -25,7 +25,9 @@
 ##Getting Started
 </div>
 
-<p></p>
+<p>When you first join, you'll be greeted by the message welcome you to the server and explaining the server's purpose. In each of the four directions are displays for each of the four kingdoms. Right clicking the <b>red bar</b> below each display shows you basic information about that kingdom. To join a kingdom, simply type <b>/kingdom join [kingdom name]</b> and you will be added! With your starting balance, you can teleport to your kingdom's home directly with <b>/home</b> or you can find its location on the <a href="https://damnation.eu/rpgmap"><b>dynmap</b></a> and run there.</p>
+
+<p><b>Once you're in a kingdom, the fun begins!</b> Communicate with your fellow citizens and leaders to find or make your place in the kingdom. Join a job through <b>/jobs browse</b> (<i>Read more about jobs below</i>) and gear up like normal! Before you go venturing out, though, be sure you take note of all of the information below!</p>
 
 <hr>
 <div style="text-align: center;" markdown="1">
@@ -49,7 +51,7 @@
 ##Economy
 </div>
 
-<p>On the RPG server, the economy is completely separate from our main economy of Crowns. Here, the sought after currency is <b>Rupees</b>. Money is earned primarily through performing actions through your jobs. Money should primarily be spent on depositing into your kingdom's treasury, but it can also be used for travel expenses, buying materials or labor, or access to certain areas of the world.</p>
+<p>On the RPG server, the economy is completely separate from our main economy of Crowns. Here, the sought after currency is <b>Rupees</b>. Money is earned primarily through performing actions through your jobs. Money should primarily be spent on depositing into your kingdom's treasury, but it can also be used for travel expenses, buying materials or labor, or access to certain areas of the world. The commands remain the same as on main, which can be found in our <a href="{{site.baseurl}}/economy">Fe Guide</a></p>
 
 <div style="text-align: center;" markdown="1">
 ###Jobs
@@ -82,7 +84,7 @@
 ##World
 </div>
 
-<p>The world is a custom RPG world build by Lemon-Fox. The world was chosen for its variety of biomes, breathtaking custom trees, altered cave generation, and non-vanilla terrain generation. Players can build anywhere in the wilderness. Only spawn, dungeons/other points of interest, and kingdom chunks are protected from building. Scope out the environment, scout your enemy's locations, and check out kingdom locations and land claims on the <a href="https://damnation.eu/rpgmap><b>RPG Server Dynmap</b></a></p>
+<p>The world is a custom RPG world build by Lemon-Fox. The world was chosen for its variety of biomes, breathtaking custom trees, altered cave generation, and non-vanilla terrain generation. Players can build anywhere in the wilderness. Only spawn, dungeons/other points of interest, and kingdom chunks are protected from building. Scope out the environment, scout your enemy's locations, and check out kingdom locations and land claims on the <a href="https://damnation.eu/rpgmap"><b>RPG Server Dynmap</b></a></p>
 
 <div style="text-align: center;" markdown="1">
 ###Travel
@@ -104,6 +106,10 @@
 ###ActionHealth
 </div>
 <p>When you damage an enemy, a message will appear above your hotbar telling you the enemy's current health and full health!</p>
+<div style="text-align: center;" markdown="1">
+###Mail
+</div>
+<p>Message players with <b>/mail</b>! These messages are solely for the RPG server and will be sent to the player regardless if they are online or not. There are several other functions to the mail plugin, so explore them in-game with <b>/mail help</b></p>
 <div style="text-align: center;" markdown="1">
 ###Tips
 </div>
