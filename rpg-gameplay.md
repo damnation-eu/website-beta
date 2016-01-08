@@ -49,8 +49,8 @@
 <table class="tg sortable" width="100%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
   <tr>
     <th class="tg-yw4l" width="13%">Government</th>
-    <th class="tg-yw4l" width="47%">Leadership Change Process</th>
-    <th class="tg-yw4l" width="10%">Deposited</th>
+    <th class="tg-yw4l" width="47%" style="border-left: 1px solid #000">Leadership Change Process</th>
+    <th class="tg-yw4l" width="10%" style="border-left: 1px solid #000">Deposited</th>
     <th class="tg-yw4l" width="10%">Leader</th>
     <th class="tg-yw4l" width="10%">Citizens</th>
     <th class="tg-yw4l" width="10%">Wasted</th>
@@ -116,8 +116,8 @@
 <table class="tg sortable" width="100%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
   <tr>
     <th class="tg-yw4l" style="font-weight: bold;" width="13%">Class</th>
-    <th class="tg-yw4l" width="35%" colspan="2">Major Skills</th>
-    <th class="tg-yw4l" width="52%" colspan="3">Minor Skills</th>
+    <th class="tg-yw4l" width="35%" colspan="2" style="border-left: 1px solid #000">Major Skills</th>
+    <th class="tg-yw4l" width="52%" colspan="3" style="border-left: 1px solid #000">Minor Skills</th>
   </tr>
   <tr>
     <td class="tg-9hbo">Vampire</td>
