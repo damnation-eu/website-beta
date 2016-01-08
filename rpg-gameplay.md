@@ -117,7 +117,7 @@
   <tr>
     <th class="tg-yw4l" style="font-weight: bold;" width="13%">Class</th>
     <th class="tg-yw4l" width="40%">Major Skills</th>
-    <th class="tg-yw4l" width="47%">Minor Skills</th>
+    <th class="tg-yw4l" width="47%" colspan="3">Minor Skills</th>
   </tr>
   <tr>
     <td class="tg-9hbo">Vampire</td>
@@ -132,7 +132,9 @@
   <tr>
     <td class="tg-9hbo">Orc</td>
     <td class="tg-9hbo">Crafting (Armor, Swords)</td>
-    <td class="tg-9hbo">Crafting (Tools)<br/>Chopping Wood<br/>Killing Animals<br/>Killing Monsters<br/>Killing Bosses</td>
+    <td class="tg-9hbo">Crafting (Tools)<br/>Chopping Wood</td>
+    <td class="tg-9hbo">Killing Animals<br/>Killing Monsters</td>
+    <td class="tg-9hbo">Killing Bosses</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Dwarf</td>
