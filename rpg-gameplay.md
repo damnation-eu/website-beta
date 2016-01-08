@@ -62,46 +62,52 @@
 <div style="text-align: center;" markdown="1">
 ###Items
 </div>
-
+<p>Several new items have been introduced to the game as rare drops from boss monsters. <i>More information to come...</i></p>
 <hr>
 <div style="text-align: center;" markdown="1">
 ##Land Ownership
 </div>
 
-<p></p>
+<p>Kingdoms begin with a maximum of <b>16 chunks</b> that can be claimed. For every citizen that joins outside of the original founders, the kingdom can claim 4 more chunks. Only Leaders can claim and unclaim chunks. Claiming a chunk is a <b>50 Rupee investment</b> that can be returned if the chunk is later unclaimed. Chunks can only be claimed <b>within 128 blocks</b> of the kingdom's current /home location. This home location can be changed by Leaders or Advisors at a hefty cost of <b>1000 Rupees</b> if further expansion is wanted.</p>
+
+<p>Every chunk claimed is owned by the current leader and all members of the kingdom are added as members. If a new leader is promoted, they will inherit ownership of the kingdom's land. Monster spawning is denied. Chests are protected automatically upon placement like on Main. For chest management, consult our <a href="{{site.baseurl}}/g/lwc">LWC Guide</a>. All protected chunks are visible on the dynmap.</p>
 
 <div style="text-align: center;" markdown="1">
 ###Building
 </div>
+<p>Building is <b>aesthetic</b>, <b>manual</b>, and <b>optional</b>. There are no auto-generated or auto-building structures. We recommend building walls to keep out enemy players and monsters, but there are no real functional buildings to create. How you decide to build up your kingdom is entirely up to the kingdom's citizens.</p>
 
 <hr>
 <div style="text-align: center;" markdown="1">
 ##World
 </div>
 
-<p></p>
+<p>The world is a custom RPG world build by Lemon-Fox. The world was chosen for its variety of biomes, breathtaking custom trees, altered cave generation, and non-vanilla terrain generation. Players can build anywhere in the wilderness. Only spawn, dungeons/other points of interest, and kingdom chunks are protected from building. Scope out the environment, scout your enemy's locations, and check out kingdom locations and land claims on the <a href="https://damnation.eu/rpgmap><b>RPG Server Dynmap</b></a></p>
 
 <div style="text-align: center;" markdown="1">
 ###Travel
 </div>
+<p>Typical methods of travel from Main have been disabled, including /tpa, /spawn, /sethome, and /back. The primary method of travel is by foot, by boat, by cart, or by horse. Members of kingdoms have access to /home, which for the cost of <b>100 Rupees</b> will teleport you directly to your kingdom's set spawnpoint.</p>
+
+<p>Points of interest around the world feature warps, however, you must travel and visit them once in order to warp there. <i>More information to come...</i></p>
 
 <div style="text-align: center;" markdown="1">
 ###Enemies
 </div>
-
+<p>Boss monsters will higher health, special abilities, and valuable drops have a change of spawning throughout the map. Others only spawn in specific areas. Normal monsters have higher health than their vanilla counterparts. <i>More information to come...</i></p>
 <hr>
 <div style="text-align: center;" markdown="1">
 ##Miscellaneous
 </div>
-
+<p>A handful of helpful minor gameplay tweaks to enchance the RPG Server experience.</p>
 <div style="text-align: center;" markdown="1">
 ###ActionHealth
 </div>
-
+<p>When you damage an enemy, a message will appear above your hotbar telling you the enemy's current health and full health!</p>
 <div style="text-align: center;" markdown="1">
 ###Tips
 </div>
-
+<p>Every so often, a random tip about a gameplay feature will appear in chat. If you have a suggestion for a new helpful tip to add, let us know!</p>
 </body>
 </html>
 
