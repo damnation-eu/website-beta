@@ -51,8 +51,7 @@
 #RPG Server
 </div>
 
-
-___
+<hr>
 
 <div style="text-align: center;" markdown="1">
 ##Gameplay Features
@@ -62,7 +61,7 @@ The server has been constructed with a variety of RPG features like kingdoms, cl
 
 <a href="{{site.baseurl}}/rpg-gameplay" class="myButton">RPG Gameplay</a>
 
-___
+<hr>
 
 <div style="text-align: center;" markdown="1">
 ##Commands
@@ -79,5 +78,7 @@ You only need to use a handful of commands to take full advantage of the server'
 <b>/jobs</b> - Classes and Economy - Become a part of one of the specialized classes to earn money and rank up in experience
 <b>/news</b> - Announcements about changes on the server
 <b>/mail</b> - Communication - send and receive mail from any other player on the server, even if they're offline
+
+<hr>
 </body>
 </html>
