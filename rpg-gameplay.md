@@ -139,22 +139,28 @@
   <tr>
     <td class="tg-9hbo">Dwarf</td>
     <td class="tg-9hbo">Mining<br/>Crafting (Tools)</td>
-    <td class="tg-9hbo">Crafting (Armor, Swords)<br/>Killing Animals<br/>Killing Monsters<br/>Killing Bosses</td>
+    <td class="tg-9hbo">Crafting (Armor, Swords)<br/>Killing Animals</td>
+    <td class="tg-9hbo">Killing Monsters<br/>Killing Bosses</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Elf</td>
     <td class="tg-9hbo">Farming</td>
-    <td class="tg-9hbo">Enchanting<br/>Crafting (Bows, Arrows)<br/>Killing Animals<br/>Killing Monsters<br/>Killing Bosses</td>
+    <td class="tg-9hbo">Enchanting<br/>Crafting (Bows, Arrows)</td>
+    <td class="tg-9hbo">Killing Animals<br/>Killing Monsters</td>
+    <td class="tg-9hbo">Killing Bosses</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Wizard</td>
     <td class="tg-9hbo">Enchanting</td>
-    <td class="tg-9hbo">Brewing<br/>Killing Animals<br/>Killing Monsters<br/>Killing Bosses</td>
+    <td class="tg-9hbo">Brewing<br/>Killing Animals</td>
+    <td class="tg-9hbo">Killing Monsters<br/>Killing Bosses</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Hobbit</td>
-    <td class="tg-9hbo">Food</td>
-    <td class="tg-9hbo">Farming<br/>Fishing<br/>Killing Animals<br/>Killing Monsters<br/>Killing Bosses</td>
+    <td class="tg-9hbo">Crafting (Food)<br/>Smelting (Food)</td>
+    <td class="tg-9hbo">Farming<br/>Fishing</td>
+    <td class="tg-9hbo">Killing Animals<br/>Killing Monsters</td>
+    <td class="tg-9hbo">Killing Bosses</td>
   </tr>
 </table>
 
