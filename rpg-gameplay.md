@@ -115,7 +115,7 @@
 
 <table class="tg sortable" width="100%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
   <tr>
-    <th class="tg-yw4l" width="13%">Class</th>
+    <th class="tg-yw4l" style="font-weight: bold;" width="13%">Class</th>
     <th class="tg-yw4l" width="40%">Major Skills</th>
     <th class="tg-yw4l" width="47%">Minor Skills</th>
   </tr>
