@@ -48,8 +48,8 @@
 
 <table class="tg sortable" width="100%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
   <tr>
-    <th class="tg-yw4l" width="20%">Government</th>
-    <th class="tg-yw4l" width="40%">Leadership Change Process</th>
+    <th class="tg-yw4l" width="13%">Government</th>
+    <th class="tg-yw4l" width="47%">Leadership Change Process</th>
     <th class="tg-yw4l" width="10%">Deposited</th>
     <th class="tg-yw4l" width="10%">Leader</th>
     <th class="tg-yw4l" width="10%">Citizens</th>
@@ -108,10 +108,53 @@
 <div style="text-align: center;" markdown="1">
 ###Jobs
 </div>
-<p>The primary method of earning money is to join a job. <b>A player <i>DOES NOT</i> need be a part of a kingdom to join a job</b>. Jobs have been organized into six primary classes - <b>Vampire</b>, <b>Werewolf</b>, <b>Orc</b>, <b>Dwarf</b>, <b>Wizard</b>, and <b>Hobbit</b>. Drawing from the lore of these races in classical fantasy, each class has different major and minor skills. As you perform actions your class is skilled in, you will gain experience and rank up, earning progressively more rewards for the same jobs. Major skills earn a class the maximum amount of money and experience. Minor skills earn a smaller percentage of the maximum money and experience. <b>Every class can do every gameplay action</b>. However, the actions that are not included as a skill will gain even less money than a minor skill and no experience toward your class.</p>
+<p>The primary method of earning money is to join a job. <b>A player <i>DOES NOT</i> need be a part of a kingdom to join a job</b>. Jobs have been organized into seven primary classes - <b>Vampire</b>, <b>Werewolf</b>, <b>Orc</b>, <b>Elf</b>, <b>Dwarf</b>, <b>Wizard</b>, and <b>Hobbit</b>. Drawing from the lore of these races in classical fantasy, each class has different major and minor skills. As you perform actions your class is skilled in, you will gain experience and rank up, earning progressively more rewards for the same jobs. Major skills earn a class the maximum amount of money and experience. Minor skills earn a smaller percentage of the maximum money and experience. <b>Every class can do every gameplay action</b>. However, the actions that are not included as a skill will gain even less money than a minor skill and no experience toward your class.</p>
 <p>Players can only be a worker in one job at a time. You may switch at any time, however, you will lose 10% (rounded up) of your gained levels upon leaving - at level 23, leaving a job will lose 3 levels. The maximum level for every job is 50. Once this maximum level is attained, you are free to switch to any other class without level loss in <b>that job only</b>. Leaving another job that is not at the max level will still result in level loss.</p>
 
 <p>Below are the general skills for each class. To view specific information about which actions earn how much money and experience, look at the GUI accessed through <b>/jobs browse</b>.</p>
+
+<table class="tg sortable" width="100%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
+  <tr>
+    <th class="tg-yw4l" width="13%">Class</th>
+    <th class="tg-yw4l" width="40%">Major Skills</th>
+    <th class="tg-yw4l" width="47%">Minor Skills</th>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Vampire</td>
+    <td class="tg-9hbo">Killing Players<br/>Killing Monsters<br/>Killing Bosses</td>
+    <td class="tg-9hbo">Killing Animals</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Werewolf</td>
+    <td class="tg-9hbo">Killing Animals<br/>Killing Monsters<br/>Killing Bosses</td>
+    <td class="tg-9hbo">Killing Monsters</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Orc</td>
+    <td class="tg-9hbo">Crafting (Armor, Swords)</td>
+    <td class="tg-9hbo">Crafting (Tools)<br/>Chopping Wood<br/>Killing Animals<br/>Killing Monsters<br/>Killing Bosses</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Dwarf</td>
+    <td class="tg-9hbo">Mining<br/>Crafting (Tools)</td>
+    <td class="tg-9hbo">Crafting (Armor, Swords)<br/>Killing Animals<br/>Killing Monsters<br/>Killing Bosses</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Elf</td>
+    <td class="tg-9hbo">Farming</td>
+    <td class="tg-9hbo">Enchanting<br/>Crafting (Bows, Arrows)<br/>Killing Animals<br/>Killing Monsters<br/>Killing Bosses</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Wizard</td>
+    <td class="tg-9hbo">Enchanting</td>
+    <td class="tg-9hbo">Brewing<br/>Killing Animals<br/>Killing Monsters<br/>Killing Bosses</td>
+  </tr>
+  <tr>
+    <td class="tg-9hbo">Hobbit</td>
+    <td class="tg-9hbo">Food</td>
+    <td class="tg-9hbo">Farming<br/>Fishing<br/>Killing Animals<br/>Killing Monsters<br/>Killing Bosses</td>
+  </tr>
+</table>
 
 <div style="text-align: center;" markdown="1">
 ###Items
