@@ -39,7 +39,7 @@ input[type=button]:hover {
 
 
 <br/>
-0<input type="range" id="a" max="10000" step="1" value="100">10000
+0<input type="range" id="a" max="100" step="1" value="100">100
 <input type="hidden" name="govt" id="govt" value="10000">
 <br/>
 <output name="x" id="x" for="a govt" value="0"></output> Rupees
