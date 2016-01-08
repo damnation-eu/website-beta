@@ -53,12 +53,13 @@
 </div>
 
 <hr>
+Our RPG server combines elements from roleplaying video games and tabletop games to provide a unique RP experience. With four kingdoms in the world, citizens and leaders can choose to cooperate with others or seek to destroy. Our custom world is brimming with adventure and opportunity. You can choose your own class, build or lead a kingdom, and battle fearsome monsters! How you choose to play here is entirely up to you - you can play casually and take advantage of the adventure <b>OR</b> you can take advantage of the roleplaying elements of leaders, citizens, governments, and competing kingdoms - that's the beauty of roleplaying! The purpose of this server is to create an interactive environment of friendly competition, where players can collaborate with or conspire against one another. 
 
-<div style="text-align: center;" markdown="1">
-##Gameplay Features
-</div>
+<p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 50px 20px 50px;">
+Interaction is the Key!
+</p>
 
-The server has been constructed with a variety of RPG features like kingdoms, classes, jobs, bosses, building, rare items, and exploration.
+The server has been constructed with a variety of RPG features like kingdoms, classes, jobs, bosses, building, rare items, and exploration. Though we've tried to keep the gameplay simple, to ensure you get the most out of your experience, there are some features that you should know more about before diving into the server. Click the button below for more information!
 
 <center><a href="{{site.baseurl}}/rpg-gameplay" class="myButton">RPG Gameplay</a></center>
 
