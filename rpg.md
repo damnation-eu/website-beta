@@ -60,7 +60,7 @@
 
 The server has been constructed with a variety of RPG features like kingdoms, classes, jobs, bosses, building, rare items, and exploration.
 
-<a href="{{site.baseurl}}/rpg-gameplay" class="myButton">RPG Gameplay</a>
+<center><a href="{{site.baseurl}}/rpg-gameplay" class="myButton">RPG Gameplay</a></center>
 
 <hr>
 
@@ -70,7 +70,7 @@ The server has been constructed with a variety of RPG features like kingdoms, cl
 
 You only need to use a handful of commands to take full advantage of the server's features. Below are the base commands you will need along with the general purposes of each command. Most have sub-commands that you can find more about in-game by typing <b>/[cmd] ?</b>.
 
-<b>/kingdom</b> - Kingdom Management - the most robust and integral command that handles kingdom information, titles, deposits, positions, and revolts.
+<p><b>/kingdom</b> - Kingdom Management - the most robust and integral command that handles kingdom information, titles, deposits, positions, and revolts.
 <b>/government</b> - Government Management - displays specific information about different government types
 <b>/player</b> - Player Information - displays information about yourself or others
 <b>/home</b> - Teleport to your kingdom's home
@@ -78,7 +78,7 @@ You only need to use a handful of commands to take full advantage of the server'
 <b>/fe</b> - Currency - Transfer money around or check your own balance
 <b>/jobs</b> - Classes and Economy - Become a part of one of the specialized classes to earn money and rank up in experience
 <b>/news</b> - Announcements about changes on the server
-<b>/mail</b> - Communication - send and receive mail from any other player on the server, even if they're offline
+<b>/mail</b> - Communication - send and receive mail from any other player on the server, even if they're offline</p>
 
 <hr>
 </body>
