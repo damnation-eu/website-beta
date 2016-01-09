@@ -44,12 +44,12 @@
 ##Governments
 </div>
 
-<p>Different forms of governments determine the basis of leadership changes and internal economy. Don't worry, there's no math required here, on your end. The leadership changes are used in the event that a leader is inactive, steps down, or the natural election cycle has come around. Internal economy information deals with how your money is used when you deposit it into your treasury. Depending on the government, a certain percentage of your deposit will be deposited, given to the leader, redistributed to your fellow citizens, or even wasted. Each government also has a multiplier that can reduce or increase your base deposit before the percentages are calculated. It costs a large sum to revolt to a different government, but you can choose any government at any time if you have the funds in your treasury. Reference the chart below for information about government differences. The money amounts are based on depositing <b>100 Rupees</b> in each government.</p>
+<p>Different forms of governments determine the basis of leadership changes and internal economy. Don't worry, there's no math required here, on your end. The leadership changes are used in the event that a leader is inactive, steps down, or the natural election cycle has come around. Internal economy information deals with how your money is used when you deposit it into your treasury. Depending on the government, a certain percentage of your deposit will be deposited, given to the leader, redistributed to your fellow citizens, and the rest is wasted. <b>Communism</b> and <b>Republic</b> increase your initial deposit and turn a profit. It costs a large sum to revolt to a different government, but you can choose any government at any time if you have the funds in your treasury. Reference the chart below for information about government differences. The money amounts are based on an initial deposit of <b>100 Rupees</b> in each government.</p>
 
 <table class="tg sortable" width="100%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
   <tr>
     <th class="tg-yw4l" width="10%">Government</th>
-    <th class="tg-yw4l" width="10%" style="border-left: 1px solid #000">Revolution Cost</th>
+    <th class="tg-yw4l" width="10%" style="border-left: 1px solid #000">Cost to Use</th>
     <th class="tg-yw4l" width="40%" style="border-left: 1px solid #000">Leadership Change Process</th>
     <th class="tg-yw4l" width="10%" style="border-left: 1px solid #000">Deposited</th>
     <th class="tg-yw4l" width="10%">Leader</th>
@@ -63,7 +63,7 @@
     <td class="tg-9hbo" style="border-left: 1px solid #000">15.0 R</td>
     <td class="tg-9hbo">15.0 R</td>
     <td class="tg-9hbo">0.0 R</td>
-    <td class="tg-9hbo">20.0 R</td>
+    <td class="tg-9hbo">70.0 R</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Monarchy</td>
@@ -72,7 +72,7 @@
     <td class="tg-9hbo" style="border-left: 1px solid #000">41.25 R</td>
     <td class="tg-9hbo">11.25 R</td>
     <td class="tg-9hbo">0.0 R</td>
-    <td class="tg-9hbo">22.5 R</td>
+    <td class="tg-9hbo">47.5 R</td>
   </tr>
   <tr>
     <td class="tg-9hbo">Fascism</td>
