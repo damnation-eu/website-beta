@@ -1,6 +1,8 @@
 ---
 ---
+<div style="text-align: center;" markdown="1">
 # Welcome to damNation, novice Goblin!
+</div>
 
 This guide is a short step-by-step introduction how to get started on damNation and how to access our features and benefits to get the most out of your stay and experience here.
 
