@@ -44,12 +44,13 @@
 ##Governments
 </div>
 
-<p>Different forms of governments determine the basis of leadership changes and internal economy. Don't worry, there's no math required here, on your end. The leadership changes are used in the event that a leader is inactive, steps down, or the natural election cycle has come around. Internal economy information deals with how your money is used when you deposit it into your treasury. Depending on the government, a certain percentage of your deposit will be deposited, given to the leader, redistributed to your fellow citizens, or even wasted. Each government also has a multiplier that can reduce or increase your base deposit before the percentages are calculated. Reference the chart below for information about government difference. The money amounts are based on depositing <b>100 Rupees</b> in each government.</p>
+<p>Different forms of governments determine the basis of leadership changes and internal economy. Don't worry, there's no math required here, on your end. The leadership changes are used in the event that a leader is inactive, steps down, or the natural election cycle has come around. Internal economy information deals with how your money is used when you deposit it into your treasury. Depending on the government, a certain percentage of your deposit will be deposited, given to the leader, redistributed to your fellow citizens, or even wasted. Each government also has a multiplier that can reduce or increase your base deposit before the percentages are calculated. It costs a large sum to revolt to a different government, but you can choose any government at any time if you have the funds in your treasury. Reference the chart below for information about government differences. The money amounts are based on depositing <b>100 Rupees</b> in each government.</p>
 
 <table class="tg sortable" width="100%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
   <tr>
-    <th class="tg-yw4l" width="13%">Government</th>
-    <th class="tg-yw4l" width="47%" style="border-left: 1px solid #000">Leadership Change Process</th>
+    <th class="tg-yw4l" width="10%">Government</th>
+    <th class="tg-yw4l" width="10%" style="border-left: 1px solid #000">Revolution Cost</th>
+    <th class="tg-yw4l" width="40%" style="border-left: 1px solid #000">Leadership Change Process</th>
     <th class="tg-yw4l" width="10%" style="border-left: 1px solid #000">Deposited</th>
     <th class="tg-yw4l" width="10%">Leader</th>
     <th class="tg-yw4l" width="10%">Citizens</th>
@@ -57,6 +58,7 @@
   </tr>
   <tr>
     <td class="tg-9hbo">Feudalism</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">10,000 R</td>
     <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By 1v1 Combat</b> - A citizen challenges the leader to fair combat. If there are more than two opponents, each face off against each other until one combatant has more wins than the others</td>
     <td class="tg-9hbo" style="border-left: 1px solid #000">15.0 R</td>
     <td class="tg-9hbo">15.0 R</td>
@@ -65,6 +67,7 @@
   </tr>
   <tr>
     <td class="tg-9hbo">Monarchy</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">25,000 R</td>
     <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By Lineage</b> - A lineage of inheritance is determined when the kingdom is established. Once one leader steps down, the next in line takes their place</td>
     <td class="tg-9hbo" style="border-left: 1px solid #000">41.25 R</td>
     <td class="tg-9hbo">11.25 R</td>
@@ -73,6 +76,7 @@
   </tr>
   <tr>
     <td class="tg-9hbo">Fascism</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">100,000 R</td>
     <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By Unbalanced Popular Election</b> - Each member of the kingdom is randomly given a number of votes they can give between 1 and the kingdom population. Only the Leader and Advisors are candidates</td>
     <td class="tg-9hbo" style="border-left: 1px solid #000">90.0 R</td>
     <td class="tg-9hbo">0.0 R</td>
@@ -81,6 +85,7 @@
   </tr>
   <tr>
     <td class="tg-9hbo">Communism</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">200,000 R</td>
     <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By The Greatest Common Good</b> - By whomever deposits the most money into the Treasury since the last election</td>
     <td class="tg-9hbo" style="border-left: 1px solid #000">87.25 R</td>
     <td class="tg-9hbo">0.0 R</td>
@@ -89,6 +94,7 @@
   </tr>
   <tr>
     <td class="tg-9hbo">Republic</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">300,000 R</td>
     <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By Democratic Popular Election</b> - Every citizen has one vote and every citizen can run, regardless of position</td>
     <td class="tg-9hbo" style="border-left: 1px solid #000">112.5 R</td>
     <td class="tg-9hbo">7.5 R</td>
@@ -160,8 +166,8 @@
   <tr>
     <td class="tg-9hbo">Hobbit</td>
     <td class="tg-9hbo" style="border-left: 1px solid #000" colspan="2">Crafting (Food)<br/>Smelting (Food)</td>
-    <td class="tg-9hbo">Farming<br/>Fishing</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000">Killing Animals<br/>Killing Monsters</td>
+    <td class="tg-9hbo" style="border-left: 1px solid #000">Farming<br/>Fishing</td>
+    <td class="tg-9hbo">Killing Animals<br/>Killing Monsters</td>
     <td class="tg-9hbo">Killing Bosses</td>
   </tr>
 </table>
