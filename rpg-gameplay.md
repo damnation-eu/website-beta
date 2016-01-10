@@ -18,7 +18,7 @@
 
 <p>For a new round to start, <b>FOUR</b> new leaders must volunteer themselves to head the new kingdoms. The first round of eligible players must be <a href="{{site.baseurl}}/ranks">Hydra or above</a> and are first-come first-serve on the announcement post. If 4 eligible players have not volunteered, the requirement will decrease one rank each day, with a minimum rank of <b>Siren</b>. </p>
 
-<p>Once an eligible player is queued up to be a leader, they can elect one advisor to start with them. These will be the founders of the kingdom and get to determine the initial roleplay direction of the kingdom. The founders will be able to <b>build their own starter castle</b> in a 32x32 creative plot. The castle can be built in any style, so long as solely wood and stone variants are used. All builds will be wiped of chests, furnaces, ores, and other valuable blocks before placement. The week before the start of the round, the castle will be placed in the world and those 4 chunks will be claimed for free.</p>
+<p>Once an eligible player is queued up to be a leader, they can elect one advisor to start with them. These will be the founders of the kingdom and get to determine the initial roleplay direction of the kingdom. The founders will be able to <b>build their own starter castle</b> in a 32x32 creative plot. The castle can be built in any style, so long as common blocks like wood and stone variants are used. Use common sense here. Anything that can be considered rare or valuable should not be used. Ask staff if you have any questions. All builds will be wiped of chests, furnaces, ores, and other valuable blocks before placement. The week before the start of the round, the castle will be placed in the world and those 4 chunks will be claimed for free.</p>
 
 <hr>
 <div style="text-align: center;" markdown="1">
@@ -28,6 +28,21 @@
 <p>When you first join, you'll be greeted by the message welcome you to the server and explaining the server's purpose. In each of the four directions are displays for each of the four kingdoms. Right clicking the <b>red bar</b> below each display shows you basic information about that kingdom. To join a kingdom, simply type <b>/kingdom join [kingdom name]</b> and you will be added! With your starting balance, you can teleport to your kingdom's home directly with <b>/home</b> or you can find its location on the <a href="https://damnation.eu/rpgmap"><b>dynmap</b></a> and run there.</p>
 
 <p><b>Once you're in a kingdom, the fun begins!</b> Communicate with your fellow citizens and leaders to find or make your place in the kingdom. Join a job through <b>/jobs browse</b> (<i>Read more about jobs below</i>) and gear up like normal! Before you go venturing out, though, be sure you take note of all of the information below!</p>
+
+<hr>
+<div style="text-align: center;" markdown="1">
+##Dungeon Master and Events
+</div>
+
+<p>Some staff members will act as <b>Dungeon Masters (DM)</b>. If you haven't played a tabletop game before, a DM is "the game organizer and participant in charge of creating the details and challenges of a given adventure, while maintaining a realistic continuity of events." They will shape the world by creating unique events and challenges that will turn the server into an ever-changing landscape of challenges. These events can be <b>positive, neutral, negative, or any combination of the three</b>. They can add features, remove them, or cripple them. Most of the time, events that occur are there to stay unless a victory condition is given.</p>
+
+<p>Though your claimed chunks protect you from invading players and monsters, <b>they WILL NOT protect you from events</b>. If a meteor crashes, your down may be spared, damaged, or even destroyed. However, <b>chests and only chests will be safe</b> - no event will destroy chests. However, other storage devices like furnaces, dispensers, etc are subject to destruction.</p>
+
+<p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 70px 20px 70px;">
+<b>IMPORTANT: Nothing but chests are safe on this server. If a meteor comes and hits a town, buildings may be destroyed without compensation. Chests are the only things that will be spared.</b>
+</p>
+
+<p>For those who are curious about the DM process, we'll create an event, determine the scale of best to worst possible outcomes, and roll a virtual 6-sided of 20-sided die to determine what happens. A 20D will likely be used when an event's outcome involves numbers (ie % of town destroyed or number of diamonds given), while a 6D will be used for non-number-heavy events. In tabletop games, rolling a 1 or 20 are known as critical rolls, with a 1 being a critical failure and a 20 being a critical hit. In the event of a critical roll, the DM is allowed to go off-scale and determine a more creative outcome. For each event, at least one die will be rolled for each kingdom, but there may be more depending on the event to give more specific outcomes (i.e. a wall breach could result in 4 rolls - one for North, South, East, and West-facing walls).</p>
 
 <hr>
 <div style="text-align: center;" markdown="1">
