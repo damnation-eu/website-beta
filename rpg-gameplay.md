@@ -21,6 +21,7 @@
 <p>Once an eligible player is queued up to be a leader, they can elect one advisor to start with them. These will be the founders of the kingdom and get to determine the initial roleplay direction of the kingdom. The founders will be able to <b>build their own starter castle</b> in a 32x32 creative plot. The castle can be built in any style, so long as common blocks like wood and stone variants are used. Use common sense here. Anything that can be considered rare or valuable should not be used. Ask staff if you have any questions. All builds will be wiped of chests, furnaces, ores, and other valuable blocks before placement. The week before the start of the round, the castle will be placed in the world and those 4 chunks will be claimed for free.</p>
 
 <hr>
+<a name="getting-started"></a>
 <div style="text-align: center;" markdown="1">
 ##Getting Started
 </div>
