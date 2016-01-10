@@ -35,6 +35,7 @@
 <p><b>Once you're in a kingdom, the fun begins!</b> Communicate with your fellow citizens and leaders to find or make your place in the kingdom. Join a job through <b>/jobs browse</b> (<i>Read more about jobs below</i>) and gear up like normal! Before you go venturing out, though, be sure you take note of all of the information below!</p>
 
 <hr>
+<a name="dungeon-master-and-events"></a>
 <div style="text-align: center;" markdown="1">
 ##Dungeon Master and Events
 </div>
@@ -50,6 +51,7 @@
 <p>For those who are curious about the DM process, we'll create an event, determine the scale of best to worst possible outcomes, and roll a virtual 6-sided of 20-sided die to determine what happens. A 20D will likely be used when an event's outcome involves numbers (ie % of town destroyed or number of diamonds given), while a 6D will be used for non-number-heavy events. In tabletop games, rolling a 1 or 20 are known as critical rolls, with a 1 being a critical failure and a 20 being a critical hit. In the event of a critical roll, the DM is allowed to go off-scale and determine a more creative outcome. For each event, at least one die will be rolled for each kingdom, but there may be more depending on the event to give more specific outcomes (i.e. a wall breach could result in 4 rolls - one for North, South, East, and West-facing walls).</p>
 
 <hr>
+<a name="citizens"></a>
 <div style="text-align: center;" markdown="1">
 ##Citizens
 </div>
@@ -62,6 +64,7 @@
 
 <p>If a citizen is a member of a kingdom, they are not allowed to leave without giving their leader and the staff notice.</p>
 <hr>
+<a name="governments"></a>
 <div style="text-align: center;" markdown="1">
 ##Governments
 </div>
@@ -127,6 +130,7 @@
 
 
 <hr>
+<a name="economy"></a>
 <div style="text-align: center;" markdown="1">
 ##Economy
 </div>
@@ -197,8 +201,9 @@
 <div style="text-align: center;" markdown="1">
 ###Items
 </div>
-<p>Several new items have been introduced to the game as rare drops from boss monsters. <i>More information to come...</i></p>
+<p>Several new items have been introduced to the game as rare drops from boss monsters. <b>NOT AVAILABLE IN ALPHA</b> <i>More information to come...</i></p>
 <hr>
+<a name="land-ownership"></a>
 <div style="text-align: center;" markdown="1">
 ##Land Ownership
 </div>
@@ -217,6 +222,7 @@
 <p>Building is <b>aesthetic</b>, <b>manual</b>, and <b>optional</b>. There are no auto-generated or auto-building structures. We recommend building walls to keep out enemy players and monsters, but there are no real functional buildings to create. How you decide to build up your kingdom is entirely up to the kingdom's citizens.</p>
 
 <hr>
+<a name="world"></a>
 <div style="text-align: center;" markdown="1">
 ##World
 </div>
@@ -228,13 +234,14 @@
 </div>
 <p>Typical methods of travel from Main have been disabled, including /tpa, /spawn, /sethome, and /back. The primary method of travel is by foot, by boat, by cart, or by horse. Members of kingdoms have access to /home, which for the cost of <b>100 Rupees</b> will teleport you directly to your kingdom's set spawnpoint.</p>
 
-<p>Points of interest around the world feature warps, however, you must travel and visit them once in order to warp there. <i>More information to come...</i></p>
+<p>Points of interest around the world feature warps, however, you must travel and visit them once in order to warp there. <b>NOT AVAILABLE IN ALPHA</b> <i>More information to come...</i></p>
 
 <div style="text-align: center;" markdown="1">
 ###Enemies
 </div>
 <p>Boss monsters will higher health, special abilities, and valuable drops have a change of spawning throughout the map. Others only spawn in specific areas. Normal monsters have higher health than their vanilla counterparts. <i>More information to come...</i></p>
 <hr>
+<a name="miscellaneous"></a>
 <div style="text-align: center;" markdown="1">
 ##Miscellaneous
 </div>
