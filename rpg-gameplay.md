@@ -27,6 +27,10 @@
 
 <p>When you first join, you'll be greeted by the message welcome you to the server and explaining the server's purpose. In each of the four directions are displays for each of the four kingdoms. Right clicking the <b>red bar</b> below each display shows you basic information about that kingdom. To join a kingdom, simply type <b>/kingdom join [kingdom name]</b> and you will be added! With your starting balance, you can teleport to your kingdom's home directly with <b>/home</b> or you can find its location on the <a href="https://damnation.eu/rpgmap"><b>dynmap</b></a> and run there.</p>
 
+<p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 70px 20px 70px;">
+<b>IMPORTANT: You cannot leave a kingdom after joining it. If you ever wish to leave a kingdom, please notify your leader and a staff member so that you can be removed from the kingdom.</b>
+</p>
+
 <p><b>Once you're in a kingdom, the fun begins!</b> Communicate with your fellow citizens and leaders to find or make your place in the kingdom. Join a job through <b>/jobs browse</b> (<i>Read more about jobs below</i>) and gear up like normal! Before you go venturing out, though, be sure you take note of all of the information below!</p>
 
 <hr>
@@ -54,6 +58,8 @@
 <p>The initial founder is the first leader. There can only be one leader at a time and every kingdom always must have a leader. If a  leader wants to step down, they must promote an advisor to take their place, which will cause the two players to switch positions. The new leader will inherit ownership of all claimed chunks.</p>
 
 <p>Outside of the positions, leaders can grant cosmetic titles to any citizen of their empire including themself. This allows leaders to create internal hierarchies, specializations, and honorary titles to diversify their kingdom.</p>
+
+<p>If a citizen is a member of a kingdom, they are not allowed to leave without giving their leader and the staff notice.</p>
 <hr>
 <div style="text-align: center;" markdown="1">
 ##Governments
@@ -202,7 +208,7 @@
 <b>Chests are the only blocks that can be protected with /lock</b>
 </p>
 
-<p>Every chunk claimed is owned by the current leader and all members of the kingdom are added as members. If a new leader is promoted, they will inherit ownership of the kingdom's land. Monster spawning is denied. Chests are protected automatically upon placement like on Main. For chest management, consult our <a href="{{site.baseurl}}/g/lwc">LWC Guide</a>. All protected chunks are visible on the dynmap.</p>
+<p>Every chunk claimed is owned by the current leader and all members of the kingdom are added as members. If a new leader is promoted, they will inherit ownership of the kingdom's land. Monster spawning is denied. Chests are protected automatically upon placement like on Main. For chest management, consult our <a href="{{site.baseurl}}/g/lwc">LWC Guide</a>. Though doors, furnaces, and other useable blocks cannot be locked, they cannot be opened, closed, or accessed by players who are not members of your land. All protected chunks are visible on the dynmap.</p>
 
 <div style="text-align: center;" markdown="1">
 ###Building
