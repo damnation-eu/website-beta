@@ -251,6 +251,10 @@
 </div>
 <p>When you damage an enemy, a message will appear above your hotbar telling you the enemy's current health and full health!</p>
 <div style="text-align: center;" markdown="1">
+###Roll
+</div>
+<p>Leave fate to the 20D with <b>/roll</b>! If you want to play the game by luck and leave some decisions up to chance, use /roll to simulate a 20 sided die roll. The result will be broadcast to everyone in local chat range (100 blocks). Learn more in-game with <b>/roll help</b></p>
+<div style="text-align: center;" markdown="1">
 ###Mail
 </div>
 <p>Message players with <b>/mail</b>! These messages are solely for the RPG server and will be sent to the player regardless if they are online or not. There are several other functions to the mail plugin, so explore them in-game with <b>/mail help</b></p>

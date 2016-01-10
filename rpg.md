@@ -82,6 +82,7 @@
 <p><b>/player</b> - Player Information - displays information about yourself or others</p>
 <p><b>/home</b> - Teleport to your kingdom's home</p>
 <p><b>/land</b> - Land Management - claim and unclaim protected chunks for your kindom</p>
+<p><b>/roll</b> - Roleplay - Roll a 20 sided die to make decisions - result is broadcasted locally</p>
 <p><b>/fe</b> - Currency - Transfer money around or check your own balance</p>
 <p><b>/jobs</b> - Classes and Economy - Join specialized classes to earn money and rank up in experience</p>
 <p><b>/news</b> - Announcements about changes on the server</p>
