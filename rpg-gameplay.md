@@ -198,6 +198,10 @@
 
 <p>Kingdoms begin with a maximum of <b>16 chunks</b> that can be claimed. For every citizen that joins outside of the original founders, the kingdom can claim 4 more chunks. Only Leaders can claim and unclaim chunks. Claiming a chunk is a <b>50 Rupee investment</b> that can be returned if the chunk is later unclaimed. Chunks can only be claimed <b>within 128 blocks</b> of the kingdom's current /home location. This home location can be changed by Leaders or Advisors at a hefty cost of <b>1000 Rupees</b> if further expansion is wanted.</p>
 
+<p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 70px 20px 70px;">
+<b>Chests are the only blocks that can be protected with /lock</b>
+</p>
+
 <p>Every chunk claimed is owned by the current leader and all members of the kingdom are added as members. If a new leader is promoted, they will inherit ownership of the kingdom's land. Monster spawning is denied. Chests are protected automatically upon placement like on Main. For chest management, consult our <a href="{{site.baseurl}}/g/lwc">LWC Guide</a>. All protected chunks are visible on the dynmap.</p>
 
 <div style="text-align: center;" markdown="1">
