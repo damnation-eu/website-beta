@@ -217,6 +217,8 @@
 
 <p>Every chunk claimed is owned by the current leader and all members of the kingdom are added as members. If a new leader is promoted, they will inherit ownership of the kingdom's land. Monster spawning is denied. Chests are protected automatically upon placement like on Main. For chest management, consult our <a href="{{site.baseurl}}/g/lwc">LWC Guide</a>. Though doors, furnaces, and other useable blocks cannot be locked, they cannot be opened, closed, or accessed by players who are not members of your land. All protected chunks are visible on the dynmap.</p>
 
+<p>The server logs all block changes with CoreProtect. Only admins are able to rollback, restore, or lookup changes, so if you suspect foul play, please let an admin know with a <b>/modreq</b></p>
+
 <div style="text-align: center;" markdown="1">
 ###Building
 </div>
@@ -260,6 +262,11 @@
 ###Mail
 </div>
 <p>Message players with <b>/mail</b>! These messages are solely for the RPG server and will be sent to the player regardless if they are online or not. There are several other functions to the mail plugin, so explore them in-game with <b>/mail help</b></p>
+<p>When you damage an enemy, a message will appear above your hotbar telling you the enemy's current health and full health!</p>
+<div style="text-align: center;" markdown="1">
+###Modreq
+</div>
+<p>If you notice something amiss, find a broken feature, or see a potential grief, leave a <b>/modreq</b> for the staff to investigate for you!</p>
 <div style="text-align: center;" markdown="1">
 ###Tips
 </div>
