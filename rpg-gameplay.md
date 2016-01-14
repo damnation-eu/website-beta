@@ -222,6 +222,7 @@
 </div>
 <p>Building is <b>aesthetic</b>, <b>manual</b>, and <b>optional</b>. There are no auto-generated or auto-building structures. We recommend building walls to keep out enemy players and monsters, but there are no real functional buildings to create. How you decide to build up your kingdom is entirely up to the kingdom's citizens.</p>
 
+<p><a href="http://wiki.sk89q.com/wiki/CraftBook/Usage">CraftBook mechanics</a> from Main can be constructed here by <b>any rank</b> - Doors, Gates, Elevators, Hidden Switches, and Painting Switches. You can also construct <a href="http://dev.bukkit.org/bukkit-plugins/lift/">Lift elevators</a></p>
 <hr>
 <a name="world"></a>
 <div style="text-align: center;" markdown="1">
