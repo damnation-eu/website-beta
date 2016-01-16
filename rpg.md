@@ -53,7 +53,7 @@
 </div>
 
 <hr>
-<p>Our RPG server combines elements from roleplaying video games and tabletop games to provide a unique RP experience. With four kingdoms in the world, citizens and leaders can choose to cooperate with others or seek to destroy. Our custom world is brimming with adventure and opportunity. You can choose your own class, build or lead a kingdom, and battle fearsome monsters! How you choose to play here is entirely up to you! Since this is a Roleplaying server, there will be DM (Dungeon Master) events where some change will happen to the world. Most of these changes will be permanent and some of them may destroy what you have created.</p>
+<p>Our RPG server combines elements from roleplaying video games and tabletop games to provide a unique RP experience. The server is open to all accepted members, regardless of rank. With four kingdoms in the world, citizens and leaders can choose to cooperate with others or seek to destroy. Our custom world is brimming with adventure and opportunity. You can choose your own class, build or lead a kingdom, and battle fearsome monsters! How you choose to play here is entirely up to you! Since this is a Roleplaying server, there will be DM (Dungeon Master) events where some change will happen to the world. Most of these changes will be permanent and some of them may destroy what you have created.</p>
 
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 70px 20px 70px;">
 <b>Fair Warning: Nothing but chests are safe on this server. If a meteor comes and hits a town, buildings may be destroyed without compensation. Chests are the only things that will be spared.</b>
