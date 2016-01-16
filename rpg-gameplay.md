@@ -16,7 +16,11 @@
 ##Pre-Round
 </div>
 
-<p>For a new round to start, <b>FOUR</b> new leaders must volunteer themselves to head the new kingdoms. The first round of eligible players must be <a href="{{site.baseurl}}/ranks">Hydra or above</a> and are first-come first-serve on the announcement post. If 4 eligible players have not volunteered, the requirement will decrease one rank each day, with a minimum rank of <b>Siren</b>. </p>
+<p>For a new round to start, <b>FOUR</b> new leaders must volunteer themselves to head the new kingdoms. The first round of eligible players must be <a href="{{site.baseurl}}/ranks">Hydra or above</a> and are first-come first-serve on the announcement post. If 4 eligible players have not volunteered, the requirement will decrease one rank each day, with a minimum rank of <b>Siren</b>.</p>
+
+<p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 70px 20px 70px;">
+<b>NOTE: These rank restrictions are ONLY for leaders at the beginning of the round. Any player of any rank can play on the server as a normal citizen. Once the round begins and leadership changes hands, ANY player can become a leader.</b>
+</p>
 
 <p>Once an eligible player is queued up to be a leader, they can elect one advisor to start with them. These will be the founders of the kingdom and get to determine the initial roleplay direction of the kingdom. The founders will be able to <b>build their own starter castle</b> in a 32x32 creative plot. The castle can be built in any style, so long as common blocks like wood and stone variants are used. Use common sense here. Anything that can be considered rare or valuable should not be used. Ask staff if you have any questions. All builds will be wiped of chests, furnaces, ores, and other valuable blocks before placement. The week before the start of the round, the castle will be placed in the world and those 4 chunks will be claimed for free.</p>
 
@@ -29,7 +33,7 @@
 <p>When you first join, you'll be greeted by the message welcome you to the server and explaining the server's purpose. In each of the four directions are displays for each of the four kingdoms. Right clicking the <b>red bar</b> below each display shows you basic information about that kingdom. To join a kingdom, simply type <b>/kingdom join [kingdom name]</b> and you will be added! With your starting balance, you can teleport to your kingdom's home directly with <b>/home</b> or you can find its location on the <a href="https://damnation.eu/rpgmap"><b>dynmap</b></a> and run there.</p>
 
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 70px 20px 70px;">
-<b>IMPORTANT: You cannot leave a kingdom after joining it. If you ever wish to leave a kingdom, please notify your leader and a staff member so that you can be removed from the kingdom.</b>
+<b>IMPORTANT: You cannot leave a kingdom manually after joining. However, if you ever wish to leave a kingdom, please notify your leader and a staff member so that you can be removed from the kingdom.</b>
 </p>
 
 <p><b>Once you're in a kingdom, the fun begins!</b> Communicate with your fellow citizens and leaders to find or make your place in the kingdom. Join a job through <b>/jobs browse</b> (<i>Read more about jobs below</i>) and gear up like normal! Before you go venturing out, though, be sure you take note of all of the information below!</p>
@@ -257,7 +261,7 @@
 <div style="text-align: center;" markdown="1">
 ###Roll
 </div>
-<p>Leave fate to the 20D with <b>/roll</b>! If you want to play the game by luck and leave some decisions up to chance, use /roll to simulate a 20 sided die roll. The result will be broadcast to everyone in local chat range (100 blocks). Learn more in-game with <b>/roll help</b></p>
+<p>Leave fate to the 20D with <b>/roll</b>! If you want to play the game by luck and leave some decisions up to chance, use /roll to simulate a 20 sided die roll. The result will be broadcast to everyone in local chat range (100 blocks). <b>All rolls are logged</b>, so if there is ever a discrepancy in roll results, ask bunnies1230. Learn more in-game with <b>/roll help</b></p>
 <div style="text-align: center;" markdown="1">
 ###Mail
 </div>
