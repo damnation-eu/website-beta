@@ -8,5 +8,7 @@ Most of our servers have live Dynmaps available at any time. You can visit them 
 
 [![image2]({{site.baseurl}}/media/Dynmap_Creative.jpg)](https://damnation.eu/creativemap/)
 
-[![image3]({{site.baseurl}}/media/Dynmap_Minigames.jpg)](https://damnation.eu/rcamap/)
+[![image3]({{site.baseurl}}/media/Dynmap_RPG.jpg)](https://damnation.eu/rpgmap/)
+
+[![image4]({{site.baseurl}}/media/Dynmap_Minigames.jpg)](https://damnation.eu/rcamap/)
 
