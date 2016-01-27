@@ -3,14 +3,12 @@
 #First House
 
 Every player is eligible for one <b>FREE</b> protected plot in the main server city. Follow the instructions below to claim yours!
-
-<ol>1. Look on our <a href="http://damnation.eu/dynmap">Dynmap</a> for open plots, outlined in green.</ol>
-<ol>2. Choose a plot you like and visit it</ol>
-<ol>3. If the plot is empty and has a sign on it, it's yours to claim! Otherwise, keep looking.</ol>
-<ol>4. Right click the sign on the plot</ol>
-<ol>5. Type <b>/selfservice buy</b></ol>
-<ol>6. Grab some materials (e.g. <b>/warp treefarm</b>)</ol>
-<ol>7. Build an awesome house to impress your neighbors!</ol>
+<ol>1. Type <b>/freeplots list</b> to list open plots or look on our <a href="http://damnation.eu/dynmap">Dynmap</a> for green plots.</ol>
+<ol>2. Visit the plots, by walking, /warp, <b>/freeplots tp [plotID]</b>, or <b>/freeplots tp random</b> </ol>
+<ol>3. If the plot is empty and has a sign on it, it's yours to claim!</ol>
+<ol>4. Type <b>/freeplots claim [plotID]</b></ol>
+<ol>5. Grab some materials (e.g. <b>/warp treefarm</b>)</ol>
+<ol>6. Build an awesome house to impress your neighbors!</ol>
 
 ___
 
