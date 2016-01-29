@@ -30,7 +30,13 @@
 ##Getting Started
 </div>
 
-<p>When you first join, you'll be greeted by the message welcome you to the server and explaining the server's purpose. In each of the four directions are displays for each of the four kingdoms. Right clicking the <b>red bar</b> below each display shows you basic information about that kingdom. To join a kingdom, simply type <b>/kingdom join [kingdom name]</b> and you will be added! With your starting balance, you can teleport to your kingdom's home directly with <b>/home</b> or you can find its location on the <a href="https://damnation.eu/rpgmap"><b>dynmap</b></a> and run there.</p>
+<p>When you first join, you'll be greeted by the message welcome you to the server and explaining the server's purpose. In each of the four directions are displays for each of the four kingdoms. Right clicking the <b>red bar</b> below each display shows you basic information about that kingdom. To join a kingdom, simply type <b>/kingdom join [kingdom name]</b> and you will be added!</p>
+
+<p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 70px 20px 70px;">
+<b>NOTE: To counteract kingdom imbalance, players cannot join a kingdom that already has two more members than the kingdom with the lowest population. Example: You cannot join Kingdom 1 with 6 members if Kingdom 4 only has 4</b>
+</p>
+
+<p>With your starting balance, you can teleport to your kingdom's home directly with <b>/home</b> or you can find its location on the <a href="https://damnation.eu/rpgmap"><b>dynmap</b></a> and run there.</p>
 
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 70px 20px 70px;">
 <b>IMPORTANT: You cannot leave a kingdom manually after joining. However, if you ever wish to leave a kingdom, please notify your leader and a staff member so that you can be removed from the kingdom.</b>
