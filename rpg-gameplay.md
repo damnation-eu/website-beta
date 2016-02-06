@@ -13,16 +13,16 @@
 
 <hr>
 <div style="text-align: center;" markdown="1">
-##Pre-Round
+##Early Round
 </div>
 
-<p>For a new round to start, <b>FOUR</b> new leaders must volunteer themselves to head the new kingdoms. The first round of eligible players must be <a href="{{site.baseurl}}/ranks">Hydra or above</a> and are first-come first-serve on the announcement post. If 4 eligible players have not volunteered, the requirement will decrease one rank each day, with a minimum rank of <b>Siren</b>.</p>
+<p>At the beginning of each round, player will be able to join kingdoms at will as citizens. The first members will be able to choose a 2x2 chunk starting location that will be protected. In this first week, players can explore the world, gather materials, and build up their castle from scratch. Once this week is up, a leader will be selected.</p>
 
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 70px 20px 70px;">
-<b>NOTE: These rank restrictions are ONLY for leaders at the beginning of the round. Any player of any rank can play on the server as a normal citizen. Once the round begins and leadership changes hands, ANY player can become a leader.</b>
+<b>NOTE: Any player of any rank can play on the server as a normal citizen. Once the round begins and leaders are chosen, ANY player can become a leader.</b>
 </p>
 
-<p>Once an eligible player is queued up to be a leader, they can elect one advisor to start with them. These will be the founders of the kingdom and get to determine the initial roleplay direction of the kingdom. The founders will be able to <b>build their own starter castle</b> in a 32x32 creative plot. The castle can be built in any style, so long as common blocks like wood and stone variants are used. Use common sense here. Anything that can be considered rare or valuable should not be used. Ask staff if you have any questions. All builds will be wiped of chests, furnaces, ores, and other valuable blocks before placement. The week before the start of the round, the castle will be placed in the world and those 4 chunks will be claimed for free.</p>
+<p>Since the first kingdom government is Feudalism, a leader will be selected in each kingdom based on that government's leader selection process - trial by combat. The members of the kingdom will be placed in a bracket pitting them in matches against their fellow kingdom citizens. These fights will take place in the gladiator arena on our Minigames server. Once a leader is crowned, they will be able to select advisors and begin their leader duties like using treasury money and managing land claims.</p>
 
 <hr>
 <a name="getting-started"></a>
@@ -67,9 +67,11 @@
 ##Citizens
 </div>
 
-<p>There are four functional positions on the server - <b>Leader</b>, <b>Advisor</b>, <b>Citizen</b>, and <b>Peasant</b>. Below are a list of features that each position has access to. Each higher position inherits the features of the previous position.</p>
+<p>There are four functional positions on the server - <b>Leader</b>, <b>Advisor</b>, <b>Citizen</b>, and <b>Peasant</b>. The first three are kingdom-only positions, while <b>Peasant</b> is reserved for those without a kingdom affiliation. Below are a list of features that each position has access to. Each higher position inherits the features of the previous position.</p>
 
-<p>The initial founder is the first leader. There can only be one leader at a time and every kingdom always must have a leader. If a  leader wants to step down, they must promote an advisor to take their place, which will cause the two players to switch positions. The new leader will inherit ownership of all claimed chunks.</p>
+TABLE OF GAMEPLAY FEATURES BY POSITION
+
+<p>There can only be one leader at a time and every kingdom always must have a leader. If a  leader wants to step down, they must promote an advisor to take their place, which will cause the two players to switch positions. The new leader will inherit ownership of all claimed chunks. Leaders can change positions of any players within their kingdom.</p>
 
 <p>Outside of the positions, leaders can grant cosmetic titles to any citizen of their empire including themself. This allows leaders to create internal hierarchies, specializations, and honorary titles to diversify their kingdom.</p>
 
@@ -201,6 +203,31 @@
 ###Items
 </div>
 <p>Several new items have been introduced to the game as rare drops from boss monsters. <b>NOT AVAILABLE IN ALPHA</b> <i>More information to come...</i></p>
+
+<hr>
+<a name="pvp"></a>
+<div style="text-align: center;" markdown="1">
+##PvP
+</div>
+<p>PvP is not the focus of the server, but engaging in it does have its perks. You cannot damage your fellow kingdom citizens, however, you can harm everyone else. Protected kingdom chunks protect any players from PvP. Spawn camping and spawn killing are expressly prohibited, but we have some preventative measures in place to give newly respawned players a short period of invincibilty.</p>
+
+<div style="text-align: center;" markdown="1">
+###Infamy
+</div>
+<p><b>Infamy</> is a unique game mechanic that determines how big of a target you are. All players begin on the server with 0 infamy. <p>If you kill another player, you gain infamy. You also are given a reward depending on the difference between your infamy level and your victim's. If you have a lower infamy level, you get a hefty reward in Rupees. Your infamy increases significatly as your victim's decreases significantly. However, if your victim has the same or lower infamy level, you don't gain much money and gain even more infamy, making you a bigger target.</p> 
+
+<p>If you are killed by another player, you lose infamy. You'll become less of a target, but you'll also lose the same number of Rupees the player who killed you gained.</p>
+
+<p>Use <b>/infamy</b> to view the different commands and options for this feature</p>
+
+<div style="text-align: center;" markdown="1">
+###Bounties
+</div>
+
+<p><b>Bounties</b> can be set on any player at any time. The minimum amount that can be added is 100 Rupees. Each time you add some money to a player's head with <b>/bounty set [player] [amount]</b>, it will add it to that player's current bounty. The addition will be announced in-chat and on screen. When a player logs into the server with a bounty, all players will be given an on-screen message. Once a player is killed by another player, the killer claims the bounty and the player's bounty is removed. A bounty <b>will not</b> be removed if a player dies to a mob, kills themselves, or is killed by a fellow kingdom member - it MUST be at the hands of an enemy player.</p>
+
+<p>Use <b>/bounty</b> to view the different commands and options for this feature</p>
+
 <hr>
 <a name="land-ownership"></a>
 <div style="text-align: center;" markdown="1">
@@ -222,14 +249,14 @@
 </div>
 <p>Building is <b>aesthetic</b>, <b>manual</b>, and <b>optional</b>. There are no auto-generated or auto-building structures. We recommend building walls to keep out enemy players and monsters, but there are no real functional buildings to create. How you decide to build up your kingdom is entirely up to the kingdom's citizens.</p>
 
-<p><a href="http://wiki.sk89q.com/wiki/CraftBook/Usage">CraftBook mechanics</a> from Main can be constructed here by <b>any rank</b> - Doors, Gates, Elevators, Bridges, Hidden Switches, and Painting Switches. You can also construct <a href="http://dev.bukkit.org/bukkit-plugins/lift/">Lift elevators</a></p>
+<p><a href="http://wiki.sk89q.com/wiki/CraftBook/Usage">CraftBook mechanics</a> from Main can be constructed here by <b>any rank</b> - Doors, Gates, Elevators, Bridges, Hidden Switches, and Painting Switches. You can also construct <a href="http://dev.bukkit.org/bukkit-plugins/lift/">Lift elevators</a>.</p>
 <hr>
 <a name="world"></a>
 <div style="text-align: center;" markdown="1">
 ##World
 </div>
 
-<p>The world is a custom RPG world build by Lemon-Fox. The world was chosen for its variety of biomes, breathtaking custom trees, altered cave generation, and non-vanilla terrain generation. Players can build anywhere in the wilderness. Only spawn, dungeons/other points of interest, and kingdom chunks are protected from building. Scope out the environment, scout your enemy's locations, and check out kingdom locations and land claims on the <a href="https://damnation.eu/rpgmap"><b>RPG Server Dynmap</b></a></p>
+<p>World are vanilla-custom generated to strike a balance between playability and more realistic terrain. Players can build anywhere in the wilderness. Only spawn, dungeons/other points of interest, and kingdom chunks are protected from building. Scope out the environment, scout your enemy's locations, and check out kingdom locations and land claims on the <a href="https://damnation.eu/rpgmap"><b>RPG Server Dynmap</b></a></p>
 
 <div style="text-align: center;" markdown="1">
 ###Travel
