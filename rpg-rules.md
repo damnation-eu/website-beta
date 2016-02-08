@@ -31,5 +31,5 @@ Though those playing on the RPG server are already server members who have read 
 - **Rule 8** - No Spawn Camping - we have anti-camping measures in place to protect people after respawning.
 
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 50px 20px 50px;">
-      Playing on RPG means you have read and agreed to the above rules. Any rulebreak that is met with the excuse of "I didn't read the rules" will not be accepted.
+      Playing on RPG means you have read and agreed to the above rules.<br/>Any rulebreak that is met with the excuse of "I didn't read the rules" will not be accepted.
 </p>
