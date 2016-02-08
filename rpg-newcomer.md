@@ -1,5 +1,8 @@
 ---
 ---
+<head>
+<link rel="stylesheet" type="_sass/grr/css" href="foundation.css">
+</head>
 
 <a name="getting-started"></a>
 <div style="text-align: center;" markdown="1">
