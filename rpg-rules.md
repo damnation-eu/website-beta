@@ -7,7 +7,7 @@ Though those playing on the RPG server are already server members who have read 
 
 ## RPG Server Rules
 
-- **Rule 1** - You must be able to act maturely. We no longer require applicants to be <span style="color: red;">**18+**</span>
+- **Rule 1** - All standard damNation rules apply unless otherwise stated. <a href="{{site.baseurl}}/membership-age"><b>Read more</b></a> about our Server Rules 
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 50px 20px 50px;">
       <a href="{{site.baseurl}}/membership-age">Read more</a> about our Membership Age Policy
 </p>
