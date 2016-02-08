@@ -33,7 +33,12 @@
 
 <p>Use <b>/bounty</b> to view the different commands and options for this feature</p>
 
-<br/>
+<div style="text-align: center;" markdown="1">
+###ActionHealth
+</div>
+<p>When you damage a mob or player, a message will appear above your hotbar telling you the enemy's current health and full health!</p>
+
+<hr>
 <center><a href="{{site.baseurl}}/rpg/gameplay" class="myButton">RPG Gameplay Information</a></center><br/>
 
 <hr>
