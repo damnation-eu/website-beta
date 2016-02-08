@@ -5,7 +5,6 @@
 <link rel="stylesheet" href="{{site.baseurl}}/stylesheets/app.css" />
 </head>
 
-
 <body>
 <a name="getting-started"></a>
 <div style="text-align: center;" markdown="1">
