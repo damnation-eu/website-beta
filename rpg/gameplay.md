@@ -86,16 +86,12 @@
 ##World
 </div>
 
-<p>World are vanilla-custom generated to strike a balance between playability and more realistic terrain. Players can build anywhere in the wilderness. Only spawn, dungeons/other points of interest, and kingdom chunks are protected from building. Scope out the environment, scout your enemy's locations, and check out kingdom locations and land claims on the <a href="https://damnation.eu/rpgmap"><b>RPG Server Dynmap</b></a></p>
+<p>RPG Worlds are filled with custom Points of Interest like altars and dungeons. Worlds are vanilla-custom generated to strike a balance between playability and more realistic terrain. Players can build anywhere in the wilderness. Only spawn, dungeons/other points of interest, and kingdom chunks are protected from building. Check out kingdom locations and land claims on the <a href="https://damnation.eu/rpgmap"><b>RPG Server Dynmap</b></a></p>
 
-<div style="text-align: center;" markdown="1">
-###Travel
-</div>
-<p>Typical methods of travel from Main have been disabled, including /tpa, /sethome, and /back. The primary method of travel is by foot, by boat, by cart, or by horse. Members of kingdoms have access to /home, which for the cost of <b>100 Rupees</b> will teleport you directly to your kingdom's set spawnpoint.</p>
+<p>Typical methods of travel from Main have been disabled, including /tpa, /sethome, and /back. The primary method of travel is by foot, by boat, by cart,  by horse, /home, or /spawn.</p>
 
-<p>Travel to spawn is slightly different than usual. The command will cost <b>50 Rupees</b> and has a <b>10 second warmup</b> before the teleport.</p>
+<center><p><b><a href="{{site.baseurl}}/rpg/world">Read more</a> about travel and features in the world</b></p></center>
 
-<p>Points of interest around the world feature warps, however, you must travel and visit them once in order to warp there. <b>NOT AVAILABLE IN ALPHA</b> <i>More information to come...</i></p>
 
 <hr>
 <a name="miscellaneous"></a>
@@ -103,14 +99,6 @@
 ##Miscellaneous
 </div>
 <p>A handful of helpful minor gameplay tweaks to enchance the RPG Server experience.</p>
-<div style="text-align: center;" markdown="1">
-###ActionHealth
-</div>
-<p>When you damage an enemy, a message will appear above your hotbar telling you the enemy's current health and full health!</p>
-<div style="text-align: center;" markdown="1">
-###Roll
-</div>
-<p>Leave fate to the 20D with <b>/roll</b>! If you want to play the game by luck and leave some decisions up to chance, use /roll to simulate a 20 sided die roll. The result will be broadcast to everyone in local chat range (100 blocks). <b>All rolls are logged</b>, so if there is ever a discrepancy in roll results, ask bunnies1230. Learn more in-game with <b>/roll help</b></p>
 <div style="text-align: center;" markdown="1">
 ###Mail
 </div>
