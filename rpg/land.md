@@ -23,7 +23,6 @@
 <p><a href="http://wiki.sk89q.com/wiki/CraftBook/Usage">CraftBook mechanics</a> from Main can be constructed here by <b>any rank</b> - Doors, Gates, Elevators, Bridges, Hidden Switches, and Painting Switches. You can also construct <a href="http://dev.bukkit.org/bukkit-plugins/lift/">Lift elevators</a>.</p>
 <hr>
 
-<br/>
 <center><a href="{{site.baseurl}}/rpg/gameplay" class="myButton">RPG Gameplay Information</a></center><br/>
 
 <hr>
