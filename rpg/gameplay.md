@@ -19,7 +19,7 @@
 
 <p>When you first join, you'll be greeted by the message welcome you to the server and explaining the server's purpose. In each of the four directions are displays for each of the four kingdoms. Right clicking the <b>red bar</b> below each display shows you basic information about that kingdom. To join a kingdom, simply type <b>/kingdom join [kingdom name]</b> and you will be added!</p>
 
-<p><b><a href="{{site.baseurl}}/rpg/newcomer">Read more</a></b>about how rounds begin and how to start out on RPG</p>
+<center><p><b><a href="{{site.baseurl}}/rpg/newcomer">Read more</a> about how rounds begin and how to start out on RPG</b></p></center>
 
 
 <hr>
