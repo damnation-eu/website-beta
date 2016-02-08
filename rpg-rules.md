@@ -7,45 +7,31 @@ Though those playing on the RPG server are already server members who have read 
 
 ## RPG Server Rules
 
-- **Rule 1** - All standard damNation rules apply unless otherwise stated. <a href="{{site.baseurl}}/membership-age"><b>Read more</b></a> about our Server Rules 
+- **Rule 1** - All standard damNation rules apply unless otherwise stated.
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 50px 20px 50px;">
-      <a href="{{site.baseurl}}/membership-age">Read more</a> about our Membership Age Policy
+      Refresh yourself on our <a href="{{site.baseurl}}/rules">Server Rules</a>
 </p>
-- **Rule 2** - Be courteous and respect others. Agree to disagree.
 
-- **Rule 3** - If you would not like somebody doing to you, what you are thinking of doing to them, DO NOT do it. We're talking common, real world, sense here, folks.
+- **Rule 2** - **(Clarification on Server Rule 4)** - DO NOT abuse glitches - RPG is a largely custom coded server, so there are bound to be errors every now and then. If something seems broken or seems to work incorrectly, make a modreq as soon as you can. Abusing a glitch without notifying staff will be treated as cheating and may result in disciplinary action.
 
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 50px 20px 50px;">
       Hacked clients, using cheats, taking advantage of glitches will land you in trouble.
 </p>
 
-- **Rule 4** - No exploits, duping, cheating, stealing, griefing, hacking, modded clients etc. We do allow some Client mods. Find out more by scrolling below.
+- **Rule 3a** - **(Clarification on Server Rule 4)** - Griefing is not allowed - Destruction of builds is explicitly prohibited. The *only* instance where breaking blocks in another player's build is allowed is to create a 2x1 hole big enough to enter an otherwise closed-off structure.
 
-<p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 50px 20px 50px;">
-      We have particular build requirements which you should pay close attention to.
-</p>
+- **Rule 3b** - Looting is allowed - If a chest or furnace or other storage block is unprotected, it can be looted. Remember to protect your items.
 
-- **Rule 5** - Gather resources, but leave the landscape looking natural and beautiful, please.
+- **Rule 4** - **(Clarification on Server Rule 13)** - DO NOT build Mob Farms, XP Grinders, and any other type of mob grinder. You will not be banned for their use, but if caught, you'll invoke the wrath of the DM, typically resulting in the destruction of your grinder among other potential RP penalties.
 
-- **Rule 6** - No giant 2d builds outside of creative worlds. The only place you can build giant pixelart, voxelart, flags etc is creative.
+- **Rule 5** - **(Clarification on Server Rule 8)** - You DO NOT need to be 128 blocks away to build. You are free to build wherever you can, but remember that any building solely meant to irritate another player is not permitted. This is including but not limited to building walls/moats or placing lava/water around an opponents' protected chunks.
 
-- **Rule 7** - Put effort in to all your builds, build with taste.
+- **Rule 6a** - DO NOT claim chunks clearly containing another player's build. 
+- **Rule 6b** - DO NOT intentionally build a structure near another kingdom with the intent to antagonize without reason. However, if you have discussed doing so with the leader.
+- 
+- **Rule 7** - DO NOT Combat Log - this includes logging out or switching servers while in combat with another player. Such unsportsmanlike actions may result in removal of right to play on RPG.
 
-- **Rule 8** - Build beyond <span style="color: red;">**128**</span> blocks from your neighbor.
-
-- **Rule 9** - Redstone contraptions must not impinge on server performance.
-
-- **Rule 10** - If your conduct results in receiving instructions from a staff member (dark red, red, and pink names), always obey.
-
-- **Rule 11** - No chat spam or flooding, no caps spam, no commercials for other servers or any commercial services. No excessive swearing and no swearing at other players.
-
-- **Rule 12** - Report misbehaviour, grief, exploits and bugs to staff using the forum, pm's, or mumble. Do no bother them unnecessarily, and NEVER EVER bother staff for op or admin rights.
-
-- **Rule 13** - Mobtowers/XPgrinders etc are allowed in MODERATION. In relation to both XP and Items: No collection of items/xp while afk; no unattended automation of item/xp gathering, including mcmmo experience; and absolutely no unattended macroing. With an off-switch, and do not build in heavily populated areas. You are not allowed to let any mob stack up more than about 100 in a chunk, you should add a way to quickly kill mobs if they do stack up. (excessive stacking of monsters is cause for warning/demotion/ban!). Furthermore, towers must be covered and look like actual builds (not like flying platforms) - follow the building rules and some aesthetics please. No one wants to see giant cobble/wood cubes in the landscape.
-
-- **Rule 14** - No commercials for other servers or any commercial services.
-
-- **Rule 15** - On your registration to enter the server: Take the bold red number from Rule 1 on this rule overview page and ADD it to the bold red number from Rule #8 on this page, above, look.... it sticks out like a sore thumb, do you see it? Ahh good, you got it. Now write the total (aka sum) when asked. Thank you for understanding we only do this to make sure people read the rules' overview properly. It's an amazingly effective mechanism, and you'll love the result of it once you join our community. You'd be amazed how many people just skim read, particularly younger people. Thanks for your understanding in keeping this such an awesome server.
+- **Rule 8** - DO NOT spawn camp - we have anti-camping measures in place to protect people after respawning.
 
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 50px 20px 50px;">
       You are expected to uphold the spirit and the letter of the rules on all our servers.
