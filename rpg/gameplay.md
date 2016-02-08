@@ -28,99 +28,24 @@
 ##Dungeon Master and Events
 </div>
 
-<p>Some staff members will act as <b>Dungeon Masters (DM)</b>. If you haven't played a tabletop game before, a DM is "the game organizer and participant in charge of creating the details and challenges of a given adventure, while maintaining a realistic continuity of events." They will shape the world by creating unique events and challenges that will turn the server into an ever-changing landscape of challenges. These events can be <b>positive, neutral, negative, or any combination of the three</b>. They can add features, remove them, or cripple them. Most of the time, events that occur are there to stay unless a victory condition is given.</p>
+<p>Being an "RPG" server, roleplaying is the primary gameplay feature. While all players are encouraged to roleplay as their own characters, some staff members will act as <b>Dungeon Masters (DM)</b>. If you haven't played a tabletop game before, a DM is "the game organizer and participant in charge of creating the details and challenges of a given adventure, while maintaining a realistic continuity of events." They will shape the world by creating unique events and challenges that will turn the server into an ever-changing landscape of challenges. Much of the fun of this server will be interactions between the DMs and players who roleplay.</p>
 
-<p>Though your claimed chunks protect you from invading players and monsters, <b>they WILL NOT protect you from events</b>. If a meteor crashes, your down may be spared, damaged, or even destroyed. However, <b>chests and only chests will be safe</b> - no event will destroy chests. However, other storage devices like furnaces, dispensers, etc are subject to destruction.</p>
+<center><p><b><a href="{{site.baseurl}}/rpg/dm">Read more</a> about Dungeon Masters, Roleplaying, and Events</b></p></center>
 
-<p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 70px 20px 70px;">
-<b>IMPORTANT: Nothing but chests are safe on this server. If a meteor comes and hits a town, buildings may be destroyed without compensation. Chests are the only things that will be spared.</b>
-</p>
-
-<p>For those who are curious about our DM process, here's an explanation. After we'll create an event, we determine the scale of best to worst possible outcomes, and <b>roll a virtual 20-sided die to determine what happens to each party</b>. In tabletop games, rolling a 1 or 20 are known as critical rolls, with a 1 being a critical failure and a 20 being a critical hit. Numbers closer to 20 are much more positive for the player, while those closer to 1 are very dangerous. In the event of either critical roll, the DM is allowed to <b>go off-scale and determine a more creative outcome</b>. For each event, at least one die will be rolled for each kingdom, but there may be more depending on the event to give more specific outcomes (i.e. a wall breach could result in 4 rolls - one for North, South, East, and West-facing walls).</p>
-
-<p>For your own roleplay, players are able to use <b>/roll</b>, which will roll a 20D and broadcast the result to players within 100 blocks of you. These rolls are purely cosmetic and are used solely for creative roleplay.</p>
 <hr>
-<a name="citizens"></a>
+<a name="kingdoms"></a>
 <div style="text-align: center;" markdown="1">
-##Citizens
+##Kingdoms
 </div>
 
-<p>There are four functional positions on the server - <b>Leader</b>, <b>Advisor</b>, <b>Citizen</b>, and <b>Peasant</b>. The first three are kingdom-only positions, while <b>Peasant</b> is reserved for those without a kingdom affiliation. Below are a list of features that each position has access to. Each higher position inherits the features of the previous position.</p>
+<p>The gameplay of the server is balanced around being a member of a kingdom. Though it is not necessary to, we highly recommend joining a kingdom to take full advantage of the gameplay features. There are only four kingdoms in the world that can expand over time as more people join their ranks.</p>
 
-TABLE OF GAMEPLAY FEATURES BY POSITION
+<p>There are four functional positions on the server - <b>Leader</b>, <b>Advisor</b>, <b>Citizen</b>, and <b>Peasant</b>. The first three are kingdom-only positions, while <b>Peasant</b> is reserved for those without a kingdom affiliation.</p>
 
-<p>There can only be one leader at a time and every kingdom always must have a leader. If a  leader wants to step down, they must promote an advisor to take their place, which will cause the two players to switch positions. The new leader will inherit ownership of all claimed chunks. Leaders can change positions of any players within their kingdom.</p>
+<p>Different forms of governments have benefits and downsides. As leaders and citizens, you can choose between a variety of governments to serve your economic, foreign policy, and roleplaying purposes.</p>
 
-<p>Outside of the positions, leaders can grant cosmetic titles to any citizen of their empire including themself. This allows leaders to create internal hierarchies, specializations, and honorary titles to diversify their kingdom.</p>
+<center><p><b><a href="{{site.baseurl}}/rpg/kingdoms">Read more</a> about the kingdom, citizens, and government gameplay</b></p></center>
 
-<p>If a citizen is a member of a kingdom, they are not allowed to leave without giving their leader and the staff notice.</p>
-<hr>
-<a name="governments"></a>
-<div style="text-align: center;" markdown="1">
-##Governments
-</div>
-
-<p>Different forms of governments determine the basis of leadership changes and internal economy. Don't worry, there's no math required here, on your end. The leadership changes are used in the event that a leader is inactive, steps down, or the natural election cycle has come around. Internal economy information deals with how your money is used when you deposit it into your treasury. Depending on the government, a certain percentage of your deposit will be deposited, given to the leader, redistributed to your fellow citizens, and the rest is wasted. <b>Communism</b> and <b>Republic</b> increase your initial deposit and turn a profit. It costs a large sum to revolt to a different government, but you can choose any government at any time if you have the funds in your treasury. Reference the chart below for information about government differences. The money amounts are based on an initial deposit of <b>100 Rupees</b> in each government.</p>
-
-<table class="tg sortable" width="100%" style="background-color:#FFF; text-align:center; border: 2px solid #000;">
-  <tr>
-    <th class="tg-yw4l" width="10%">Government</th>
-    <th class="tg-yw4l" width="10%" style="border-left: 1px solid #000">Cost to Use</th>
-    <th class="tg-yw4l" width="40%" style="border-left: 1px solid #000">Leadership Change Process</th>
-    <th class="tg-yw4l" width="10%" style="border-left: 1px solid #000">Deposited</th>
-    <th class="tg-yw4l" width="10%">Leader</th>
-    <th class="tg-yw4l" width="10%">Citizens</th>
-    <th class="tg-yw4l" width="10%">Wasted</th>
-  </tr>
-  <tr>
-    <td class="tg-9hbo">Feudalism</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000">10,000 R</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By 1v1 Combat</b> - A citizen challenges the leader to fair combat. If there are more than two opponents, each face off against each other until one combatant has more wins than the others</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000">15.0 R</td>
-    <td class="tg-9hbo">15.0 R</td>
-    <td class="tg-9hbo">0.0 R</td>
-    <td class="tg-9hbo">70.0 R</td>
-  </tr>
-  <tr>
-    <td class="tg-9hbo">Monarchy</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000">25,000 R</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By Lineage</b> - A lineage of inheritance is determined when the kingdom is established. Once one leader steps down, the next in line takes their place</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000">41.25 R</td>
-    <td class="tg-9hbo">11.25 R</td>
-    <td class="tg-9hbo">0.0 R</td>
-    <td class="tg-9hbo">47.5 R</td>
-  </tr>
-  <tr>
-    <td class="tg-9hbo">Fascism</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000">100,000 R</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By Unbalanced Popular Election</b> - Each member of the kingdom is randomly given a number of votes they can give between 1 and the kingdom population. Only the Leader and Advisors are candidates</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000">90.0 R</td>
-    <td class="tg-9hbo">0.0 R</td>
-    <td class="tg-9hbo">0.0 R</td>
-    <td class="tg-9hbo">10.0 R</td>
-  </tr>
-  <tr>
-    <td class="tg-9hbo">Communism</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000">200,000 R</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By The Greatest Common Good</b> - By whomever deposits the most money into the Treasury since the last election</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000">87.25 R</td>
-    <td class="tg-9hbo">0.0 R</td>
-    <td class="tg-9hbo">37.5 R</td>
-    <td class="tg-9hbo">0.0 R</td>
-  </tr>
-  <tr>
-    <td class="tg-9hbo">Republic</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000">300,000 R</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000"><b>By Democratic Popular Election</b> - Every citizen has one vote and every citizen can run, regardless of position</td>
-    <td class="tg-9hbo" style="border-left: 1px solid #000">112.5 R</td>
-    <td class="tg-9hbo">7.5 R</td>
-    <td class="tg-9hbo">7.5 R</td>
-    <td class="tg-9hbo">22.5 R</td>
-  </tr>
-</table>
-
-
-<hr>
 <a name="economy"></a>
 <div style="text-align: center;" markdown="1">
 ##Economy
