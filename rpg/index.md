@@ -3,49 +3,6 @@
 <html>
 <head>
 </head>
-<style type="text/css">
-.myButton {
-	-moz-box-shadow:inset 0px 1px 0px 0px #035200;
-	-webkit-box-shadow:inset 0px 1px 0px 0px #035200;
-	box-shadow:inset 0px 1px 0px 0px #035200;
-	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #50B63E), color-stop(1, #069900));
-	background:-moz-linear-gradient(top, #50B63E 5%, #069900 100%);
-	background:-webkit-linear-gradient(top, #50B63E 5%, #069900 100%);
-	background:-o-linear-gradient(top, #50B63E 5%, #069900 100%);
-	background:-ms-linear-gradient(top, #50B63E 5%, #069900 100%);
-	background:linear-gradient(to bottom, #50B63E 5%, #069900 100%);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#50B63E', endColorstr='#069900',GradientType=0);
-	background-color:#50B63E;
-	-moz-border-radius:6px;
-	-webkit-border-radius:6px;
-	border-radius:6px;
-	border:1px solid #069900;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:30px;
-	font-weight:bold;
-	padding:6px 24px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #035200;
-}
-.myButton:hover {
-	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #069900), color-stop(1, #50B63E));
-	background:-moz-linear-gradient(top, #069900 5%, #50B63E 100%);
-	background:-webkit-linear-gradient(top, #069900 5%, #50B63E 100%);
-	background:-o-linear-gradient(top, #069900 5%, #50B63E 100%);
-	background:-ms-linear-gradient(top, #069900 5%, #50B63E 100%);
-	background:linear-gradient(to bottom, #069900 5%, #50B63E 100%);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#069900', endColorstr='#50B63E',GradientType=0);
-	background-color:#069900;
-	color:#ffffff;
-}
-.myButton:active {
-	position:relative;
-	top:1px;
-}
-</style>
 
 <body>
 <div style="text-align: center;" markdown="1">
@@ -65,8 +22,8 @@
 </p>
 <p>The server has been constructed with a variety of RPG features like kingdoms, classes, jobs, bosses, building, rare items, and exploration. Though we've tried to keep the gameplay simple, to ensure you get the most out of your experience, there is some information that you should know more about before diving into the server. <b>Click the buttons below for more information about rules, gameplay, and forum discussion</b>!</p>
 <br/>
-<center><a href="{{site.baseurl}}/rpg-rules" class="myButton">RPG Rules</a></center><br/>
-<center><a href="{{site.baseurl}}/rpg-gameplay" class="myButton">RPG Gameplay Information</a></center><br/>
+<center><a href="{{site.baseurl}}/rpg/rules" class="myButton">RPG Rules</a></center><br/>
+<center><a href="{{site.baseurl}}/rpg/gameplay" class="myButton">RPG Gameplay Information</a></center><br/>
 <center><a href="https://damnation.eu/phpbb/viewforum.php?f=84" class="myButton">RPG Discussion Forum</a></center><br/>
 <hr>
 
