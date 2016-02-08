@@ -85,7 +85,6 @@ TABLE OF GAMEPLAY FEATURES BY POSITION
 </table>
 <hr>
 
-<br/>
 <center><a href="{{site.baseurl}}/rpg/gameplay" class="myButton">RPG Gameplay Information</a></center><br/>
 
 <hr>
