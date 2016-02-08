@@ -65,10 +65,9 @@
 </p>
 <p>The server has been constructed with a variety of RPG features like kingdoms, classes, jobs, bosses, building, rare items, and exploration. Though we've tried to keep the gameplay simple, to ensure you get the most out of your experience, there is some information that you should know more about before diving into the server. <b>Click the buttons below for more information about rules, gameplay, and forum discussion</b>!</p>
 <br/>
-<center><a href="{{site.baseurl}}/rpg-gameplay" class="myButton">RPG Gameplay Information</a>
-<a href="{{site.baseurl}}/rpg-rules" class="myButton">RPG Rules</a></center>
-<center><a href="https://damnation.eu/phpbb/viewforum.php?f=84" class="myButton">RPG Discussion Forum</a></center>
-<br/>
+<center><a href="{{site.baseurl}}/rpg-rules" class="myButton">RPG Rules</a></center><br/>
+<center><a href="{{site.baseurl}}/rpg-gameplay" class="myButton">RPG Gameplay Information</a></center><br/>
+<center><a href="https://damnation.eu/phpbb/viewforum.php?f=84" class="myButton">RPG Discussion Forum</a></center><br/>
 <hr>
 
 <div style="text-align: center;" markdown="1">
