@@ -58,26 +58,13 @@
 <hr>
 <a name="pvp"></a>
 <div style="text-align: center;" markdown="1">
-##PvP
+##Combat
 </div>
-<p>PvP is not the focus of the server, but engaging in it does have its perks. You cannot damage your fellow kingdom citizens, however, you can harm everyone else. Protected kingdom chunks protect any players from PvP. Spawn camping and spawn killing are expressly prohibited, but we have some preventative measures in place to give newly respawned players a short period of invincibilty.</p>
+<b></b>
 
-<div style="text-align: center;" markdown="1">
-###Infamy
-</div>
-<p><b>Infamy</> is a unique game mechanic that determines how big of a target you are. All players begin on the server with 0 infamy. <p>If you kill another player, you gain infamy. You also are given a reward depending on the difference between your infamy level and your victim's. If you have a lower infamy level, you get a hefty reward in Rupees. Your infamy increases significatly as your victim's decreases significantly. However, if your victim has the same or lower infamy level, you don't gain much money and gain even more infamy, making you a bigger target.</p> 
+<p>PvP is not the focus of the server, but engaging in it does have its perks. You cannot damage your fellow kingdom citizens, however, you can harm everyone else. As you kill players, your <b>infamy</b> will rise - as you are defeated, it will fall. Those with high infamy are much more profitable targets. Did someone rub you the wrong way? <b>Bounties</b> can be set on any player at any time which can be claimed by any player that is not allied to the target.</p>
 
-<p>If you are killed by another player, you lose infamy. You'll become less of a target, but you'll also lose the same number of Rupees the player who killed you gained.</p>
-
-<p>Use <b>/infamy</b> to view the different commands and options for this feature</p>
-
-<div style="text-align: center;" markdown="1">
-###Bounties
-</div>
-
-<p><b>Bounties</b> can be set on any player at any time. The minimum amount that can be added is 100 Rupees. Each time you add some money to a player's head with <b>/bounty set [player] [amount]</b>, it will add it to that player's current bounty. The addition will be announced in-chat and on screen. When a player logs into the server with a bounty, all players will be given an on-screen message. Once a player is killed by another player, the killer claims the bounty and the player's bounty is removed. A bounty <b>will not</b> be removed if a player dies to a mob, kills themselves, or is killed by a fellow kingdom member - it MUST be at the hands of an enemy player.</p>
-
-<p>Use <b>/bounty</b> to view the different commands and options for this feature</p>
+<center><p><b><a href="{{site.baseurl}}/rpg/combat">Read more</a> about the PvE and PvP Combat</b></p></center>
 
 <hr>
 <a name="land-ownership"></a>
@@ -118,10 +105,6 @@
 
 <p>Points of interest around the world feature warps, however, you must travel and visit them once in order to warp there. <b>NOT AVAILABLE IN ALPHA</b> <i>More information to come...</i></p>
 
-<div style="text-align: center;" markdown="1">
-###Enemies
-</div>
-<p>Boss monsters will higher health, special abilities, and valuable drops have a change of spawning throughout the map. Others only spawn in specific areas. Normal monsters have higher health than their vanilla counterparts. <i>More information to come...</i></p>
 <hr>
 <a name="miscellaneous"></a>
 <div style="text-align: center;" markdown="1">
