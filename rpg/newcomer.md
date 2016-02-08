@@ -31,7 +31,8 @@
 </p>
 
 <p>Since the first kingdom government is Feudalism, a leader will be selected in each kingdom based on that government's leader selection process - trial by combat. The members of the kingdom will be placed in a bracket pitting them in matches against their fellow kingdom citizens. These fights will take place in the gladiator arena on our Minigames server. Once a leader is crowned, they will be able to select advisors and begin their leader duties like using treasury money and managing land claims.</p>
-<br/>
+
+<hr>
 <center><a href="{{site.baseurl}}/rpg/gameplay" class="myButton">RPG Gameplay Information</a></center><br/>
 
 <hr>
