@@ -2,7 +2,7 @@
 ---
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="/_sass/grr/css/foundation.css">
+<link rel="stylesheet" type="text/css" href="_sass/grr/css/foundation.css">
 </head>
 
 
