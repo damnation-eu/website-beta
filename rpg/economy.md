@@ -61,8 +61,6 @@
 </div>
 <p>Several new items have been introduced to the game as rare drops from boss monsters. <b>NOT AVAILABLE IN ALPHA</b> <i>More information to come...</i></p>
 
-
-
+<hr>
 <center><a href="{{site.baseurl}}/rpg/gameplay" class="myButton">RPG Gameplay Information</a></center><br/>
-
 <hr>
