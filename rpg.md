@@ -28,7 +28,7 @@
 	font-weight:bold;
 	padding:6px 24px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #b23e35;
+	text-shadow:0px 1px 0px #035200;
 }
 .myButton:hover {
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #069900), color-stop(1, #50B63E));
