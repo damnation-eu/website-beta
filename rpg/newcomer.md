@@ -24,7 +24,7 @@
 ##Early Round
 </div>
 
-<p>At the beginning of each round, player will be able to join kingdoms at will as citizens. The first members will be able to choose a 2x2 chunk starting location that will be protected. In this first week, players can explore the world, gather materials, and build up their castle from scratch. Once this week is up, a leader will be selected.</p>
+<p>At the beginning of each round, player will be able to join kingdoms at will as citizens. The first members will be able to choose a 3x3 chunk starting location for their castle. Every kingdom will get the same castle. In this first week, players can explore the world, gather materials, and make their castle their own. Once this week is up, a leader will be selected.</p>
 
 <p style="border: 5px solid #77df88; text-align:center;border-radius:10px;background-color:#ffffff; padding: 10px;margin: 0px 70px 20px 70px;">
 <b>NOTE: Any player of any rank can play on the server as a normal citizen. Once the round begins and leaders are chosen, ANY player can become a leader.</b>
