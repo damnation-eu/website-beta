@@ -29,7 +29,7 @@ ___
 <div style="text-align: center;" markdown="1">
 ##Warps
 </div>
-<p>There are no warps in Earthsea, not even spawn. The only way to travel here is through its nexus portal.
+<p>There are no warps in Earthsea, not even spawn. The only way to travel here is through its nexus portal.</p>
 
 ___
 
