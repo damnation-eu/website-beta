@@ -43,4 +43,4 @@ ___
 <div style="text-align: center;" markdown="1">
 ##Miscellaneous
 </div>
-<i>To be written...</i>
+<p>Glorantha is named after the fantasy world created by Greg Stafford, which was first introduced in the 1975 board game White Bear and Red Moon.</p>
