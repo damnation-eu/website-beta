@@ -9,31 +9,19 @@ ___
 <div style="text-align: center;" markdown="1">
 ##History
 </div>
-<i>To be written...</i>
+<p>Earthsea was launched in December 2014. It was intended as a world where Ocean Monuments (introduced in Minecraft 1.8) could be harvested for materials. It is a resettable world, so that the structures in the world can be raided over and over again. </p>
 ___
 
 <div style="text-align: center;" markdown="1">
 ##Distinguishing Features
 </div>
-<p>Ocean. Mostly just ocean. There are a few islands but the focus here is ocean. Specifically for the purpose of ocean monuments. There are a few of those as well. This world resets - do not build anything here because it will be lost upon reset. Resets are either staff-triggered or can be done by any player when you feel the monuments have been fully looted.</p>
+<p>Earthsea is entirely composed of Ocean biome, with scattered islands here and there. The oceans are home to several Ocean Monuments, which are protected by Guardians. Because this world can be reset at will, it gives a never-ending supply of materials such as prismarine and sea lanterns, which can only be collected by defeating Guardians and raiding Ocean Monuments.</p>
 
-___
-
-<div style="text-align: center;" markdown="1">
-##Points of Interest
-</div>
-<p>Really the only interest here is the monuments. There are three in the world that can be found by travelling around by boat.</p>
-
-___
-
-<div style="text-align: center;" markdown="1">
-##Warps
-</div>
-<p>There are no warps in Earthsea, not even spawn. The only way to travel here is through its nexus portal.</p>
+<p>This world does not have any warps or other landmarks.</p>
 
 ___
 
 <div style="text-align: center;" markdown="1">
 ##Miscellaneous
 </div>
-<i>To be written...</i>
+<p>This world gets its name from the fantasy series by Ursula K. Le Guin which takes place in a world called Earthsea.</p>
