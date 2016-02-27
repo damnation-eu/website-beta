@@ -78,3 +78,5 @@ ___
 For a fee of 500c and where suitable, at his/her discretion an admin may help you clear or flatten land in/near your Wilderness plot. You may ask for land clearance to a maximum distance of 64 blocks outside around your area.
 
 For a fee of 1000c you can have fall damage off in your private region (may help with those nice builds).
+
+Players can request sub-regions within their region to allow mob spawning if they have a mob spawner from a dungeon or abandoned mineshaft that they wish to turn into a mob farm. These farms still must comply with our spawner rules. We will not make sub regions to allow dark-room or non-spawner mob farms.
