@@ -1,29 +1,29 @@
 ---
 ---
-    <div style="text-align: center;" markdown="1">
-    #HAMMERFELL
-    </div>
+<div style="text-align: center;" markdown="1">
+#HAMMERFELL
+</div>
 
-    ___
+___
 
-    <div style="text-align: center;" markdown="1">
-    ##History
-    </div>
-    <p>Hammerfell was introduced January 2014. It was generated with Minecraft 1.7 terrain. The spawn was built by eldorado39 as part of a building competition.</p>
+<div style="text-align: center;" markdown="1">
+##History
+</div>
+<p>Hammerfell was introduced January 2014. It was generated with Minecraft 1.7 terrain. The spawn was built by eldorado39 as part of a building competition.</p>
 
-    ___
+___
 
-    <div style="text-align: center;" markdown="1">
-    ##Distinguishing Features
-    </div>
-    <p>Hammerfell has great biome diveristy and was tweaked to include large underground caves. Otherwise, it is a mostly normal 1.7 survival world.</p>
+<div style="text-align: center;" markdown="1">
+##Distinguishing Features
+</div>
+<p>Hammerfell has great biome diveristy and was tweaked to include large underground caves. Otherwise, it is a mostly normal 1.7 survival world.</p>
 
-    ___
+___
 
-    <div style="text-align: center;" markdown="1">
-    ##Points of Interest
-    </div>
-    <p><b>Collaborative builds:</b></p>
+<div style="text-align: center;" markdown="1">
+##Points of Interest
+</div>
+<p><b>Collaborative builds:</b></p>
 <ul>
 <li>Brekka, which started out as a small farming community and has grown into quite a large city. Includes many buildings, farms, public mines, and transit system.<br>
 x= -1142, z= -981
