@@ -23,7 +23,7 @@ ___
 <div style="text-align: center;" markdown="1">
 ##Points of Interest
 </div>
-<p><a href="https://www.youtube.com/watch?v=ZKx5WNcmOXQ"><b>World Showcase Video</b></a> by HenrikoMagnifico</p>
+<p><a href="https://www.youtube.com/watch?v=qX_T0C8WU0Y"><b>World Showcase Video</b></a> by HenrikoMagnifico</p>
 
 <p><b>Collaborative builds:</b></p>
 <ul>
