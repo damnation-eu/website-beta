@@ -15,7 +15,9 @@ ___
 ##Wraith
 </div>
 
-<p><a href="{{site.baseurl}}/bio/originalmadman">OriginalMadman</a> - Founder and Owner - Handles the finances and establishes the overall server ethos</p>
+<center><h3><a href="{{site.baseurl}}/bio/originalmadman">OriginalMadman</a></h3>
+<b>Founder and Owner</b>
+<center>Handles the finances and establishes the overall server ethos</center>
 <p><a href="{{site.baseurl}}/bio/faua">Faua</a> - Plumber - Maintains data infrastructure and is called when the metaphorical pipes burst</p>
 <p><a href="{{site.baseurl}}/bio/bunnies1230">bunnies1230</a> - Lead Developer - Configures plugins, codes custom commands, plans server features</p>
 <p><a href="{{site.baseurl}}/bio/madame">Madame</a> - Lead Community Organizer - Plans community events and features</p>
