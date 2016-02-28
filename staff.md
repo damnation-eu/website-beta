@@ -12,13 +12,15 @@ Aside from each staff rank, staff members have positions as well to show their s
 ___
 
 <div style="text-align: center;" markdown="1">
-##Wraiths
+##Wraith
 </div>
 
-<p><a href="{{site.baseurl}}/bio/originalmadman">OriginalMadman</a></p> - Founder and Owner - Handles the finances and establishes the overall server ethos
-<p><a href="{{site.baseurl}}/bio/faua">Faua</a></p> - Plumber - Maintains data infrastructure and is called when the metaphorical pipes burst
-<p><a href="{{site.baseurl}}/bio/bunnies1230">bunnies1230</a></p> - Lead Developer - Configures plugins, codes custom commands, plans server features
-<p><a href="{{site.baseurl}}/bio/madame">Madame</a></p> - Lead Community Organizer - Plans community events and features
+<center><h3><a href="{{site.baseurl}}/bio/originalmadman">OriginalMadman</a></h3>
+<b>Founder and Owner</b>
+<center>Handles the finances and establishes the overall server ethos</center>
+<p><a href="{{site.baseurl}}/bio/faua">Faua</a> - Plumber - Maintains data infrastructure and is called when the metaphorical pipes burst</p>
+<p><a href="{{site.baseurl}}/bio/bunnies1230">bunnies1230</a> - Lead Developer - Configures plugins, codes custom commands, plans server features</p>
+<p><a href="{{site.baseurl}}/bio/madame">Madame</a> - Lead Community Organizer - Plans community events and features</p>
 
 ___
 
@@ -27,7 +29,7 @@ ___
 </div>
 
 <p><a href="{{site.baseurl}}/bio/darthjimmy">darthjimmy</a></p>
-<p><a href="{{site.baseurl}}/bio/fat_leeloo">fat_leeloo</a></p> - Worldbuilder and Groundskeeper - Maintains the server worlds by repoing incomplete eyesores and building impressive new structures
+<p><a href="{{site.baseurl}}/bio/fat_leeloo">fat_leeloo</a> - Worldbuilder and Groundskeeper - Maintains the server worlds by repoing incomplete eyesores and building impressive new structures</p>
 <p><a href="{{site.baseurl}}/bio/teo505">teo505</a></p>
 ___
 
@@ -43,4 +45,4 @@ ___
 ##Former Staff
 </div>
 
-<p><a href="{{site.baseurl}}/bio/svenofuch">Svenofuch</a></p> - Former Djinni
+<p><a href="{{site.baseurl}}/bio/svenofuch">Svenofuch</a> - Former Djinni</p>
