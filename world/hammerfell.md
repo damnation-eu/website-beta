@@ -23,13 +23,15 @@ ___
 <div style="text-align: center;" markdown="1">
 ##Points of Interest
 </div>
+<p><a href="https://www.youtube.com/watch?v=ZKx5WNcmOXQ"><b>World Showcase Video</b></a> by HenrikoMagnifico</p>
+
 <p><b>Collaborative builds:</b></p>
 <ul>
 <li>Brekka, which started out as a small farming community and has grown into quite a large city. Includes many buildings, farms, public mines, and transit system.<br>
 x= -1142, z= -981
 </li>
 </ul>
-<p><b>Invidual builds:</b></p>
+<p><b>Individual builds:</b></p>
 <p>Hammerfell is home to many, many builds and bases. Here are some of the largest/most notable.</p>
 <ul>
 <li>Fort 0dd by Mr_0dd<br>
