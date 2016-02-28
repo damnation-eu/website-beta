@@ -23,6 +23,8 @@ ___
 <div style="text-align: center;" markdown="1">
 ##Points of Interest
 </div>
+<p><a href="https://www.youtube.com/watch?v=ZKx5WNcmOXQ"><b>World Showcase Video</b></a> by HenrikoMagnifico</p>
+
 <p><b>Natural Landmarks</b></p>
 <ul>Glorantha Canyons State Park - This area encompasses a large Bryce Mesa biome in the far south of the world. It has been protected from development with the intention of turning the area into a nature preserve/observation zone.</ul>
 <p><b>Collaborative Builds</b></p>
