@@ -1,7 +1,9 @@
 ---
 ---
 
-# Ranks
+<div style="text-align: center;" markdown="1">
+#Ranks
+</div>
 
 damNation has recently renovated its ranks to expand the variety of ranks accessible to all players. Here are a few notes about how ranks work here!
 
@@ -9,9 +11,11 @@ damNation has recently renovated its ranks to expand the variety of ranks access
 * At any rank, donors will be signified with a [#] tag before their name. Being a donor will not grant you access to any new ranks.
 * **The increase in ranks is not automatic**. Though staff will pay attention to those who may be on the borderline, asking staff a friendly "I am eligible for another rank?" every so often is **perfectly acceptable**! You may even get a new rank out of it.
 * Perks that were previously reserved for donors or other ranks have now been recalculated to be progression-based upgrades (like having more homes per world or /upp) or have been added to a player rank as a one-off perk (using TNT or World Edit). These perks are listed with each member rank below!
-
-## Staff
-Unlike some servers, becoming staff on damNation should never be an expectation, but rather a privilege that comes with many responsibilities and high levels of trust. Our entirely volunteer staff work long and hard to keep damnNation the best it can be so all can enjoy its community and features. However, you can do your part by error-reporting and giving other feedback that help us make sure we are running the kind of server we can all enjoy. If you'd like to know more about our staff members, talk to them in game or visit their Staff Biography Pages.
+___
+<div style="text-align: center;" markdown="1">
+##Staff
+</div>
+Unlike some servers, becoming staff on damNation should never be an expectation, but rather a privilege that comes with many responsibilities and high levels of trust. Our entirely volunteer staff work long and hard to keep damnNation the best it can be so all can enjoy its community and features. However, you can do your part by error-reporting and giving other feedback that help us make sure we are running the kind of server we can all enjoy. If you'd like to know more about our staff members, talk to them in game or read more about them on their biographies our <a href="{{site.baseurl}}/staff">Staff page</a>.
 
 ### <span style="color: #7f0000;">Wraith
 <span style="color: #7f0000;">**Dark Red**</span> - Owner/Lead Administrator. These staff members handle a great deal of the backend of server maintenance in addition to the in-game duties of Djinni.
@@ -24,7 +28,9 @@ Unlike some servers, becoming staff on damNation should never be an expectation,
 
 ___
 
-## Members
+<div style="text-align: center;" markdown="1">
+##Members
+</div>
 
 
 ### <span style="color: #e5c100;">Grim
@@ -94,7 +100,9 @@ ___
 
 ___
 
-## Non Members
+<div style="text-align: center;" markdown="1">
+##Non Members
+</div>
 
 ### Jackalope
 <span style="color: #4c4c4c;">**Dark Gray**</span> - Regular Tourist. Repeat customers who are not approved members may be promoted to this rank. This rank adds no new permissions and only acts to distinguish those who are regular tourists. 
