@@ -38,7 +38,7 @@ This server is intended for mature players with more than half-a-brain and we ex
 
 - **Rule 9** - Redstone contraptions must not impinge on server performance.
 
-- **Rule 10** - If your conduct results in receiving instructions from a staff member (dark red, red, and pink names), always obey.
+- **Rule 10** - If your conduct results in receiving instructions from a staff member (dark red, red, and pink names), always obey. In addition, if a staff member is already handling a tourist, whether to answer questions or handle misbehaviour, leave it to the staff. If no staff member is around or active, feel free to answer their questions - we really appreciate it!
 
 - **Rule 11** - No chat spam or flooding, no caps spam, no commercials for other servers or any commercial services. No excessive swearing and no swearing at other players.
 
