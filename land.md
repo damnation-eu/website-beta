@@ -38,7 +38,7 @@ The minimum area you can protect is 100x100, and the maximum is whatever you can
 
 The default cost is 0.3c per square block (rounded up) that goes to the state, plus 100c for the admin doing the work. You may expand areas later, simply paying for the area of the addition plus 100c to the admin. <b>All land purchases and alterations come with the 100c admin fee.</b>
 
-<p>**Example:** 100x100 will cost 3000+100 = 3100c</p>
+<p><b>Example:</b> 100x100 will cost 3000+100 = 3100c</p>
 
 At the time of making the area, you may elect to turn off monsters and what (if any) greeting message you want. If you want these changed at a later date, it can also be done at an administrative fee of 100c.
 
@@ -46,10 +46,10 @@ At the time of making the area, you may elect to turn off monsters and what (if 
 ###City Zoned Plots
 </div>
 
-You may request an increase for your spawn city plot but it will need to be approved by an admin. Depending on the location of nearby plots, we reserve the right to deny expansion requests. The default cost to extend a plot in any direction is 2.0c per square block. 
+You may request an increase for your spawn city plot but it will need to be approved by an admin. Depending on the location of nearby plots, we reserve the right to deny expansion requests. The default cost to expand out in x/z directions is 2.0c per square block. For vertical expansions, we charge 50c per y value, with a maximum increase of 20 on the y axis.
 
-<p>**Example:** Raising the height of a 20x20 plot by 20 blocks will cost 2*(20*20) = 800c + 100c fee</p>
-<p>**Example:** Expanding a 20x20 plot by 1 block East and West will cost 2*(2*(1*20)) = 80c + 100c fee</p>
+<p><b>Example:</b> Raising the height of a plot by 20 blocks will cost 20*50 = 1000c + 100c fee</p>
+<p><b>Example:</b> Expanding a 20x20 plot by 1 block East and West will cost 2*(2*(1*20)) = 80c + 100c fee</p>
 ___
 
 <div style="text-align: center;" markdown="1">
