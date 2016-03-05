@@ -26,12 +26,12 @@ Aside from each staff rank, staff members have positions as well to show their s
 <center>Configures plugins, codes custom commands, plans server features</center>
 <br/>
 <center><h3><a href="{{site.baseurl}}/bio/madame">Madame</a></h3>
-<b>Lead Community Organizer</b>
-<center>Plans community events and features</center>
+<b>Server Scapegoat (And Useless Ninny)</b>
+<center>Plans community events and is generally up to no good</center>
 <br/>
 <hr>
 <center><h3><a href="{{site.baseurl}}/bio/darthjimmy">darthjimmy</a></h3>
-<b>TBD</b>
+<b>R&D Monkey</b>
 <center>TBD</center>
 <br/>
 <center><h3><a href="{{site.baseurl}}/bio/fat_leeloo">fat_leeloo</a></h3>
@@ -39,7 +39,7 @@ Aside from each staff rank, staff members have positions as well to show their s
 <center>Maintains the server worlds by repoing incomplete eyesores and building impressive new structures</center>
 <br/>
 <center><h3><a href="{{site.baseurl}}/bio/teo505">teo505</a></h3>
-<b>TBD</b>
+<b>Skeleton</b>
 <center>TBD</center>
 <br/>
 <hr>
