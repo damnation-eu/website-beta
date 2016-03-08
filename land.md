@@ -79,4 +79,6 @@ For a fee of 500c and where suitable, at his/her discretion an admin may help yo
 
 For a fee of 1000c you can have fall damage off in your private region (may help with those nice builds).
 
+For <b>FREE</b>, you can request an admin to turn placed huge mushroom blocks into <a href="http://minecraft.gamepedia.com/Mushroom_(block)#Block_data">any data value of huge mushroom block</a>. It doesn't matter if the block is from a red or brown huge mushroom - they can be turned into either. World Edit is the only way to obtain blocks other than the ones with the cap on all sides, so this is a free service since the player supplies the blocks.
+
 Players can request sub-regions within their region to allow mob spawning if they have a mob spawner from a dungeon or abandoned mineshaft that they wish to turn into a mob farm. These farms still must comply with our spawner rules. We will not make sub regions to allow dark-room or non-spawner mob farms. For each request, we charge a 100c admin fee.
