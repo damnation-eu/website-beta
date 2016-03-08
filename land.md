@@ -65,6 +65,7 @@ We enforce a loose building code in accordance with [Rule 7]({{site.baseurl}}/ru
 
 ___
 
+<a name="commands"></a>
 <div style="text-align: center;" markdown="1">
 ##Commands
 </div>
@@ -72,6 +73,7 @@ See the [WorldGuard Guide]({{site.baseurl}}/worldguard-guide) for more informati
 
 ___
 
+<a name="landscaping"></a>
 <div style="text-align: center;" markdown="1">
 ##Landscaping and Other Services
 </div>
