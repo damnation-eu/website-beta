@@ -17,10 +17,6 @@
     <td class="tg-jogk"><i>No More Information</i></td>
     <td class="tg-yw4l">Eliminates the lag from large world edit sessions.</td>
   </tr>
-
-<div style="text-align: center;" markdown="1">
-##Bottle o' Enchanting
-</div>
-<center><img src="http://damnation.eu/wiki/images/0/0d/Rc_expbottle.jpg"></center>
+</table>
 
 <hr>
