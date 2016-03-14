@@ -5,15 +5,28 @@
 </div>
 damNation features a handful of useful recipes for items that are otherwise uncraftable or provides a use for otherwise useless items. NOTE: I will be consolidating the ones with additional crafting recipes into a revolving GIF.
 <hr>
-
+<center>
 <img src="{{site.baseurl}}/media/recipes_bottleoenchanting.png">
+<img src="{{site.baseurl}}/media/recipes_coarsedirt.png">
 <img src="{{site.baseurl}}/media/recipes_cobweb.png">
 <img src="{{site.baseurl}}/media/recipes_chainboots.png">
 <img src="{{site.baseurl}}/media/recipes_chainchestplate.png">
 <img src="{{site.baseurl}}/media/recipes_chainhelmet.png">
 <img src="{{site.baseurl}}/media/recipes_chainleggings.png">
-
-
+<img src="{{site.baseurl}}/media/recipes_grass.png">
+<img src="{{site.baseurl}}/media/recipes_horsearmor.gif">
+<img src="{{site.baseurl}}/media/recipes_ice.png">
+<img src="{{site.baseurl}}/media/recipes_leather.png">
+<img src="{{site.baseurl}}/media/recipes_mossycobblestone.png">
+<img src="{{site.baseurl}}/media/recipes_nametag.png">
+<img src="{{site.baseurl}}/media/recipes_packedice.png">
+<img src="{{site.baseurl}}/media/recipes_podzol.png">
+<img src="{{site.baseurl}}/media/recipes_saddle.png">
+<img src="{{site.baseurl}}/media/recipes_stonebrickchiseled.png">
+<img src="{{site.baseurl}}/media/recipes_stonebrickcracked.png">
+<img src="{{site.baseurl}}/media/recipes_stonebrickmossy.png">
+<img src="{{site.baseurl}}/media/recipes_tnt.png">
+</center>
 <table width="100%">
   <tr>
     <th width="33%"></th>
