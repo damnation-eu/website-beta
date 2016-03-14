@@ -7,6 +7,11 @@ damNation features a handful of useful recipes for items that are otherwise uncr
 <hr>
 
 <img src="{{site.baseurl}}/media/recipes_bottleoenchanting.png">
+<img src="{{site.baseurl}}/media/recipes_cobweb.png">
+<img src="{{site.baseurl}}/media/recipes_chainboots.png">
+<img src="{{site.baseurl}}/media/recipes_chainchestplate.png">
+<img src="{{site.baseurl}}/media/recipes_chainhelmet.png">
+<img src="{{site.baseurl}}/media/recipes_chainleggings.png">
 
 
 <table width="100%">
