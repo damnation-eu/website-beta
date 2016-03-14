@@ -13,9 +13,9 @@
     <th width="33%"></th>
   </tr>
   <tr>
-    <td class="tg-9hbo"><center>##Bottle o' Enchanting<br/><img src="http://damnation.eu/wiki/images/0/0d/Rc_expbottle.jpg"></center></td>
-    <td class="tg-jogk"><i>No More Information</i></td>
-    <td class="tg-yw4l">Eliminates the lag from large world edit sessions.</td>
+    <td><center>##Bottle o' Enchanting<br/><img src="http://damnation.eu/wiki/images/0/0d/Rc_expbottle.jpg"></center></td>
+    <td><center>##Cobwebs<br/><img src="http://damnation.eu/wiki/images/8/83/Rc_cobweb.png"></center></td>
+    <td><center>##Grass<br/><img src="http://damnation.eu/wiki/images/c/c6/Rc_grass.png"></center></td>
   </tr>
 </table>
 
