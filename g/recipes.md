@@ -3,7 +3,7 @@
 <div style="text-align: center;" markdown="1">
 #Custom Server Recipes
 </div>
-damNation features a handful of useful recipes for items that are otherwise uncraftable or provides a use for otherwise useless items. NOTE: I will be consolidating the ones with additional crafting recipes into a revolving GIF.
+damNation features a handful of useful crafting and smelting recipes for items that are otherwise uncraftable or provides a use for otherwise useless items. If the recipe makes multiple of an item, that number is indicated next to its name!
 <hr>
 <div style="text-align: center;" markdown="1">
 ##Crafting Recipes
