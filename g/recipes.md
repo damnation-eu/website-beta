@@ -6,6 +6,9 @@
 damNation features a handful of useful recipes for items that are otherwise uncraftable or provides a use for otherwise useless items. NOTE: I will be consolidating the ones with additional crafting recipes into a revolving GIF.
 <hr>
 
+<img src="{{site.baseurl}}/media/recipes_bottleoenchanting.png">
+
+
 <table width="100%">
   <tr>
     <th width="33%"></th>
