@@ -13,7 +13,7 @@
     <th width="33%"></th>
   </tr>
   <tr>
-    <td class="tg-9hbo"><div style="text-align: center;" markdown="1">##Bottle o' Enchanting</div><br/><img src="http://damnation.eu/wiki/images/0/0d/Rc_expbottle.jpg"></td>
+    <td class="tg-9hbo"><center>##Bottle o' Enchanting<br/><img src="http://damnation.eu/wiki/images/0/0d/Rc_expbottle.jpg"></center></td>
     <td class="tg-jogk"><i>No More Information</i></td>
     <td class="tg-yw4l">Eliminates the lag from large world edit sessions.</td>
   </tr>
