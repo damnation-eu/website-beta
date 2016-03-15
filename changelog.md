@@ -12,6 +12,16 @@ ___
 
 <a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=159036774"><img class="changelog" style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2016_January.jpg" /></a>
 <a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit?usp=sharing#gid=1223541652"><img class="changelog" style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2016_February.jpg" /></a>
+<a href="https://docs.google.com/spreadsheets/d/10KEP6huoIN767tKY6uikXNoUYw2gwgbFl26b-TNojXA/edit#gid=354413133"><img class="changelog" style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2016_March.jpg" /></a>
+<a href=""><img class="changelog" style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2016_April.jpg" /></a>
+<a href=""><img class="changelog" style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2016_May.jpg" /></a>
+<a href=""><img class="changelog" style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2016_June.jpg" /></a>
+<a href=""><img class="changelog" style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2016_July.jpg" /></a>
+<a href=""><img class="changelog" style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2016_August.jpg" /></a>
+<a href=""><img class="changelog" style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2016_September.jpg" /></a>
+<a href=""><img class="changelog" style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2016_October.jpg" /></a>
+<a href=""><img class="changelog" style="float: left; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2016_November.jpg" /></a>
+<a href=""><img class="changelog" style="float: right; max-width:464px; width: 50%;" src="{{site.baseurl}}/media/2016_December.jpg" /></a>
 
 ___
 
