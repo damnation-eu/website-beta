@@ -1,3 +1,5 @@
+--
+--
 We had a problem with a php trojan, using us as a relay.
 
 Due to this we have disabled php entirely for now, until we have the time to figure out how we got infected by the trojan in the first place.
