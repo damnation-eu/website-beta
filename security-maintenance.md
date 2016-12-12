@@ -8,4 +8,6 @@ You should probably change your password since we cannot guarantee that the atta
 
 We're sorry if this have caused you major trouble.
 
-If you need to contact us you can email me at faua@damnation.eu
+The minecraft server itself is running like normal.
+
+If you need to contact us you can email me at faua@damnation.eu.
