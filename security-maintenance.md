@@ -12,7 +12,7 @@ If you need to contact us you can email me at faua@damnation.eu.
 
 Dear Damnationers,
 
-Due to recent months inactivity, and the significant cost of renting server hardware (and not nearly enough donations to cover) - I have decided to finally end the service contract after over 5 years (!) of operation on the 31/1.
+Due to recent months inactivity, and the significant cost of renting server hardware (and not nearly enough donations to cover) - I have decided to finally end the service contract after over 5 years (!) of operation on the 31/1 2017.
 
 What exactly will happen to the server itself is not entirely decided. But the most probable thing is that we finally lay it to rest since nobody is really playing anyway.
 
@@ -21,11 +21,8 @@ We're considering to share more or do another solution (possibly a home server),
 
 Damnation and the community will live on as you make it, please feel free to join these places as well:
 https://www.reddit.com/r/DamNation/
-
 https://steamcommunity.com/groups/damNationEU
-
 https://www.facebook.com/groups/damnationMC/
-
 https://discord.gg/ZFSWEbs
 
 
