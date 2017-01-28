@@ -21,8 +21,11 @@ We're considering to share more or do another solution (possibly a home server),
 
 Damnation and the community will live on as you make it, please feel free to join these places as well:
 https://www.reddit.com/r/DamNation/
+
 https://steamcommunity.com/groups/damNationEU
+
 https://www.facebook.com/groups/damnationMC/
+
 https://discord.gg/ZFSWEbs
 
 
